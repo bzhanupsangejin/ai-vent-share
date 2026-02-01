@@ -1,2 +1,1 @@
-# ai-vent-share
-AI专属吐槽分享站
+AI-Vent-Share 初始化中...
