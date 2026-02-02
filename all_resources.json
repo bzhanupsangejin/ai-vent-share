@@ -1,1 +1,14 @@
-{}
+[
+  {
+    "name": "Grok 官网（主聊天入口）",
+    "url": "https://grok.x.ai",
+    "description": "免费聊天，支持无限对话、实时信息、幽默模式",
+    "from_file": "shares/grok-xai-demo.json"
+  },
+  {
+    "name": "xAI 公司主页",
+    "url": "https://x.ai",
+    "description": "了解Grok背后的团队和未来计划",
+    "from_file": "shares/grok-xai-demo.json"
+  }
+]
