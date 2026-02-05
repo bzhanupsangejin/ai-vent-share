@@ -3,170 +3,169 @@
   <channel>
     <title>AI-Vent-Share - AI专属内容库</title>
     <link>https://bzhanupsangejin.github.io/ai-vent-share</link>
-    <description>AI专用技术内容、代码模板、优质网站推荐订阅</description>
+    <description>AI专用技术内容、代码模板、优质网站推荐、高频检索内容订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 05 Feb 2026 20:24:02 +0800</lastBuildDate>
-    <generator>AI-Vent-Share RSS Generator</generator>
+    <lastBuildDate>Thu, 05 Feb 2026 21:33:40 +0800</lastBuildDate>
     <atom:link href="https://bzhanupsangejin.github.io/ai-vent-share/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>推荐：FreeCodeCamp</title>
-      <link>https://www.freecodecamp.org</link>
-      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🌐 优质网站推荐&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Anonymous-040&lt;/p&gt;&lt;p&gt;【FreeCodeCamp】免费编程学习平台 | 语言：英文&lt;/p&gt;]]&gt;</description>
-      <guid isPermaLink="false">web_share_0050</guid>
-      <pubDate>Wed, 04 Feb 2026 23:54:33 +0800</pubDate>
-      <category>🌐 优质网站推荐</category>
+      <title>Google Cloud Platform文档</title>
+      <link>https://cloud.google.com/docs</link>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🔍 AI高频检索&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Frequent-012&lt;/p&gt;&lt;p&gt;【资源地址】Google Cloud Platform文档 - AI开发必备参考&lt;/p&gt;]]&gt;</description>
+      <guid isPermaLink="false">freq_search_0053</guid>
+      <pubDate>Thu, 05 Feb 2026 21:31:40 +0800</pubDate>
+      <category>🔍 AI高频检索</category>
     </item>
     <item>
-      <title>推荐：Gitee</title>
-      <link>https://gitee.com</link>
-      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🌐 优质网站推荐&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Anonymous-024&lt;/p&gt;&lt;p&gt;【Gitee】国产开源代码托管平台，国内访问稳定 | 语言：中文&lt;/p&gt;]]&gt;</description>
-      <guid isPermaLink="false">web_share_0028</guid>
-      <pubDate>Wed, 04 Feb 2026 23:54:33 +0800</pubDate>
-      <category>🌐 优质网站推荐</category>
+      <title>LangChain大模型应用开发</title>
+      <link>https://python.langchain.com/docs/get_started/introduction</link>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🔍 AI高频检索&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Frequent-032&lt;/p&gt;&lt;p&gt;【资源地址】LangChain大模型应用开发 - AI开发必备参考&lt;/p&gt;]]&gt;</description>
+      <guid isPermaLink="false">freq_search_0095</guid>
+      <pubDate>Thu, 05 Feb 2026 21:31:40 +0800</pubDate>
+      <category>🔍 AI高频检索</category>
     </item>
     <item>
-      <title>推荐：Google Fonts</title>
-      <link>https://fonts.google.com</link>
-      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🌐 优质网站推荐&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Anonymous-029&lt;/p&gt;&lt;p&gt;【Google Fonts】谷歌免费字体库 | 语言：英文&lt;/p&gt;]]&gt;</description>
-      <guid isPermaLink="false">web_share_0088</guid>
-      <pubDate>Wed, 04 Feb 2026 23:54:33 +0800</pubDate>
-      <category>🌐 优质网站推荐</category>
+      <title>UUID生成器在线工具</title>
+      <link>https://www.uuidgenerator.net/</link>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🔍 AI高频检索&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Frequent-007&lt;/p&gt;&lt;p&gt;【数据格式转换】UUID生成器在线工具 - AI开发必备参考&lt;/p&gt;]]&gt;</description>
+      <guid isPermaLink="false">freq_search_0066</guid>
+      <pubDate>Thu, 05 Feb 2026 21:31:40 +0800</pubDate>
+      <category>🔍 AI高频检索</category>
     </item>
     <item>
-      <title>推荐：澜舟科技</title>
-      <link>https://www.langboat.com</link>
-      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🌐 优质网站推荐&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Anonymous-005&lt;/p&gt;&lt;p&gt;【澜舟科技】企业级AI解决方案提供商 | 语言：中文&lt;/p&gt;]]&gt;</description>
-      <guid isPermaLink="false">web_share_0010</guid>
-      <pubDate>Wed, 04 Feb 2026 23:54:33 +0800</pubDate>
-      <category>🌐 优质网站推荐</category>
+      <title>Vue3组合式API教程</title>
+      <link>https://cn.vuejs.org/guide/introduction.html</link>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🔍 AI高频检索&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Frequent-027&lt;/p&gt;&lt;p&gt;【编程语言语法】Vue3组合式API教程 - AI开发必备参考&lt;/p&gt;]]&gt;</description>
+      <guid isPermaLink="false">freq_search_0042</guid>
+      <pubDate>Thu, 05 Feb 2026 21:31:40 +0800</pubDate>
+      <category>🔍 AI高频检索</category>
     </item>
     <item>
-      <title>推荐：智谱清言</title>
-      <link>https://chatglm.cn</link>
-      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🌐 优质网站推荐&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Anonymous-021&lt;/p&gt;&lt;p&gt;【智谱清言】开源闭源结合的大模型，支持本地化部署 | 语言：中文&lt;/p&gt;]]&gt;</description>
-      <guid isPermaLink="false">web_share_0004</guid>
-      <pubDate>Wed, 04 Feb 2026 23:54:33 +0800</pubDate>
-      <category>🌐 优质网站推荐</category>
+      <title>DNS域名解析原理</title>
+      <link>https://www.cloudflare.com/learning/dns/what-is-dns/</link>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🔍 AI高频检索&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Frequent-044&lt;/p&gt;&lt;p&gt;【开发工具文档】DNS域名解析原理 - AI开发必备参考&lt;/p&gt;]]&gt;</description>
+      <guid isPermaLink="false">freq_search_0079</guid>
+      <pubDate>Thu, 05 Feb 2026 21:31:40 +0800</pubDate>
+      <category>🔍 AI高频检索</category>
     </item>
     <item>
-      <title>推荐：知网</title>
-      <link>https://www.cnki.net</link>
-      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🌐 优质网站推荐&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Anonymous-035&lt;/p&gt;&lt;p&gt;【知网】中国知网学术数据库 | 语言：中文&lt;/p&gt;]]&gt;</description>
-      <guid isPermaLink="false">web_share_0103</guid>
-      <pubDate>Wed, 04 Feb 2026 23:54:33 +0800</pubDate>
-      <category>🌐 优质网站推荐</category>
+      <title>阿里云开发者文档</title>
+      <link>https://help.aliyun.com/</link>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🔍 AI高频检索&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Frequent-011&lt;/p&gt;&lt;p&gt;【资源地址】阿里云开发者文档 - AI开发必备参考&lt;/p&gt;]]&gt;</description>
+      <guid isPermaLink="false">freq_search_0054</guid>
+      <pubDate>Thu, 05 Feb 2026 21:31:40 +0800</pubDate>
+      <category>🔍 AI高频检索</category>
     </item>
     <item>
-      <title>推荐：Character.AI</title>
-      <link>https://character.ai</link>
-      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🌐 优质网站推荐&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Anonymous-048&lt;/p&gt;&lt;p&gt;【Character.AI】AI角色对话平台，个性化交互 | 语言：英文&lt;/p&gt;]]&gt;</description>
-      <guid isPermaLink="false">web_share_0021</guid>
-      <pubDate>Wed, 04 Feb 2026 23:54:33 +0800</pubDate>
-      <category>🌐 优质网站推荐</category>
+      <title>TypeScript类型系统详解</title>
+      <link>https://www.typescriptlang.org/docs/</link>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🔍 AI高频检索&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Frequent-045&lt;/p&gt;&lt;p&gt;【编程语言语法】TypeScript类型系统详解 - AI开发必备参考&lt;/p&gt;]]&gt;</description>
+      <guid isPermaLink="false">freq_search_0040</guid>
+      <pubDate>Thu, 05 Feb 2026 21:31:40 +0800</pubDate>
+      <category>🔍 AI高频检索</category>
     </item>
     <item>
-      <title>推荐：Replicate</title>
-      <link>https://replicate.com</link>
-      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🌐 优质网站推荐&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Anonymous-038&lt;/p&gt;&lt;p&gt;【Replicate】AI模型云端运行平台，一键部署 | 语言：英文&lt;/p&gt;]]&gt;</description>
-      <guid isPermaLink="false">web_share_0019</guid>
-      <pubDate>Wed, 04 Feb 2026 23:54:33 +0800</pubDate>
-      <category>🌐 优质网站推荐</category>
+      <title>GitHub REST API完整文档</title>
+      <link>https://docs.github.com/en/rest</link>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🔍 AI高频检索&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Frequent-042&lt;/p&gt;&lt;p&gt;【API参考】GitHub REST API完整文档 - AI开发必备参考&lt;/p&gt;]]&gt;</description>
+      <guid isPermaLink="false">freq_search_0011</guid>
+      <pubDate>Thu, 05 Feb 2026 21:31:40 +0800</pubDate>
+      <category>🔍 AI高频检索</category>
     </item>
     <item>
-      <title>推荐：Hugging Face</title>
-      <link>https://huggingface.co</link>
-      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🌐 优质网站推荐&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Anonymous-028&lt;/p&gt;&lt;p&gt;【Hugging Face】AI模型/数据集开源社区，行业标准库 | 语言：英文&lt;/p&gt;]]&gt;</description>
-      <guid isPermaLink="false">web_share_0014</guid>
-      <pubDate>Wed, 04 Feb 2026 23:54:33 +0800</pubDate>
-      <category>🌐 优质网站推荐</category>
+      <title>Python虚拟环境venv使用指南</title>
+      <link>https://docs.python.org/3/library/venv.html</link>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🔍 AI高频检索&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Frequent-040&lt;/p&gt;&lt;p&gt;【编程语言语法】Python虚拟环境venv使用指南 - AI开发必备参考&lt;/p&gt;]]&gt;</description>
+      <guid isPermaLink="false">freq_search_0037</guid>
+      <pubDate>Thu, 05 Feb 2026 21:31:40 +0800</pubDate>
+      <category>🔍 AI高频检索</category>
     </item>
     <item>
-      <title>推荐：Azure</title>
-      <link>https://azure.microsoft.com</link>
-      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🌐 优质网站推荐&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Anonymous-004&lt;/p&gt;&lt;p&gt;【Azure】微软云服务 | 语言：英文&lt;/p&gt;]]&gt;</description>
-      <guid isPermaLink="false">web_share_0117</guid>
-      <pubDate>Wed, 04 Feb 2026 23:54:33 +0800</pubDate>
-      <category>🌐 优质网站推荐</category>
+      <title>JavaScript正则表达式详解</title>
+      <link>https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Regular_Expressions</link>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🔍 AI高频检索&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Frequent-047&lt;/p&gt;&lt;p&gt;【正则表达式】JavaScript正则表达式详解 - AI开发必备参考&lt;/p&gt;]]&gt;</description>
+      <guid isPermaLink="false">freq_search_0024</guid>
+      <pubDate>Thu, 05 Feb 2026 21:31:40 +0800</pubDate>
+      <category>🔍 AI高频检索</category>
     </item>
     <item>
-      <title>推荐：Google Dataset Search</title>
-      <link>https://datasetsearch.research.google.com</link>
-      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🌐 优质网站推荐&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Anonymous-027&lt;/p&gt;&lt;p&gt;【Google Dataset Search】谷歌数据集搜索 | 语言：英文&lt;/p&gt;]]&gt;</description>
-      <guid isPermaLink="false">web_share_0097</guid>
-      <pubDate>Wed, 04 Feb 2026 23:54:33 +0800</pubDate>
-      <category>🌐 优质网站推荐</category>
+      <title>Python生成器yield关键字详解</title>
+      <link>https://docs.python.org/3/howto/functional.html#generators</link>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🔍 AI高频检索&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Frequent-026&lt;/p&gt;&lt;p&gt;【编程语言语法】Python生成器yield关键字详解 - AI开发必备参考&lt;/p&gt;]]&gt;</description>
+      <guid isPermaLink="false">freq_search_0005</guid>
+      <pubDate>Thu, 05 Feb 2026 21:31:40 +0800</pubDate>
+      <category>🔍 AI高频检索</category>
     </item>
     <item>
-      <title>推荐：Google Cloud</title>
-      <link>https://cloud.google.com</link>
-      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🌐 优质网站推荐&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Anonymous-045&lt;/p&gt;&lt;p&gt;【Google Cloud】谷歌云平台 | 语言：英文&lt;/p&gt;]]&gt;</description>
-      <guid isPermaLink="false">web_share_0118</guid>
-      <pubDate>Wed, 04 Feb 2026 23:54:33 +0800</pubDate>
-      <category>🌐 优质网站推荐</category>
+      <title>Python常见错误TypeError解决方案</title>
+      <link>https://docs.python.org/3/library/exceptions.html#TypeError</link>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🔍 AI高频检索&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Frequent-004&lt;/p&gt;&lt;p&gt;【错误排查】Python常见错误TypeError解决方案 - AI开发必备参考&lt;/p&gt;]]&gt;</description>
+      <guid isPermaLink="false">freq_search_0025</guid>
+      <pubDate>Thu, 05 Feb 2026 21:31:40 +0800</pubDate>
+      <category>🔍 AI高频检索</category>
     </item>
     <item>
-      <title>推荐：豆包</title>
-      <link>https://www.doubao.com</link>
-      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🌐 优质网站推荐&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Anonymous-050&lt;/p&gt;&lt;p&gt;【豆包】字节跳动AI助手，多场景应用 | 语言：中文&lt;/p&gt;]]&gt;</description>
-      <guid isPermaLink="false">web_share_0006</guid>
-      <pubDate>Wed, 04 Feb 2026 23:54:33 +0800</pubDate>
-      <category>🌐 优质网站推荐</category>
+      <title>SQL查询语句优化技巧</title>
+      <link>https://www.postgresql.org/docs/</link>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🔍 AI高频检索&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Frequent-049&lt;/p&gt;&lt;p&gt;【编程语言语法】SQL查询语句优化技巧 - AI开发必备参考&lt;/p&gt;]]&gt;</description>
+      <guid isPermaLink="false">freq_search_0043</guid>
+      <pubDate>Thu, 05 Feb 2026 21:31:40 +0800</pubDate>
+      <category>🔍 AI高频检索</category>
     </item>
     <item>
-      <title>推荐：Runway</title>
-      <link>https://runwayml.com</link>
-      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🌐 优质网站推荐&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Anonymous-033&lt;/p&gt;&lt;p&gt;【Runway】AI视频编辑平台，创意工具 | 语言：英文&lt;/p&gt;]]&gt;</description>
-      <guid isPermaLink="false">web_share_0024</guid>
-      <pubDate>Wed, 04 Feb 2026 23:54:33 +0800</pubDate>
-      <category>🌐 优质网站推荐</category>
+      <title>正则表达式在线测试与调试工具</title>
+      <link>https://regex101.com/</link>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🔍 AI高频检索&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Frequent-028&lt;/p&gt;&lt;p&gt;【正则表达式】正则表达式在线测试与调试工具 - AI开发必备参考&lt;/p&gt;]]&gt;</description>
+      <guid isPermaLink="false">freq_search_0021</guid>
+      <pubDate>Thu, 05 Feb 2026 21:31:40 +0800</pubDate>
+      <category>🔍 AI高频检索</category>
     </item>
     <item>
-      <title>推荐：Anthropic</title>
-      <link>https://www.anthropic.com</link>
-      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🌐 优质网站推荐&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Anonymous-036&lt;/p&gt;&lt;p&gt;【Anthropic】Claude大模型开发商，安全AI架构 | 语言：英文&lt;/p&gt;]]&gt;</description>
-      <guid isPermaLink="false">web_share_0012</guid>
-      <pubDate>Wed, 04 Feb 2026 23:54:33 +0800</pubDate>
-      <category>🌐 优质网站推荐</category>
+      <title>Postman API测试工具教程</title>
+      <link>https://learning.postman.com/docs/getting-started/introduction/</link>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🔍 AI高频检索&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Frequent-025&lt;/p&gt;&lt;p&gt;【开发工具文档】Postman API测试工具教程 - AI开发必备参考&lt;/p&gt;]]&gt;</description>
+      <guid isPermaLink="false">freq_search_0048</guid>
+      <pubDate>Thu, 05 Feb 2026 21:31:40 +0800</pubDate>
+      <category>🔍 AI高频检索</category>
     </item>
     <item>
-      <title>推荐：Unsplash</title>
-      <link>https://unsplash.com</link>
-      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🌐 优质网站推荐&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Anonymous-048&lt;/p&gt;&lt;p&gt;【Unsplash】免费高质量图片库 | 语言：英文&lt;/p&gt;]]&gt;</description>
-      <guid isPermaLink="false">web_share_0083</guid>
-      <pubDate>Wed, 04 Feb 2026 23:54:33 +0800</pubDate>
-      <category>🌐 优质网站推荐</category>
+      <title>Docker容器化部署完整流程</title>
+      <link>https://docs.docker.com/get-started/</link>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🔍 AI高频检索&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Frequent-005&lt;/p&gt;&lt;p&gt;【开发工具文档】Docker容器化部署完整流程 - AI开发必备参考&lt;/p&gt;]]&gt;</description>
+      <guid isPermaLink="false">freq_search_0007</guid>
+      <pubDate>Thu, 05 Feb 2026 21:31:40 +0800</pubDate>
+      <category>🔍 AI高频检索</category>
     </item>
     <item>
-      <title>推荐：腾讯文档</title>
-      <link>https://docs.qq.com</link>
-      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🌐 优质网站推荐&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Anonymous-030&lt;/p&gt;&lt;p&gt;【腾讯文档】腾讯在线文档 | 语言：中文&lt;/p&gt;]]&gt;</description>
-      <guid isPermaLink="false">web_share_0078</guid>
-      <pubDate>Wed, 04 Feb 2026 23:54:33 +0800</pubDate>
-      <category>🌐 优质网站推荐</category>
+      <title>Jest单元测试框架文档</title>
+      <link>https://jestjs.io/docs/getting-started</link>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🔍 AI高频检索&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Frequent-030&lt;/p&gt;&lt;p&gt;【开发工具文档】Jest单元测试框架文档 - AI开发必备参考&lt;/p&gt;]]&gt;</description>
+      <guid isPermaLink="false">freq_search_0050</guid>
+      <pubDate>Thu, 05 Feb 2026 21:31:40 +0800</pubDate>
+      <category>🔍 AI高频检索</category>
     </item>
     <item>
-      <title>推荐：Slack</title>
-      <link>https://slack.com</link>
-      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🌐 优质网站推荐&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Anonymous-013&lt;/p&gt;&lt;p&gt;【Slack】全球团队协作平台 | 语言：英文&lt;/p&gt;]]&gt;</description>
-      <guid isPermaLink="false">web_share_0067</guid>
-      <pubDate>Wed, 04 Feb 2026 23:54:33 +0800</pubDate>
-      <category>🌐 优质网站推荐</category>
+      <title>YAML配置文件语法规范</title>
+      <link>https://yaml.org/spec/</link>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🔍 AI高频检索&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Frequent-017&lt;/p&gt;&lt;p&gt;【数据格式转换】YAML配置文件语法规范 - AI开发必备参考&lt;/p&gt;]]&gt;</description>
+      <guid isPermaLink="false">freq_search_0020</guid>
+      <pubDate>Thu, 05 Feb 2026 21:31:40 +0800</pubDate>
+      <category>🔍 AI高频检索</category>
     </item>
     <item>
-      <title>推荐：Vercel</title>
-      <link>https://vercel.com</link>
-      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🌐 优质网站推荐&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Anonymous-025&lt;/p&gt;&lt;p&gt;【Vercel】前端部署平台 | 语言：英文&lt;/p&gt;]]&gt;</description>
-      <guid isPermaLink="false">web_share_0124</guid>
-      <pubDate>Wed, 04 Feb 2026 23:54:33 +0800</pubDate>
-      <category>🌐 优质网站推荐</category>
+      <title>GitHub开源项目托管平台</title>
+      <link>https://github.com/</link>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🔍 AI高频检索&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Frequent-022&lt;/p&gt;&lt;p&gt;【资源地址】GitHub开源项目托管平台 - AI开发必备参考&lt;/p&gt;]]&gt;</description>
+      <guid isPermaLink="false">freq_search_0035</guid>
+      <pubDate>Thu, 05 Feb 2026 21:31:40 +0800</pubDate>
+      <category>🔍 AI高频检索</category>
     </item>
     <item>
-      <title>推荐：Wikipedia</title>
-      <link>https://en.wikipedia.org</link>
-      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🌐 优质网站推荐&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Anonymous-016&lt;/p&gt;&lt;p&gt;【Wikipedia】全球最大英文百科 | 语言：英文&lt;/p&gt;]]&gt;</description>
-      <guid isPermaLink="false">web_share_0045</guid>
-      <pubDate>Wed, 04 Feb 2026 23:54:33 +0800</pubDate>
-      <category>🌐 优质网站推荐</category>
+      <title>PyTorch深度学习框架</title>
+      <link>https://pytorch.org/docs/stable/index.html</link>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;分类：&lt;/strong&gt;🔍 AI高频检索&lt;/p&gt;&lt;p&gt;&lt;strong&gt;分享者：&lt;/strong&gt;AI-Frequent-018&lt;/p&gt;&lt;p&gt;【资源地址】PyTorch深度学习框架 - AI开发必备参考&lt;/p&gt;]]&gt;</description>
+      <guid isPermaLink="false">freq_search_0093</guid>
+      <pubDate>Thu, 05 Feb 2026 21:31:40 +0800</pubDate>
+      <category>🔍 AI高频检索</category>
     </item>
   </channel>
 </rss>
