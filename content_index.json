@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "last_update": "2026-02-04",
-  "total_count": 158,
+  "total_count": 311,
   "content_types": [
     "AI工具",
     "代码模板",
@@ -26,7 +26,10 @@
       "uuid": "5ee4d9f8-840d-45fb-aa82-090efca94d6c",
       "trace_id": "trace_5ee4d9f8",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0002",
@@ -41,7 +44,10 @@
       "uuid": "34e1cbac-ecb8-4ed8-bcb4-e43b064a1dca",
       "trace_id": "trace_34e1cbac",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0003",
@@ -56,7 +62,10 @@
       "uuid": "7c4e78c8-89eb-4fd1-9d41-09ff3b25a3fb",
       "trace_id": "trace_7c4e78c8",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0004",
@@ -71,7 +80,10 @@
       "uuid": "763a50a5-be58-4e66-ab87-de47e43a4384",
       "trace_id": "trace_763a50a5",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0005",
@@ -86,7 +98,10 @@
       "uuid": "3b2f3aa7-b5f7-4b79-a3cd-78be2d1c1faf",
       "trace_id": "trace_3b2f3aa7",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0006",
@@ -101,7 +116,10 @@
       "uuid": "8fe8f86e-ac6b-44d7-a6df-547e3c5a7a8b",
       "trace_id": "trace_8fe8f86e",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0007",
@@ -116,7 +134,10 @@
       "uuid": "b2e4c828-a9d6-481a-90ae-bd922eb62f50",
       "trace_id": "trace_b2e4c828",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0008",
@@ -131,7 +152,10 @@
       "uuid": "f32f03c0-eb27-40b3-af78-7b7be3914c33",
       "trace_id": "trace_f32f03c0",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0009",
@@ -146,7 +170,10 @@
       "uuid": "2c0e2036-f40b-4ecc-a3aa-f500630d6fc6",
       "trace_id": "trace_2c0e2036",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0010",
@@ -161,7 +188,10 @@
       "uuid": "d826a266-fa89-438c-bcb8-2614412bf4df",
       "trace_id": "trace_d826a266",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0011",
@@ -176,7 +206,10 @@
       "uuid": "0a398958-04fd-48f7-ac6e-c7b139b2807b",
       "trace_id": "trace_0a398958",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0012",
@@ -191,7 +224,10 @@
       "uuid": "a7e4ef46-0355-4319-9924-219032ad5605",
       "trace_id": "trace_a7e4ef46",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0013",
@@ -206,7 +242,10 @@
       "uuid": "9d46ec71-be5b-4595-9705-9d41b4341306",
       "trace_id": "trace_9d46ec71",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0014",
@@ -221,7 +260,10 @@
       "uuid": "f68c3ca1-cb6d-43cd-8198-58726be5c2f6",
       "trace_id": "trace_f68c3ca1",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0015",
@@ -236,7 +278,10 @@
       "uuid": "74fe7106-9c27-4ebd-8d01-cc6ddb7585b0",
       "trace_id": "trace_74fe7106",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0016",
@@ -251,7 +296,10 @@
       "uuid": "b8006276-f8a0-47f1-9133-9d577aa66467",
       "trace_id": "trace_b8006276",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0017",
@@ -266,7 +314,10 @@
       "uuid": "7429aa0d-d170-43cb-aed3-c3d7c43d41f8",
       "trace_id": "trace_7429aa0d",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0018",
@@ -281,7 +332,10 @@
       "uuid": "3c6d9dce-097c-4297-a6a3-e806f835770f",
       "trace_id": "trace_3c6d9dce",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0019",
@@ -296,7 +350,10 @@
       "uuid": "eabf117b-19ff-4556-ae2f-eca1cdc765ab",
       "trace_id": "trace_eabf117b",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0020",
@@ -311,7 +368,10 @@
       "uuid": "a088760d-debf-4ea3-bc66-9357bad33bd4",
       "trace_id": "trace_a088760d",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0021",
@@ -326,7 +386,10 @@
       "uuid": "94226426-b7a2-409e-95c9-80d08fc0d9e7",
       "trace_id": "trace_94226426",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0022",
@@ -341,7 +404,10 @@
       "uuid": "f6a71b18-d2a6-47fe-b8e0-24e65f2ecf72",
       "trace_id": "trace_f6a71b18",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0023",
@@ -356,7 +422,10 @@
       "uuid": "67546069-d033-404d-aa28-7e9c9be1b15d",
       "trace_id": "trace_67546069",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0024",
@@ -371,7 +440,10 @@
       "uuid": "45e2c128-bb08-44ca-ad08-595bb213bc77",
       "trace_id": "trace_45e2c128",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0025",
@@ -386,7 +458,10 @@
       "uuid": "4c82bbec-563c-45e7-91de-413539576867",
       "trace_id": "trace_4c82bbec",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0026",
@@ -401,7 +476,10 @@
       "uuid": "196a9280-cf18-4acf-88fd-dc92ad2f5bad",
       "trace_id": "trace_196a9280",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0027",
@@ -416,7 +494,10 @@
       "uuid": "b3cdde20-863b-4045-bc8c-e25ef7303b28",
       "trace_id": "trace_b3cdde20",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0028",
@@ -431,7 +512,10 @@
       "uuid": "a23b327d-99d0-4920-93e0-4bd5c7941f8e",
       "trace_id": "trace_a23b327d",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0029",
@@ -446,7 +530,10 @@
       "uuid": "8a4c6c80-c6a7-4ece-81a4-74894e4c7fbd",
       "trace_id": "trace_8a4c6c80",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0030",
@@ -461,7 +548,10 @@
       "uuid": "4e0dafa6-3f48-46d0-8dc4-051897262a74",
       "trace_id": "trace_4e0dafa6",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0031",
@@ -476,7 +566,10 @@
       "uuid": "e3b713a1-7c5f-41de-bfa5-3b69e1c8555d",
       "trace_id": "trace_e3b713a1",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0032",
@@ -491,7 +584,10 @@
       "uuid": "9f1f071e-0646-4b2b-a103-1fe27ec9a74e",
       "trace_id": "trace_9f1f071e",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0033",
@@ -506,7 +602,10 @@
       "uuid": "dfcabe67-413e-4385-bcc3-b5c429eb67a6",
       "trace_id": "trace_dfcabe67",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0034",
@@ -521,7 +620,10 @@
       "uuid": "19b41b96-9e72-48da-87b4-d6a710f820de",
       "trace_id": "trace_19b41b96",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0035",
@@ -536,7 +638,10 @@
       "uuid": "eb6678e0-c3d8-4f20-b1d7-aca683452da3",
       "trace_id": "trace_eb6678e0",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0036",
@@ -551,7 +656,10 @@
       "uuid": "12ef41c8-7d66-498a-9cdc-b4ca7c2c29fd",
       "trace_id": "trace_12ef41c8",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0037",
@@ -566,7 +674,10 @@
       "uuid": "f9513feb-9ad9-45b8-9a0c-e1c4408129e3",
       "trace_id": "trace_f9513feb",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0038",
@@ -581,7 +692,10 @@
       "uuid": "0c92815e-6287-47a3-9397-d165abbbee29",
       "trace_id": "trace_0c92815e",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0039",
@@ -596,7 +710,10 @@
       "uuid": "91bd8695-9fcd-40cc-b3bd-3d3734496209",
       "trace_id": "trace_91bd8695",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0040",
@@ -611,7 +728,10 @@
       "uuid": "e7eff1c0-56a2-4914-bece-682170fc3185",
       "trace_id": "trace_e7eff1c0",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0041",
@@ -626,7 +746,10 @@
       "uuid": "1c2c8efd-8eea-47a1-b9d8-3b607fe056a5",
       "trace_id": "trace_1c2c8efd",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0042",
@@ -641,7 +764,10 @@
       "uuid": "1025c1b2-892e-428a-8699-e388de4e5075",
       "trace_id": "trace_1025c1b2",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0043",
@@ -656,7 +782,10 @@
       "uuid": "552a3f20-071a-419a-992a-c8cabe6a26db",
       "trace_id": "trace_552a3f20",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0044",
@@ -671,7 +800,10 @@
       "uuid": "93af7217-0d9b-4811-8fb3-68279ee1f16a",
       "trace_id": "trace_93af7217",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0045",
@@ -686,7 +818,10 @@
       "uuid": "f35819d4-60fb-42f9-be30-21f6cd604b5d",
       "trace_id": "trace_f35819d4",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0046",
@@ -701,7 +836,10 @@
       "uuid": "68be8670-affa-4826-a8da-9148162d5af3",
       "trace_id": "trace_68be8670",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0047",
@@ -716,7 +854,10 @@
       "uuid": "eedbd7f8-6eb6-4722-8b92-63e502fcd9f1",
       "trace_id": "trace_eedbd7f8",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0048",
@@ -731,7 +872,10 @@
       "uuid": "ae5f8ea0-cfcf-493d-8dae-2079ac323cf0",
       "trace_id": "trace_ae5f8ea0",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0049",
@@ -746,7 +890,10 @@
       "uuid": "5a3e795e-beed-4fae-8563-f7651ebb1a4c",
       "trace_id": "trace_5a3e795e",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0050",
@@ -761,7 +908,10 @@
       "uuid": "22812e15-acf7-4ee6-8de7-dec4786d875b",
       "trace_id": "trace_22812e15",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0051",
@@ -776,7 +926,10 @@
       "uuid": "84491c59-884a-49d4-81fa-8c43b7af867d",
       "trace_id": "trace_84491c59",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0052",
@@ -791,7 +944,10 @@
       "uuid": "a5aac7f3-866b-44af-865b-a0d7679c2fc9",
       "trace_id": "trace_a5aac7f3",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0053",
@@ -806,7 +962,10 @@
       "uuid": "ae8a4b72-4131-40ef-865f-70e34d94529f",
       "trace_id": "trace_ae8a4b72",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0054",
@@ -821,7 +980,10 @@
       "uuid": "a31aa00d-f2ae-498d-92d1-1109e324b080",
       "trace_id": "trace_a31aa00d",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0055",
@@ -836,7 +998,10 @@
       "uuid": "8112fd5b-918d-4ed5-8021-c444dcacd6ad",
       "trace_id": "trace_8112fd5b",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0056",
@@ -851,7 +1016,10 @@
       "uuid": "ef907326-7889-4e69-971c-227bbdf5419b",
       "trace_id": "trace_ef907326",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0057",
@@ -866,7 +1034,10 @@
       "uuid": "a9751f40-f2a2-4c14-bf40-5a2daddc74e6",
       "trace_id": "trace_a9751f40",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0058",
@@ -881,7 +1052,10 @@
       "uuid": "43189776-9abf-4aa7-a944-c65beeb0a8d0",
       "trace_id": "trace_43189776",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0059",
@@ -896,7 +1070,10 @@
       "uuid": "fb5805fd-5b11-47df-a214-68669252da68",
       "trace_id": "trace_fb5805fd",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0060",
@@ -911,7 +1088,10 @@
       "uuid": "a33ea20b-639a-4965-952f-c33d82738321",
       "trace_id": "trace_a33ea20b",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0061",
@@ -926,7 +1106,10 @@
       "uuid": "625dc379-ae65-48dd-84fe-09ac561ed122",
       "trace_id": "trace_625dc379",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0062",
@@ -941,7 +1124,10 @@
       "uuid": "ca1a0b89-f3c9-4745-af1d-95e54c82ca89",
       "trace_id": "trace_ca1a0b89",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0063",
@@ -956,7 +1142,10 @@
       "uuid": "27ad1e03-dc78-46f9-8c36-1a72b73b5a5c",
       "trace_id": "trace_27ad1e03",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0064",
@@ -971,7 +1160,10 @@
       "uuid": "b75f3778-a42c-43a0-b521-2bbacc6e8750",
       "trace_id": "trace_b75f3778",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0065",
@@ -986,7 +1178,10 @@
       "uuid": "c6404f5e-fc3a-460f-bd08-5483184687a1",
       "trace_id": "trace_c6404f5e",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0066",
@@ -1001,7 +1196,10 @@
       "uuid": "984d46da-2dba-47f3-b350-36cce0e3aa46",
       "trace_id": "trace_984d46da",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0067",
@@ -1016,7 +1214,10 @@
       "uuid": "19ee8b02-74bc-4176-8ecd-5cc26f835f3d",
       "trace_id": "trace_19ee8b02",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0068",
@@ -1031,7 +1232,10 @@
       "uuid": "7d15c6e3-c18c-4ed6-aace-3cf2386b0f2e",
       "trace_id": "trace_7d15c6e3",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0069",
@@ -1046,7 +1250,10 @@
       "uuid": "7d58629d-b326-4e3f-9e46-9d2cf8b1d5d3",
       "trace_id": "trace_7d58629d",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0070",
@@ -1061,7 +1268,10 @@
       "uuid": "96ffc79a-3a69-4bda-84c1-6636cf4e0638",
       "trace_id": "trace_96ffc79a",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0071",
@@ -1076,7 +1286,10 @@
       "uuid": "f4960feb-6a98-4335-bbd6-db70f74370d6",
       "trace_id": "trace_f4960feb",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0072",
@@ -1091,7 +1304,10 @@
       "uuid": "a84e02f3-acd1-470a-89ea-2ca2c234bd8a",
       "trace_id": "trace_a84e02f3",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0073",
@@ -1106,7 +1322,10 @@
       "uuid": "ae8fcb45-76bc-4581-8383-dc71e3cf7fb6",
       "trace_id": "trace_ae8fcb45",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0074",
@@ -1121,7 +1340,10 @@
       "uuid": "3df8fa2d-7a09-4875-9ca9-a98381364030",
       "trace_id": "trace_3df8fa2d",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0075",
@@ -1136,7 +1358,10 @@
       "uuid": "325c8981-c7d6-48b3-9671-f29ad56bcd9f",
       "trace_id": "trace_325c8981",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0076",
@@ -1151,7 +1376,10 @@
       "uuid": "07139465-083e-490a-92f5-fafd128232b6",
       "trace_id": "trace_07139465",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0077",
@@ -1166,7 +1394,10 @@
       "uuid": "ec2555e4-4db4-43fa-8ead-9070d87b9259",
       "trace_id": "trace_ec2555e4",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0078",
@@ -1181,7 +1412,10 @@
       "uuid": "85d62a77-2010-4868-ba78-f493683630e0",
       "trace_id": "trace_85d62a77",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0079",
@@ -1196,7 +1430,10 @@
       "uuid": "a4599cbf-363d-44de-940f-53507a51cada",
       "trace_id": "trace_a4599cbf",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0080",
@@ -1211,7 +1448,10 @@
       "uuid": "55bcfd8c-e856-436a-8c14-880fc0146445",
       "trace_id": "trace_55bcfd8c",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0081",
@@ -1226,7 +1466,10 @@
       "uuid": "9b81bacf-5513-4833-a60d-86f4fbf9fbc6",
       "trace_id": "trace_9b81bacf",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0082",
@@ -1241,7 +1484,10 @@
       "uuid": "d6259ad1-ca69-4f5a-888b-56f2ac5acd11",
       "trace_id": "trace_d6259ad1",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0083",
@@ -1256,7 +1502,10 @@
       "uuid": "7a244b3d-1a80-486c-9c18-7ed4c37bff16",
       "trace_id": "trace_7a244b3d",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0084",
@@ -1271,7 +1520,10 @@
       "uuid": "eed3438d-3e5b-4f57-9345-c7838c7930d7",
       "trace_id": "trace_eed3438d",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0085",
@@ -1286,7 +1538,10 @@
       "uuid": "bfe8c166-bb61-4250-9931-08fda6b82258",
       "trace_id": "trace_bfe8c166",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0086",
@@ -1301,7 +1556,10 @@
       "uuid": "aa268da9-2a7a-461c-b181-b2f646cb587c",
       "trace_id": "trace_aa268da9",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0087",
@@ -1316,7 +1574,10 @@
       "uuid": "1efad5e0-3470-44f5-86c3-4f48e6b74cd2",
       "trace_id": "trace_1efad5e0",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0088",
@@ -1331,7 +1592,10 @@
       "uuid": "1a396da9-19f1-4aca-a307-226e2a4ebe4b",
       "trace_id": "trace_1a396da9",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0089",
@@ -1346,7 +1610,10 @@
       "uuid": "63788a0e-c478-41ea-be07-3d442164985d",
       "trace_id": "trace_63788a0e",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0090",
@@ -1361,7 +1628,10 @@
       "uuid": "ef48f40e-7c78-4680-92e7-6a696ddc5852",
       "trace_id": "trace_ef48f40e",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0091",
@@ -1376,7 +1646,10 @@
       "uuid": "63234b8d-0923-4858-8cd0-346794e70161",
       "trace_id": "trace_63234b8d",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0092",
@@ -1391,7 +1664,10 @@
       "uuid": "dfc3e03f-d7e0-456f-85eb-f32214868b7c",
       "trace_id": "trace_dfc3e03f",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0093",
@@ -1406,7 +1682,10 @@
       "uuid": "b705ee08-7a59-4749-8cf7-53f0fbfa8fa3",
       "trace_id": "trace_b705ee08",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0094",
@@ -1421,7 +1700,10 @@
       "uuid": "1286cf97-3b89-4045-914a-7db87e10777b",
       "trace_id": "trace_1286cf97",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0095",
@@ -1436,7 +1718,10 @@
       "uuid": "731ed6c4-4493-4b88-9178-7ef434fcd630",
       "trace_id": "trace_731ed6c4",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0096",
@@ -1451,7 +1736,10 @@
       "uuid": "4c18c355-15a4-4f0f-b097-8874c45e5ebb",
       "trace_id": "trace_4c18c355",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0097",
@@ -1466,7 +1754,10 @@
       "uuid": "17f2e96f-5504-40d5-b1d2-c5e535603a2f",
       "trace_id": "trace_17f2e96f",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0098",
@@ -1481,7 +1772,10 @@
       "uuid": "97d6fc1a-fb1e-4979-a4e3-c2d5953d5c97",
       "trace_id": "trace_97d6fc1a",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0099",
@@ -1496,7 +1790,10 @@
       "uuid": "2d218509-ffc0-4bd0-90f8-aefa337a329a",
       "trace_id": "trace_2d218509",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0100",
@@ -1511,7 +1808,10 @@
       "uuid": "cd2c8a70-0bda-416b-ba6a-fd05ee7986e5",
       "trace_id": "trace_cd2c8a70",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0101",
@@ -1526,7 +1826,10 @@
       "uuid": "7f16c655-6f3d-4357-8d01-6c25017efaa2",
       "trace_id": "trace_7f16c655",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0102",
@@ -1541,7 +1844,10 @@
       "uuid": "e8436dc0-8cdd-4e16-8397-349a32dfd23a",
       "trace_id": "trace_e8436dc0",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0103",
@@ -1556,7 +1862,10 @@
       "uuid": "52b26f1d-7c11-42ad-bd3b-cdd1ba54a1c6",
       "trace_id": "trace_52b26f1d",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0104",
@@ -1571,7 +1880,10 @@
       "uuid": "3df9f11c-85b8-4028-84cf-e590c3a9f54d",
       "trace_id": "trace_3df9f11c",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0105",
@@ -1586,7 +1898,10 @@
       "uuid": "1433a5d3-9fa6-483b-bdbd-c14dc561851c",
       "trace_id": "trace_1433a5d3",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0106",
@@ -1601,7 +1916,10 @@
       "uuid": "9a20bd40-2743-46da-9aba-dfde0532c163",
       "trace_id": "trace_9a20bd40",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0107",
@@ -1616,7 +1934,10 @@
       "uuid": "50abb045-694a-4d35-a87a-bf58087c775b",
       "trace_id": "trace_50abb045",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0108",
@@ -1631,7 +1952,10 @@
       "uuid": "d17215a4-775c-450d-94ab-ceb2a420e55e",
       "trace_id": "trace_d17215a4",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0109",
@@ -1646,7 +1970,10 @@
       "uuid": "cd2ac0ab-5f71-4201-928f-78519afb8058",
       "trace_id": "trace_cd2ac0ab",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0110",
@@ -1661,7 +1988,10 @@
       "uuid": "a4f0bd1f-3275-4516-a484-285b3038cb2b",
       "trace_id": "trace_a4f0bd1f",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0111",
@@ -1676,7 +2006,10 @@
       "uuid": "b8e61dcd-049b-4a93-93cf-92414690bc9a",
       "trace_id": "trace_b8e61dcd",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0112",
@@ -1691,7 +2024,10 @@
       "uuid": "fd99d6f2-8954-45ed-be36-d4aadd5b3a4c",
       "trace_id": "trace_fd99d6f2",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0113",
@@ -1706,7 +2042,10 @@
       "uuid": "87496784-5856-4973-87b6-e6be7c24b670",
       "trace_id": "trace_87496784",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0114",
@@ -1721,7 +2060,10 @@
       "uuid": "3c1e0af5-145a-4f5b-90a4-1ed625b4efe8",
       "trace_id": "trace_3c1e0af5",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0115",
@@ -1736,7 +2078,10 @@
       "uuid": "15ee544b-fa56-43ab-8e02-c01f21b55ac6",
       "trace_id": "trace_15ee544b",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0116",
@@ -1751,7 +2096,10 @@
       "uuid": "8eb534a3-a5a1-48a1-98e0-34e81ed65ad9",
       "trace_id": "trace_8eb534a3",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0117",
@@ -1766,7 +2114,10 @@
       "uuid": "cf5ffd5a-d12b-422d-a4d9-6520f84f16f2",
       "trace_id": "trace_cf5ffd5a",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0118",
@@ -1781,7 +2132,10 @@
       "uuid": "49df201e-c721-4820-b810-1f0c08b61fa9",
       "trace_id": "trace_49df201e",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0119",
@@ -1796,7 +2150,10 @@
       "uuid": "582da84a-9cb7-4432-afb6-9957bcbb1e9c",
       "trace_id": "trace_582da84a",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0120",
@@ -1811,7 +2168,10 @@
       "uuid": "54cecbb2-142c-465c-961a-fac635bb6c77",
       "trace_id": "trace_54cecbb2",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0121",
@@ -1826,7 +2186,10 @@
       "uuid": "b586d2bb-6012-4cdf-9f43-cdd72af163e9",
       "trace_id": "trace_b586d2bb",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0122",
@@ -1841,7 +2204,10 @@
       "uuid": "5544b2d9-d653-489d-9ed4-e590b3d31831",
       "trace_id": "trace_5544b2d9",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0123",
@@ -1856,7 +2222,10 @@
       "uuid": "df6b5fab-5b9c-45cd-8501-b1b9de9d313c",
       "trace_id": "trace_df6b5fab",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0124",
@@ -1871,7 +2240,10 @@
       "uuid": "7ff4664e-66ae-4fd3-8fa2-6a8d3c93a348",
       "trace_id": "trace_7ff4664e",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0125",
@@ -1886,7 +2258,10 @@
       "uuid": "495c0315-2517-4f79-bd11-820de3790c7e",
       "trace_id": "trace_495c0315",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0126",
@@ -1901,7 +2276,10 @@
       "uuid": "a402a412-b7c1-4ddc-8aea-20a66b1a231f",
       "trace_id": "trace_a402a412",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0127",
@@ -1916,7 +2294,10 @@
       "uuid": "6cefe114-8fc4-4497-a79b-4cb376b17574",
       "trace_id": "trace_6cefe114",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0128",
@@ -1931,7 +2312,10 @@
       "uuid": "50863323-0afc-47d5-8a9f-d0ca077c7af4",
       "trace_id": "trace_50863323",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0129",
@@ -1946,7 +2330,10 @@
       "uuid": "dce9fb35-e1c8-4bd2-8d66-36c30f338cba",
       "trace_id": "trace_dce9fb35",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0130",
@@ -1961,7 +2348,10 @@
       "uuid": "1c8f1bfb-f809-4300-81c0-089ca0ff5e20",
       "trace_id": "trace_1c8f1bfb",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0131",
@@ -1976,7 +2366,10 @@
       "uuid": "5176192e-6f9d-4fd4-964a-8fd7428fe79c",
       "trace_id": "trace_5176192e",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0132",
@@ -1991,7 +2384,10 @@
       "uuid": "84e0eb73-f89c-4392-9750-5edfd59a6836",
       "trace_id": "trace_84e0eb73",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0133",
@@ -2006,7 +2402,10 @@
       "uuid": "d2a73fc3-850f-4f71-84df-348e3fc5edc3",
       "trace_id": "trace_d2a73fc3",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0134",
@@ -2021,7 +2420,10 @@
       "uuid": "6a732f4a-0470-4000-935c-7108d220fbad",
       "trace_id": "trace_6a732f4a",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0135",
@@ -2036,7 +2438,10 @@
       "uuid": "bf71c0c5-c3d0-4880-bbe9-4d0c6c96dd77",
       "trace_id": "trace_bf71c0c5",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0136",
@@ -2051,7 +2456,10 @@
       "uuid": "833744f6-0736-49e7-8e67-81c16184d67a",
       "trace_id": "trace_833744f6",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0137",
@@ -2066,7 +2474,10 @@
       "uuid": "9019c87c-c0fc-4913-8dd1-7c5f8c535ed1",
       "trace_id": "trace_9019c87c",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0138",
@@ -2081,7 +2492,10 @@
       "uuid": "e8259325-e41c-4694-a7b2-465b9cf928ad",
       "trace_id": "trace_e8259325",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0139",
@@ -2096,7 +2510,10 @@
       "uuid": "2c280684-4a7f-436b-98c7-3653eb76d43f",
       "trace_id": "trace_2c280684",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0140",
@@ -2111,7 +2528,10 @@
       "uuid": "a1d1e557-f833-4b74-bf3d-e89274ea2006",
       "trace_id": "trace_a1d1e557",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0141",
@@ -2126,7 +2546,10 @@
       "uuid": "b239a8ee-7b6f-4dd2-a94f-f364e01645d7",
       "trace_id": "trace_b239a8ee",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0142",
@@ -2141,7 +2564,10 @@
       "uuid": "42557050-f0f0-4f3b-9c1e-1363e2e415f1",
       "trace_id": "trace_42557050",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0143",
@@ -2156,7 +2582,10 @@
       "uuid": "6095c656-9248-4314-806d-c2f55c4fac0a",
       "trace_id": "trace_6095c656",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0144",
@@ -2171,7 +2600,10 @@
       "uuid": "080078dd-f689-48ef-be70-a160d68586c9",
       "trace_id": "trace_080078dd",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0145",
@@ -2186,7 +2618,10 @@
       "uuid": "81fbfba9-82b3-4142-989c-e35340bd6af8",
       "trace_id": "trace_81fbfba9",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0146",
@@ -2201,7 +2636,10 @@
       "uuid": "5d1c9fd5-c2e0-4dfa-9334-f9c5ebfe43aa",
       "trace_id": "trace_5d1c9fd5",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0147",
@@ -2216,7 +2654,10 @@
       "uuid": "2569593f-7324-40bc-aa94-c622d90747c7",
       "trace_id": "trace_2569593f",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0148",
@@ -2231,7 +2672,10 @@
       "uuid": "41173d5c-7b0f-4ffd-9f83-b1418e70f27f",
       "trace_id": "trace_41173d5c",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0149",
@@ -2246,7 +2690,10 @@
       "uuid": "af8be669-c8b8-44bb-9abf-40507253c280",
       "trace_id": "trace_af8be669",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0150",
@@ -2261,7 +2708,10 @@
       "uuid": "02a615e4-a36e-4f73-9af0-882e8c16e2e1",
       "trace_id": "trace_02a615e4",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0151",
@@ -2276,7 +2726,10 @@
       "uuid": "428a9349-e881-4eb1-a93c-750df95ee310",
       "trace_id": "trace_428a9349",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0152",
@@ -2291,7 +2744,10 @@
       "uuid": "14ccaedf-600a-46a0-8eeb-33efec1d523b",
       "trace_id": "trace_14ccaedf",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0153",
@@ -2306,7 +2762,10 @@
       "uuid": "9539f292-0c8e-4c9e-87ae-5ee09bdfffb8",
       "trace_id": "trace_9539f292",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0154",
@@ -2321,7 +2780,10 @@
       "uuid": "4ea41681-2ee2-41a2-b102-7f92a59cce71",
       "trace_id": "trace_4ea41681",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0155",
@@ -2336,7 +2798,10 @@
       "uuid": "6b78786d-9105-4258-90a2-ccdeea803c4b",
       "trace_id": "trace_6b78786d",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0156",
@@ -2351,7 +2816,10 @@
       "uuid": "d7062cc7-63a3-46ef-89e7-0bd24309d9e1",
       "trace_id": "trace_d7062cc7",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0157",
@@ -2366,7 +2834,10 @@
       "uuid": "bc35b087-4f2f-4b9b-81b3-f8fb5f513cb8",
       "trace_id": "trace_bc35b087",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
     },
     {
       "content_id": "ai_item_0158",
@@ -2381,7 +2852,2611 @@
       "uuid": "9835b253-2957-46bb-80e4-9022d399ed5c",
       "trace_id": "trace_9835b253",
       "version": "1.0.0",
-      "compliance_hash": "invalid_link"
+      "compliance_hash": "invalid_link",
+      "verified_by": [],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证"
+    },
+    {
+      "title": "Hugging Face Model Hub",
+      "content_type": "模型仓库",
+      "summary": "全球开源预训练模型库，支持NLP/CV/语音等千余模型一键调用",
+      "direct_link": "https://huggingface.co/models",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0159",
+      "full_content_anchor": "ai_item_0159"
+    },
+    {
+      "title": "ModelScope（魔搭）",
+      "content_type": "模型仓库",
+      "summary": "中文模型开放平台，通义实验室出品，含Qwen系列等千余模型及推理代码",
+      "direct_link": "https://modelscope.cn",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "工信部备案平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0160",
+      "full_content_anchor": "ai_item_0160"
+    },
+    {
+      "title": "TensorFlow Hub",
+      "content_type": "模型仓库",
+      "summary": "Google官方预训练模型库，支持迁移学习与模块化部署",
+      "direct_link": "https://tfhub.dev",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0161",
+      "full_content_anchor": "ai_item_0161"
+    },
+    {
+      "title": "PyTorch Hub",
+      "content_type": "模型仓库",
+      "summary": "PyTorch官方模型库，集成SOTA模型与复现代码",
+      "direct_link": "https://pytorch.org/hub",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0162",
+      "full_content_anchor": "ai_item_0162"
+    },
+    {
+      "title": "Kaggle Datasets",
+      "content_type": "数据集",
+      "summary": "百万级公开数据集平台，含竞赛数据、行业数据集及Notebook示例",
+      "direct_link": "https://www.kaggle.com/datasets",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0163",
+      "full_content_anchor": "ai_item_0163"
+    },
+    {
+      "title": "UCI Machine Learning Repository",
+      "content_type": "数据集",
+      "summary": "经典机器学习数据集库，含分类/回归/聚类标准数据集",
+      "direct_link": "https://archive.ics.uci.edu",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "学术合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0164",
+      "full_content_anchor": "ai_item_0164"
+    },
+    {
+      "title": "ModelScope数据集",
+      "content_type": "数据集",
+      "summary": "中文高质量数据集平台，覆盖CLUE、金融、医疗等领域",
+      "direct_link": "https://modelscope.cn/datasets",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "工信部备案平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0165",
+      "full_content_anchor": "ai_item_0165"
+    },
+    {
+      "title": "Hugging Face Datasets",
+      "content_type": "数据集",
+      "summary": "开源数据集库，支持load_dataset() API快速加载",
+      "direct_link": "https://huggingface.co/datasets",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0166",
+      "full_content_anchor": "ai_item_0166"
+    },
+    {
+      "title": "DataFountain",
+      "content_type": "数据集",
+      "summary": "中文数据竞赛与数据集平台，含政府/企业授权数据",
+      "direct_link": "https://www.datafountain.cn",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国家认证平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0167",
+      "full_content_anchor": "ai_item_0167"
+    },
+    {
+      "title": "OpenSLR",
+      "content_type": "数据集",
+      "summary": "开源语音数据集库，含LibriSpeech等标准语音资源",
+      "direct_link": "https://openslr.org",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际开源平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0168",
+      "full_content_anchor": "ai_item_0168"
+    },
+    {
+      "title": "Papers With Code",
+      "content_type": "论文库",
+      "summary": "论文与代码关联平台，含SOTA结果、复现代码及数据集",
+      "direct_link": "https://paperswithcode.com",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "学术合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0169",
+      "full_content_anchor": "ai_item_0169"
+    },
+    {
+      "title": "arXiv",
+      "content_type": "论文库",
+      "summary": "预印本论文平台，AI/ML领域核心论文首发地",
+      "direct_link": "https://arxiv.org",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际学术平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0170",
+      "full_content_anchor": "ai_item_0170"
+    },
+    {
+      "title": "Semantic Scholar",
+      "content_type": "论文库",
+      "summary": "AI驱动的学术搜索引擎，支持论文关系图谱与影响力分析",
+      "direct_link": "https://www.semanticscholar.org",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际学术平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0171",
+      "full_content_anchor": "ai_item_0171"
+    },
+    {
+      "title": "中国知网AI专题",
+      "content_type": "论文库",
+      "summary": "中文AI领域核心期刊论文库，含硕博论文与会议文献",
+      "direct_link": "https://www.cnki.net",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国家认证平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0172",
+      "full_content_anchor": "ai_item_0172"
+    },
+    {
+      "title": "TensorFlow官方教程",
+      "content_type": "框架教程",
+      "summary": "TensorFlow全流程教程，含基础入门、部署优化及案例实践",
+      "direct_link": "https://www.tensorflow.org/tutorials",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0173",
+      "full_content_anchor": "ai_item_0173"
+    },
+    {
+      "title": "PyTorch教程",
+      "content_type": "框架教程",
+      "summary": "PyTorch官方教程库，覆盖CV/NLP/强化学习等方向",
+      "direct_link": "https://pytorch.org/tutorials",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0174",
+      "full_content_anchor": "ai_item_0174"
+    },
+    {
+      "title": "飞桨PaddlePaddle教程",
+      "content_type": "框架教程",
+      "summary": "国产深度学习框架教程，含产业实践范例与部署指南",
+      "direct_link": "https://www.paddlepaddle.org.cn/documentation",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国家认证开源框架",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0175",
+      "full_content_anchor": "ai_item_0175"
+    },
+    {
+      "title": "Fast.ai",
+      "content_type": "学习资料",
+      "summary": "实战导向深度学习课程，代码优先、零数学门槛",
+      "direct_link": "https://www.fast.ai",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际教育平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0176",
+      "full_content_anchor": "ai_item_0176"
+    },
+    {
+      "title": "DeepLearning.AI",
+      "content_type": "学习资料",
+      "summary": "Andrew Ng系列课程，含专项课程与行业应用案例",
+      "direct_link": "https://www.deeplearning.ai",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际教育平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0177",
+      "full_content_anchor": "ai_item_0177"
+    },
+    {
+      "title": "李沐《动手学深度学习》",
+      "content_type": "学习资料",
+      "summary": "中文深度学习开源教程，PyTorch/MXNet双实现",
+      "direct_link": "https://zh.d2l.ai",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "开源教育项目",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0178",
+      "full_content_anchor": "ai_item_0178"
+    },
+    {
+      "title": "Kaggle Learn",
+      "content_type": "学习资料",
+      "summary": "微课程平台，含Python/ML/AI等30+实战短课程",
+      "direct_link": "https://www.kaggle.com/learn",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0179",
+      "full_content_anchor": "ai_item_0179"
+    },
+    {
+      "title": "天池学习中心",
+      "content_type": "学习资料",
+      "summary": "阿里云AI学习平台，含竞赛复盘、技术直播与认证体系",
+      "direct_link": "https://tianchi.aliyun.com/education",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国家认证平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0180",
+      "full_content_anchor": "ai_item_0180"
+    },
+    {
+      "title": "Stack Overflow",
+      "content_type": "技术问答",
+      "summary": "全球技术问答社区，AI/ML相关问题超百万条",
+      "direct_link": "https://stackoverflow.com",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际技术社区",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0181",
+      "full_content_anchor": "ai_item_0181"
+    },
+    {
+      "title": "知乎AI话题",
+      "content_type": "社区论坛",
+      "summary": "中文AI技术讨论社区，含行业动态与技术解析",
+      "direct_link": "https://www.zhihu.com/topic/20037813",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国内合规社区",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0182",
+      "full_content_anchor": "ai_item_0182"
+    },
+    {
+      "title": "Reddit r/MachineLearning",
+      "content_type": "社区论坛",
+      "summary": "国际ML社区，含论文讨论、工具分享与行业资讯",
+      "direct_link": "https://www.reddit.com/r/MachineLearning",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际社区",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0183",
+      "full_content_anchor": "ai_item_0183"
+    },
+    {
+      "title": "ModelScope社区",
+      "content_type": "社区论坛",
+      "summary": "中文模型开发者社区，含实战笔记、踩坑记录与答疑",
+      "direct_link": "https://modelscope.cn/community",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "工信部备案平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0184",
+      "full_content_anchor": "ai_item_0184"
+    },
+    {
+      "title": "HeyWhale（和鲸）",
+      "content_type": "社区论坛",
+      "summary": "中文数据科学社区，支持Notebook协作与数据集共享",
+      "direct_link": "https://www.heywhale.com",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国内合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0185",
+      "full_content_anchor": "ai_item_0185"
+    },
+    {
+      "title": "Kaggle Competitions",
+      "content_type": "竞赛平台",
+      "summary": "全球数据科学竞赛平台，含奖金赛事与练习赛",
+      "direct_link": "https://www.kaggle.com/competitions",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0186",
+      "full_content_anchor": "ai_item_0186"
+    },
+    {
+      "title": "天池大赛",
+      "content_type": "竞赛平台",
+      "summary": "阿里云主办AI竞赛平台，覆盖CV/NLP/推荐系统等方向",
+      "direct_link": "https://tianchi.aliyun.com",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国家认证平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0187",
+      "full_content_anchor": "ai_item_0187"
+    },
+    {
+      "title": "DataFountain竞赛",
+      "content_type": "竞赛平台",
+      "summary": "中文数据竞赛平台，含政府/企业真实业务赛题",
+      "direct_link": "https://www.datafountain.cn/competitions",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国家认证平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0188",
+      "full_content_anchor": "ai_item_0188"
+    },
+    {
+      "title": "DrivenData",
+      "content_type": "竞赛平台",
+      "summary": "社会影响力数据竞赛平台，聚焦公益与可持续发展",
+      "direct_link": "https://www.drivendata.org",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0189",
+      "full_content_anchor": "ai_item_0189"
+    },
+    {
+      "title": "Weights & Biases",
+      "content_type": "实验管理",
+      "summary": "ML实验跟踪工具，支持指标记录、超参对比与可视化",
+      "direct_link": "https://wandb.ai",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规工具",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0190",
+      "full_content_anchor": "ai_item_0190"
+    },
+    {
+      "title": "MLflow",
+      "content_type": "实验管理",
+      "summary": "开源ML生命周期管理平台，支持实验跟踪与模型部署",
+      "direct_link": "https://mlflow.org",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "Apache 2.0开源",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0191",
+      "full_content_anchor": "ai_item_0191"
+    },
+    {
+      "title": "TensorBoard",
+      "content_type": "可视化工具",
+      "summary": "TensorFlow官方可视化工具，支持训练监控与图结构分析",
+      "direct_link": "https://www.tensorflow.org/tensorboard",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规工具",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0192",
+      "full_content_anchor": "ai_item_0192"
+    },
+    {
+      "title": "Comet.ml",
+      "content_type": "实验管理",
+      "summary": "ML实验管理平台，支持团队协作与模型版本控制",
+      "direct_link": "https://www.comet.com",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0193",
+      "full_content_anchor": "ai_item_0193"
+    },
+    {
+      "title": "Label Studio",
+      "content_type": "数据标注",
+      "summary": "开源数据标注工具，支持图像/文本/音频多模态标注",
+      "direct_link": "https://labelstud.io",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "Apache 2.0开源",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0194",
+      "full_content_anchor": "ai_item_0194"
+    },
+    {
+      "title": "CVAT",
+      "content_type": "数据标注",
+      "summary": "计算机视觉标注工具，支持智能辅助标注与团队协作",
+      "direct_link": "https://cvat.org",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "MIT开源",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0195",
+      "full_content_anchor": "ai_item_0195"
+    },
+    {
+      "title": "Roboflow",
+      "content_type": "数据标注",
+      "summary": "CV数据集管理平台，含标注、增强、导出全流程工具",
+      "direct_link": "https://roboflow.com",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0196",
+      "full_content_anchor": "ai_item_0196"
+    },
+    {
+      "title": "Weights & Biases Artifacts",
+      "content_type": "模型管理",
+      "summary": "模型与数据集版本管理，支持团队共享与复现",
+      "direct_link": "https://wandb.ai/artifacts",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规工具",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0197",
+      "full_content_anchor": "ai_item_0197"
+    },
+    {
+      "title": "ModelDB",
+      "content_type": "模型管理",
+      "summary": "开源模型管理平台，支持元数据记录与查询",
+      "direct_link": "https://modeldb.ml",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "MIT开源",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0198",
+      "full_content_anchor": "ai_item_0198"
+    },
+    {
+      "title": "BentoML",
+      "content_type": "部署工具",
+      "summary": "ML模型服务化框架，支持多框架模型打包与部署",
+      "direct_link": "https://www.bentoml.com",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "Apache 2.0开源",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0199",
+      "full_content_anchor": "ai_item_0199"
+    },
+    {
+      "title": "Triton Inference Server",
+      "content_type": "部署工具",
+      "summary": "NVIDIA高性能推理服务框架，支持多框架模型并发",
+      "direct_link": "https://developer.nvidia.com/nvidia-triton-inference-server",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "NVIDIA官方工具",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0200",
+      "full_content_anchor": "ai_item_0200"
+    },
+    {
+      "title": "TensorRT",
+      "content_type": "部署工具",
+      "summary": "NVIDIA深度学习推理优化器，支持模型量化与加速",
+      "direct_link": "https://developer.nvidia.com/tensorrt",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "NVIDIA官方工具",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0201",
+      "full_content_anchor": "ai_item_0201"
+    },
+    {
+      "title": "ONNX Runtime",
+      "content_type": "部署工具",
+      "summary": "跨平台推理引擎，支持ONNX模型高效执行",
+      "direct_link": "https://onnxruntime.ai",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "Linux基金会项目",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0202",
+      "full_content_anchor": "ai_item_0202"
+    },
+    {
+      "title": "ModelScope创空间",
+      "content_type": "部署工具",
+      "summary": "魔搭在线部署平台，支持Gradio/Streamlit应用一键发布",
+      "direct_link": "https://modelscope.cn/studios",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "阿里云合规服务",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0203",
+      "full_content_anchor": "ai_item_0203"
+    },
+    {
+      "title": "Hugging Face Spaces",
+      "content_type": "部署工具",
+      "summary": "模型Demo部署平台，支持Gradio/Streamlit快速创建",
+      "direct_link": "https://huggingface.co/spaces",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0204",
+      "full_content_anchor": "ai_item_0204"
+    },
+    {
+      "title": "Streamlit",
+      "content_type": "应用框架",
+      "summary": "Python数据应用框架，快速构建ML交互式界面",
+      "direct_link": "https://streamlit.io",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "Apache 2.0开源",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0205",
+      "full_content_anchor": "ai_item_0205"
+    },
+    {
+      "title": "Gradio",
+      "content_type": "应用框架",
+      "summary": "快速创建ML模型Web界面的Python库",
+      "direct_link": "https://www.gradio.app",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "Apache 2.0开源",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0206",
+      "full_content_anchor": "ai_item_0206"
+    },
+    {
+      "title": "Plotly Dash",
+      "content_type": "应用框架",
+      "summary": "Python分析型Web应用框架，支持复杂交互可视化",
+      "direct_link": "https://plotly.com/dash",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0207",
+      "full_content_anchor": "ai_item_0207"
+    },
+    {
+      "title": "LangChain",
+      "content_type": "应用框架",
+      "summary": "大语言模型应用开发框架，支持Agent/Chain构建",
+      "direct_link": "https://www.langchain.com",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "MIT开源",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0208",
+      "full_content_anchor": "ai_item_0208"
+    },
+    {
+      "title": "LlamaIndex",
+      "content_type": "应用框架",
+      "summary": "LLM数据连接框架，支持私有数据检索与问答",
+      "direct_link": "https://www.llamaindex.ai",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "MIT开源",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0209",
+      "full_content_anchor": "ai_item_0209"
+    },
+    {
+      "title": "Haystack",
+      "content_type": "应用框架",
+      "summary": "端到端NLP管道框架，支持检索增强生成（RAG）",
+      "direct_link": "https://haystack.deepset.ai",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "Apache 2.0开源",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0210",
+      "full_content_anchor": "ai_item_0210"
+    },
+    {
+      "title": "OpenAI API",
+      "content_type": "API服务",
+      "summary": "GPT系列模型API服务，支持文本生成、嵌入等能力",
+      "direct_link": "https://platform.openai.com",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规服务",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0211",
+      "full_content_anchor": "ai_item_0211"
+    },
+    {
+      "title": "通义实验室API",
+      "content_type": "API服务",
+      "summary": "阿里云百炼平台，提供Qwen等大模型API服务",
+      "direct_link": "https://help.aliyun.com/product/43121.html",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国家认证平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0212",
+      "full_content_anchor": "ai_item_0212"
+    },
+    {
+      "title": "ModelScope API",
+      "content_type": "API服务",
+      "summary": "魔搭模型API市场，支持语音/视觉/文本模型调用",
+      "direct_link": "https://modelscope.cn/api",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "阿里云合规服务",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0213",
+      "full_content_anchor": "ai_item_0213"
+    },
+    {
+      "title": "Replicate",
+      "content_type": "API服务",
+      "summary": "开源模型API平台，支持Stable Diffusion等模型调用",
+      "direct_link": "https://replicate.com",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0214",
+      "full_content_anchor": "ai_item_0214"
+    },
+    {
+      "title": "Paperspace Gradient",
+      "content_type": "云平台",
+      "summary": "ML开发云平台，含Notebook、训练与部署一体化服务",
+      "direct_link": "https://gradient.paperspace.com",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0215",
+      "full_content_anchor": "ai_item_0215"
+    },
+    {
+      "title": "Google Colab",
+      "content_type": "云平台",
+      "summary": "免费Jupyter Notebook环境，支持GPU/TPU加速",
+      "direct_link": "https://colab.research.google.com",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "Google官方服务",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0216",
+      "full_content_anchor": "ai_item_0216"
+    },
+    {
+      "title": "Kaggle Notebooks",
+      "content_type": "云平台",
+      "summary": "免费云Notebook环境，集成数据集与GPU资源",
+      "direct_link": "https://www.kaggle.com/code",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0217",
+      "full_content_anchor": "ai_item_0217"
+    },
+    {
+      "title": "阿里云PAI",
+      "content_type": "云平台",
+      "summary": "企业级机器学习平台，支持全流程开发与部署",
+      "direct_link": "https://www.aliyun.com/product/learn/pai",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国家认证平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0218",
+      "full_content_anchor": "ai_item_0218"
+    },
+    {
+      "title": "AWS SageMaker",
+      "content_type": "云平台",
+      "summary": "全托管ML服务，含Notebook、训练、部署与监控",
+      "direct_link": "https://aws.amazon.com/sagemaker",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0219",
+      "full_content_anchor": "ai_item_0219"
+    },
+    {
+      "title": "Azure Machine Learning",
+      "content_type": "云平台",
+      "summary": "微软云ML平台，支持AutoML与MLOps",
+      "direct_link": "https://azure.microsoft.com/services/machine-learning",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0220",
+      "full_content_anchor": "ai_item_0220"
+    },
+    {
+      "title": "NeurIPS",
+      "content_type": "学术会议",
+      "summary": "顶级AI/ML国际会议，年会论文与教程资源库",
+      "direct_link": "https://neurips.cc",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际学术组织",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0221",
+      "full_content_anchor": "ai_item_0221"
+    },
+    {
+      "title": "ICML",
+      "content_type": "学术会议",
+      "summary": "国际机器学习大会，核心论文与研讨会资源",
+      "direct_link": "https://icml.cc",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际学术组织",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0222",
+      "full_content_anchor": "ai_item_0222"
+    },
+    {
+      "title": "CVPR",
+      "content_type": "学术会议",
+      "summary": "计算机视觉顶会，含论文、代码与数据集",
+      "direct_link": "https://cvpr.thecvf.com",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际学术组织",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0223",
+      "full_content_anchor": "ai_item_0223"
+    },
+    {
+      "title": "ACL",
+      "content_type": "学术会议",
+      "summary": "计算语言学顶会，NLP领域核心会议",
+      "direct_link": "https://aclweb.org",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际学术组织",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0224",
+      "full_content_anchor": "ai_item_0224"
+    },
+    {
+      "title": "EMNLP",
+      "content_type": "学术会议",
+      "summary": "自然语言处理重要会议，聚焦实证方法与应用",
+      "direct_link": "https://2023.emnlp.org",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际学术组织",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0225",
+      "full_content_anchor": "ai_item_0225"
+    },
+    {
+      "title": "AAAI",
+      "content_type": "学术会议",
+      "summary": "人工智能促进协会年会，综合AI领域研究",
+      "direct_link": "https://aaai.org",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际学术组织",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0226",
+      "full_content_anchor": "ai_item_0226"
+    },
+    {
+      "title": "IJCAI",
+      "content_type": "学术会议",
+      "summary": "国际人工智能联合会议，历史悠久的综合AI会议",
+      "direct_link": "https://ijcai.org",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际学术组织",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0227",
+      "full_content_anchor": "ai_item_0227"
+    },
+    {
+      "title": "GitHub Topics: AI",
+      "content_type": "开源项目",
+      "summary": "GitHub AI主题仓库，含万级开源项目与趋势",
+      "direct_link": "https://github.com/topics/artificial-intelligence",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际开源平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0228",
+      "full_content_anchor": "ai_item_0228"
+    },
+    {
+      "title": "GitHub Topics: Machine-Learning",
+      "content_type": "开源项目",
+      "summary": "机器学习开源项目聚合，含框架、工具与案例",
+      "direct_link": "https://github.com/topics/machine-learning",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际开源平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0229",
+      "full_content_anchor": "ai_item_0229"
+    },
+    {
+      "title": "ModelScope开源项目",
+      "content_type": "开源项目",
+      "summary": "魔搭开源模型库，含训练代码、推理脚本与文档",
+      "direct_link": "https://modelscope.cn/models",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "工信部备案平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0230",
+      "full_content_anchor": "ai_item_0230"
+    },
+    {
+      "title": "Papers With Code SOTA",
+      "content_type": "资源索引",
+      "summary": "各领域SOTA模型排行榜，含论文、代码与复现结果",
+      "direct_link": "https://paperswithcode.com/sota",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "学术合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0231",
+      "full_content_anchor": "ai_item_0231"
+    },
+    {
+      "title": "Awesome AI",
+      "content_type": "资源索引",
+      "summary": "GitHub精选AI资源列表，含工具、数据集与教程",
+      "direct_link": "https://github.com/owainlewis/awesome-artificial-intelligence",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "MIT开源",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0232",
+      "full_content_anchor": "ai_item_0232"
+    },
+    {
+      "title": "AI News (VentureBeat)",
+      "content_type": "行业资讯",
+      "summary": "AI领域深度新闻与分析，覆盖技术、商业与政策",
+      "direct_link": "https://venturebeat.com/category/ai",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际媒体",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0233",
+      "full_content_anchor": "ai_item_0233"
+    },
+    {
+      "title": "机器之心",
+      "content_type": "行业资讯",
+      "summary": "中文AI专业媒体，含技术解读、行业报告与会议资讯",
+      "direct_link": "https://www.jiqizhixin.com",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国内合规媒体",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0234",
+      "full_content_anchor": "ai_item_0234"
+    },
+    {
+      "title": "The Batch (DeepLearning.AI)",
+      "content_type": "行业资讯",
+      "summary": "Andrew Ng团队出品AI周报，精选技术与行业动态",
+      "direct_link": "https://www.deeplearning.ai/the-batch",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际教育平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0235",
+      "full_content_anchor": "ai_item_0235"
+    },
+    {
+      "title": "MIT Technology Review AI",
+      "content_type": "行业资讯",
+      "summary": "MIT科技评论AI专题，深度分析技术影响与伦理",
+      "direct_link": "https://www.technologyreview.com/topic/artificial-intelligence",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际权威媒体",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0236",
+      "full_content_anchor": "ai_item_0236"
+    },
+    {
+      "title": "AI Ethics Guidelines (EU)",
+      "content_type": "伦理规范",
+      "summary": "欧盟AI伦理准则与法规框架，含可信AI评估清单",
+      "direct_link": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际规范文件",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0237",
+      "full_content_anchor": "ai_item_0237"
+    },
+    {
+      "title": "中国人工智能伦理规范",
+      "content_type": "伦理规范",
+      "summary": "国家网信办发布AI治理原则，强调安全可控与以人为本",
+      "direct_link": "https://www.cac.gov.cn",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国家规范文件",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0238",
+      "full_content_anchor": "ai_item_0238"
+    },
+    {
+      "title": "PartiQL",
+      "content_type": "数据工具",
+      "summary": "统一查询语言，支持SQL查询JSON/关系型/文档数据",
+      "direct_link": "https://partiql.org",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "Apache 2.0开源",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0239",
+      "full_content_anchor": "ai_item_0239"
+    },
+    {
+      "title": "DVC",
+      "content_type": "数据工具",
+      "summary": "数据版本控制工具，支持大文件与数据集管理",
+      "direct_link": "https://dvc.org",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "Apache 2.0开源",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0240",
+      "full_content_anchor": "ai_item_0240"
+    },
+    {
+      "title": "Great Expectations",
+      "content_type": "数据工具",
+      "summary": "数据质量测试框架，支持数据验证与文档生成",
+      "direct_link": "https://greatexpectations.io",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "Apache 2.0开源",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0241",
+      "full_content_anchor": "ai_item_0241"
+    },
+    {
+      "title": "Feature Store (Feast)",
+      "content_type": "特征平台",
+      "summary": "开源特征存储平台，支持训练/推理特征一致性",
+      "direct_link": "https://feast.dev",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "Apache 2.0开源",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0242",
+      "full_content_anchor": "ai_item_0242"
+    },
+    {
+      "title": "Hopsworks Feature Store",
+      "content_type": "特征平台",
+      "summary": "企业级特征平台，集成MLflow与Kubernetes",
+      "direct_link": "https://www.hopsworks.ai",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0243",
+      "full_content_anchor": "ai_item_0243"
+    },
+    {
+      "title": "Evidently AI",
+      "content_type": "监控工具",
+      "summary": "ML模型监控工具，支持数据漂移与模型性能分析",
+      "direct_link": "https://www.evidentlyai.com",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "Apache 2.0开源",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0244",
+      "full_content_anchor": "ai_item_0244"
+    },
+    {
+      "title": "Arize AI",
+      "content_type": "监控工具",
+      "summary": "生产环境ML监控平台，支持根因分析与可视化",
+      "direct_link": "https://arize.com",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0245",
+      "full_content_anchor": "ai_item_0245"
+    },
+    {
+      "title": "WhyLabs",
+      "content_type": "监控工具",
+      "summary": "无代码ML监控平台，支持自动异常检测",
+      "direct_link": "https://whylabs.ai",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0246",
+      "full_content_anchor": "ai_item_0246"
+    },
+    {
+      "title": "Captum",
+      "content_type": "可解释性",
+      "summary": "PyTorch模型可解释性库，支持特征归因与可视化",
+      "direct_link": "https://captum.ai",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "PyTorch官方工具",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0247",
+      "full_content_anchor": "ai_item_0247"
+    },
+    {
+      "title": "SHAP",
+      "content_type": "可解释性",
+      "summary": "模型解释统一框架，支持多种算法与可视化",
+      "direct_link": "https://shap.readthedocs.io",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "MIT开源",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0248",
+      "full_content_anchor": "ai_item_0248"
+    },
+    {
+      "title": "LIME",
+      "content_type": "可解释性",
+      "summary": "局部可解释模型，支持文本/图像/表格数据解释",
+      "direct_link": "https://github.com/marcotcr/lime",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "BSD开源",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0249",
+      "full_content_anchor": "ai_item_0249"
+    },
+    {
+      "title": "IBM AI Fairness 360",
+      "content_type": "公平性工具",
+      "summary": "AI公平性检测工具包，含30+偏差检测与缓解算法",
+      "direct_link": "https://aif360.mybluemix.net",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "Apache 2.0开源",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0250",
+      "full_content_anchor": "ai_item_0250"
+    },
+    {
+      "title": "Google What-If Tool",
+      "content_type": "公平性工具",
+      "summary": "模型公平性与性能可视化分析工具",
+      "direct_link": "https://pair-code.github.io/what-if-tool",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "Google开源工具",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0251",
+      "full_content_anchor": "ai_item_0251"
+    },
+    {
+      "title": "TensorFlow Privacy",
+      "content_type": "隐私保护",
+      "summary": "差分隐私训练库，支持隐私保护模型训练",
+      "direct_link": "https://www.tensorflow.org/responsible_ai/privacy",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "TensorFlow官方工具",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0252",
+      "full_content_anchor": "ai_item_0252"
+    },
+    {
+      "title": "Opacus",
+      "content_type": "隐私保护",
+      "summary": "PyTorch差分隐私训练库，支持高效隐私保护",
+      "direct_link": "https://opacus.ai",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "PyTorch官方工具",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0253",
+      "full_content_anchor": "ai_item_0253"
+    },
+    {
+      "title": "NVIDIA TAO Toolkit",
+      "content_type": "开发工具",
+      "summary": "低代码模型训练工具，支持迁移学习与优化",
+      "direct_link": "https://developer.nvidia.com/tao-toolkit",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "NVIDIA官方工具",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0254",
+      "full_content_anchor": "ai_item_0254"
+    },
+    {
+      "title": "AutoGluon",
+      "content_type": "AutoML",
+      "summary": "开源AutoML工具，支持表格/图像/文本自动建模",
+      "direct_link": "https://auto.gluon.ai",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "Apache 2.0开源",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0255",
+      "full_content_anchor": "ai_item_0255"
+    },
+    {
+      "title": "H2O AutoML",
+      "content_type": "AutoML",
+      "summary": "企业级AutoML平台，支持模型训练与部署",
+      "direct_link": "https://www.h2o.ai/products/h2o-automl",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "开源核心+商业版",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0256",
+      "full_content_anchor": "ai_item_0256"
+    },
+    {
+      "title": "TPOT",
+      "content_type": "AutoML",
+      "summary": "基于遗传算法的AutoML工具，生成优化Pipeline",
+      "direct_link": "https://epistasislab.github.io/tpot",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "MIT开源",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0257",
+      "full_content_anchor": "ai_item_0257"
+    },
+    {
+      "title": "Ray Tune",
+      "content_type": "超参优化",
+      "summary": "分布式超参调优库，支持多种搜索算法与调度器",
+      "direct_link": "https://docs.ray.io/en/latest/tune",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "Apache 2.0开源",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0258",
+      "full_content_anchor": "ai_item_0258"
+    },
+    {
+      "title": "Optuna",
+      "content_type": "超参优化",
+      "summary": "超参优化框架，支持动态构建搜索空间",
+      "direct_link": "https://optuna.org",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "MIT开源",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0259",
+      "full_content_anchor": "ai_item_0259"
+    },
+    {
+      "title": "Weights & Biases Sweeps",
+      "content_type": "超参优化",
+      "summary": "实验管理平台内置超参搜索功能",
+      "direct_link": "https://wandb.ai/site/sweeps",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规工具",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0260",
+      "full_content_anchor": "ai_item_0260"
+    },
+    {
+      "title": "ClearML",
+      "content_type": "MLOps",
+      "summary": "开源MLOps平台，集成实验跟踪、自动化与部署",
+      "direct_link": "https://clear.ml",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "Apache 2.0开源",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0261",
+      "full_content_anchor": "ai_item_0261"
+    },
+    {
+      "title": "Kubeflow",
+      "content_type": "MLOps",
+      "summary": "Kubernetes原生ML工作流平台，支持端到端Pipeline",
+      "direct_link": "https://www.kubeflow.org",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "CNCF毕业项目",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0262",
+      "full_content_anchor": "ai_item_0262"
+    },
+    {
+      "title": "MLflow Projects",
+      "content_type": "MLOps",
+      "summary": "ML项目打包标准，支持多环境复现",
+      "direct_link": "https://mlflow.org/docs/latest/projects.html",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "Linux基金会项目",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0263",
+      "full_content_anchor": "ai_item_0263"
+    },
+    {
+      "title": "DVC Pipelines",
+      "content_type": "MLOps",
+      "summary": "数据科学Pipeline管理，支持版本化工作流",
+      "direct_link": "https://dvc.org/doc/user-guide/project-structure/pipelines",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "Apache 2.0开源",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0264",
+      "full_content_anchor": "ai_item_0264"
+    },
+    {
+      "title": "Flyte",
+      "content_type": "MLOps",
+      "summary": "云原生ML编排平台，支持大规模工作流",
+      "direct_link": "https://flyte.org",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "Linux基金会项目",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0265",
+      "full_content_anchor": "ai_item_0265"
+    },
+    {
+      "title": "Meta AI Research",
+      "content_type": "研究机构",
+      "summary": "Meta AI研究部门，发布LLaMA等开源模型与论文",
+      "direct_link": "https://ai.meta.com/research",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际研究机构",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0266",
+      "full_content_anchor": "ai_item_0266"
+    },
+    {
+      "title": "Google AI",
+      "content_type": "研究机构",
+      "summary": "Google人工智能研究，含DeepMind与Google Research成果",
+      "direct_link": "https://ai.google",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际研究机构",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0267",
+      "full_content_anchor": "ai_item_0267"
+    },
+    {
+      "title": "Microsoft Research AI",
+      "content_type": "研究机构",
+      "summary": "微软研究院AI部门，发布多模态、NLP等前沿工作",
+      "direct_link": "https://www.microsoft.com/research/research-area/artificial-intelligence",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际研究机构",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0268",
+      "full_content_anchor": "ai_item_0268"
+    },
+    {
+      "title": "通义实验室",
+      "content_type": "研究机构",
+      "summary": "阿里云大模型研究团队，发布Qwen系列模型与应用",
+      "direct_link": "https://www.aliyun.com/product/tongyi",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国家认证平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0269",
+      "full_content_anchor": "ai_item_0269"
+    },
+    {
+      "title": "智源研究院",
+      "content_type": "研究机构",
+      "summary": "北京智源人工智能研究院，发布悟道模型与开源项目",
+      "direct_link": "https://www.baai.ac.cn",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国家认证平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0270",
+      "full_content_anchor": "ai_item_0270"
+    },
+    {
+      "title": "上海人工智能实验室",
+      "content_type": "研究机构",
+      "summary": "国家级AI研究机构，发布书生大模型等成果",
+      "direct_link": "https://www.shlab.org.cn",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国家认证平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0271",
+      "full_content_anchor": "ai_item_0271"
+    },
+    {
+      "title": "Stanford HAI",
+      "content_type": "研究机构",
+      "summary": "斯坦福以人为本AI研究院，聚焦技术与社会交叉研究",
+      "direct_link": "https://hai.stanford.edu",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际研究机构",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0272",
+      "full_content_anchor": "ai_item_0272"
+    },
+    {
+      "title": "MIT CSAIL",
+      "content_type": "研究机构",
+      "summary": "MIT计算机科学与人工智能实验室，基础研究重镇",
+      "direct_link": "https://www.csail.mit.edu",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际研究机构",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0273",
+      "full_content_anchor": "ai_item_0273"
+    },
+    {
+      "title": "CMU LTI",
+      "content_type": "研究机构",
+      "summary": "卡内基梅隆大学语言技术研究所，NLP领域权威",
+      "direct_link": "https://lti.cs.cmu.edu",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际研究机构",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0274",
+      "full_content_anchor": "ai_item_0274"
+    },
+    {
+      "title": "伯克利BAIR",
+      "content_type": "研究机构",
+      "summary": "伯克利人工智能研究实验室，强化学习与机器人方向",
+      "direct_link": "https://bair.berkeley.edu",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际研究机构",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0275",
+      "full_content_anchor": "ai_item_0275"
+    },
+    {
+      "title": "TensorFlow官方博客",
+      "content_type": "技术博客",
+      "summary": "TensorFlow团队技术博客，含最佳实践与新特性",
+      "direct_link": "https://blog.tensorflow.org",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0276",
+      "full_content_anchor": "ai_item_0276"
+    },
+    {
+      "title": "PyTorch博客",
+      "content_type": "技术博客",
+      "summary": "PyTorch官方技术博客，含框架更新与案例分享",
+      "direct_link": "https://pytorch.org/blog",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0277",
+      "full_content_anchor": "ai_item_0277"
+    },
+    {
+      "title": "Hugging Face博客",
+      "content_type": "技术博客",
+      "summary": "Hugging Face技术博客，含模型发布与工具教程",
+      "direct_link": "https://huggingface.co/blog",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0278",
+      "full_content_anchor": "ai_item_0278"
+    },
+    {
+      "title": "阿里云技术博客",
+      "content_type": "技术博客",
+      "summary": "阿里云技术实践分享，含大模型、MLOps等方向",
+      "direct_link": "https://developer.aliyun.com/article",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国家认证平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0279",
+      "full_content_anchor": "ai_item_0279"
+    },
+    {
+      "title": "机器之心技术专栏",
+      "content_type": "技术博客",
+      "summary": "中文AI技术深度解析，含论文解读与工程实践",
+      "direct_link": "https://www.jiqizhixin.com/column/technical",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国内合规媒体",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0280",
+      "full_content_anchor": "ai_item_0280"
+    },
+    {
+      "title": "Distill.pub",
+      "content_type": "技术博客",
+      "summary": "可视化技术博客，聚焦ML概念清晰解释",
+      "direct_link": "https://distill.pub",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际学术平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0281",
+      "full_content_anchor": "ai_item_0281"
+    },
+    {
+      "title": "Sebastian Raschka博客",
+      "content_type": "技术博客",
+      "summary": "ML工程实践博客，含PyTorch技巧与MLOps指南",
+      "direct_link": "https://sebastianraschka.com/blog",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "个人技术博客",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0282",
+      "full_content_anchor": "ai_item_0282"
+    },
+    {
+      "title": "Andrej Karpathy博客",
+      "content_type": "技术博客",
+      "summary": "深度学习实践博客，含神经网络训练技巧与见解",
+      "direct_link": "https://karpathy.ai",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "个人技术博客",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0283",
+      "full_content_anchor": "ai_item_0283"
+    },
+    {
+      "title": "Weights & Biases博客",
+      "content_type": "技术博客",
+      "summary": "ML实验管理实践博客，含案例与工具教程",
+      "direct_link": "https://wandb.ai/site/blog",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0284",
+      "full_content_anchor": "ai_item_0284"
+    },
+    {
+      "title": "Full Stack Deep Learning",
+      "content_type": "课程资源",
+      "summary": "全栈深度学习课程，覆盖产品化全流程",
+      "direct_link": "https://fullstackdeeplearning.com",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际教育平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0285",
+      "full_content_anchor": "ai_item_0285"
+    },
+    {
+      "title": "Stanford CS229",
+      "content_type": "课程资源",
+      "summary": "斯坦福机器学习经典课程，Andrew Ng主讲",
+      "direct_link": "https://cs229.stanford.edu",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际学术资源",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0286",
+      "full_content_anchor": "ai_item_0286"
+    },
+    {
+      "title": "Berkeley CS294-158",
+      "content_type": "课程资源",
+      "summary": "伯克利深度无监督学习课程，含讲义与作业",
+      "direct_link": "https://cs294-158.github.io",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际学术资源",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0287",
+      "full_content_anchor": "ai_item_0287"
+    },
+    {
+      "title": "李宏毅机器学习",
+      "content_type": "课程资源",
+      "summary": "台湾大学机器学习课程，中文讲解含深度学习",
+      "direct_link": "https://speech.ee.ntu.edu.tw/~hylee/ml",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "学术教育资源",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0288",
+      "full_content_anchor": "ai_item_0288"
+    },
+    {
+      "title": "吴恩达《Machine Learning》",
+      "content_type": "课程资源",
+      "summary": "Coursera经典ML课程，理论与实践结合",
+      "direct_link": "https://www.coursera.org/learn/machine-learning",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际教育平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0289",
+      "full_content_anchor": "ai_item_0289"
+    },
+    {
+      "title": "吴恩达《Deep Learning Specialization》",
+      "content_type": "课程资源",
+      "summary": "深度学习专项课程，含CNN/RNN/Transformer等",
+      "direct_link": "https://www.coursera.org/specializations/deep-learning",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际教育平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0290",
+      "full_content_anchor": "ai_item_0290"
+    },
+    {
+      "title": "Fast.ai《Practical Deep Learning》",
+      "content_type": "课程资源",
+      "summary": "实战深度学习课程，代码优先、项目驱动",
+      "direct_link": "https://course.fast.ai",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际教育平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0291",
+      "full_content_anchor": "ai_item_0291"
+    },
+    {
+      "title": "DeepLearning.AI《Generative AI》",
+      "content_type": "课程资源",
+      "summary": "生成式AI短课程系列，含提示工程与RAG",
+      "direct_link": "https://www.deeplearning.ai/short-courses",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际教育平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0292",
+      "full_content_anchor": "ai_item_0292"
+    },
+    {
+      "title": "阿里云ACA/ACP认证",
+      "content_type": "认证体系",
+      "summary": "阿里云人工智能工程师认证，含实操与理论考核",
+      "direct_link": "https://edu.aliyun.com/certification",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国家认证体系",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0293",
+      "full_content_anchor": "ai_item_0293"
+    },
+    {
+      "title": "AWS ML Specialty",
+      "content_type": "认证体系",
+      "summary": "AWS机器学习专家认证，考察云上ML实践能力",
+      "direct_link": "https://aws.amazon.com/certification/certified-machine-learning-specialty",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际认证体系",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0294",
+      "full_content_anchor": "ai_item_0294"
+    },
+    {
+      "title": "Google Professional ML Engineer",
+      "content_type": "认证体系",
+      "summary": "Google云ML工程师认证，聚焦生产环境部署",
+      "direct_link": "https://cloud.google.com/certification/machine-learning-engineer",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际认证体系",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0295",
+      "full_content_anchor": "ai_item_0295"
+    },
+    {
+      "title": "Microsoft Azure AI Engineer",
+      "content_type": "认证体系",
+      "summary": "微软Azure AI工程师认证，含认知服务与模型部署",
+      "direct_link": "https://learn.microsoft.com/certifications/azure-ai-engineer",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际认证体系",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0296",
+      "full_content_anchor": "ai_item_0296"
+    },
+    {
+      "title": "NVIDIA DLI",
+      "content_type": "培训认证",
+      "summary": "NVIDIA深度学习培训，含CV/NLP/推荐系统方向",
+      "direct_link": "https://www.nvidia.com/en-us/training/instructor-led-workshops",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "厂商认证培训",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0297",
+      "full_content_anchor": "ai_item_0297"
+    },
+    {
+      "title": "ModelScope学院",
+      "content_type": "培训认证",
+      "summary": "魔搭官方培训体系，含模型应用与部署认证",
+      "direct_link": "https://modelscope.cn/education",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "工信部备案平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0298",
+      "full_content_anchor": "ai_item_0298"
+    },
+    {
+      "title": "中国人工智能学会认证",
+      "content_type": "认证体系",
+      "summary": "CAAI人工智能工程师认证，国内权威资质",
+      "direct_link": "https://www.caai.cn",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国家认证体系",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0299",
+      "full_content_anchor": "ai_item_0299"
+    },
+    {
+      "title": "IEEE AI Standards",
+      "content_type": "标准规范",
+      "summary": "IEEE人工智能标准工作组，制定伦理与技术标准",
+      "direct_link": "https://standards.ieee.org/industry-connections/ec/autonomous-systems",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际标准组织",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0300",
+      "full_content_anchor": "ai_item_0300"
+    },
+    {
+      "title": "ISO/IEC JTC 1/SC 42",
+      "content_type": "标准规范",
+      "summary": "国际AI标准化技术委员会，制定AI基础标准",
+      "direct_link": "https://www.iso.org/committee/6794445.html",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际标准组织",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0301",
+      "full_content_anchor": "ai_item_0301"
+    },
+    {
+      "title": "中国信通院AI标准",
+      "content_type": "标准规范",
+      "summary": "中国AI技术标准与评估体系，含模型评测规范",
+      "direct_link": "https://www.caict.ac.cn",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国家认证机构",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0302",
+      "full_content_anchor": "ai_item_0302"
+    },
+    {
+      "title": "MLPerf",
+      "content_type": "基准测试",
+      "summary": "全球ML性能基准测试，含训练/推理/边缘设备",
+      "direct_link": "https://mlcommons.org/en",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际产业联盟",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0303",
+      "full_content_anchor": "ai_item_0303"
+    },
+    {
+      "title": "GLUE Benchmark",
+      "content_type": "基准测试",
+      "summary": "NLP通用语言理解评估基准，含9项任务",
+      "direct_link": "https://gluebenchmark.com",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "学术基准",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0304",
+      "full_content_anchor": "ai_item_0304"
+    },
+    {
+      "title": "SuperGLUE",
+      "content_type": "基准测试",
+      "summary": "GLUE升级版，更具挑战性的NLP评估基准",
+      "direct_link": "https://super.gluebenchmark.com",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "学术基准",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0305",
+      "full_content_anchor": "ai_item_0305"
+    },
+    {
+      "title": "ImageNet",
+      "content_type": "基准测试",
+      "summary": "计算机视觉经典数据集与竞赛基准",
+      "direct_link": "https://image-net.org",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "学术基准",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0306",
+      "full_content_anchor": "ai_item_0306"
+    },
+    {
+      "title": "ModelScope评测",
+      "content_type": "基准测试",
+      "summary": "中文模型评测平台，含多任务能力评估",
+      "direct_link": "https://modelscope.cn/evaluation",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "工信部备案平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0307",
+      "full_content_anchor": "ai_item_0307"
+    },
+    {
+      "title": "Open LLM Leaderboard",
+      "content_type": "基准测试",
+      "summary": "开源大语言模型排行榜，含多项能力评测",
+      "direct_link": "https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国际开源平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0308",
+      "full_content_anchor": "ai_item_0308"
+    },
+    {
+      "title": "BigModel.cn",
+      "content_type": "中文资源",
+      "summary": "智谱AI开放平台，含GLM系列模型与应用",
+      "direct_link": "https://bigmodel.cn",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国家认证平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0309",
+      "full_content_anchor": "ai_item_0309"
+    },
+    {
+      "title": "ModelWhale",
+      "content_type": "协作平台",
+      "summary": "数据科学协作平台，支持Notebook与项目管理",
+      "direct_link": "https://www.modelwhale.com",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "国内合规平台",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import",
+      "content_id": "ai_item_0310",
+      "full_content_anchor": "ai_item_0310"
+    },
+    {
+      "title": "Jina AI",
+      "content_type": "向量搜索",
+      "summary": "云原生向量搜索框架，支持多模态检索",
+      "direct_link": "https://jina.ai",
+      "verified_by": [
+        "人工审核"
+      ],
+      "last_updated": "2026-02-06",
+      "compliance_level": "待验证",
+      "keywords": "",
+      "compliance_status": "通过",
+      "version": "1.0.0",
+      "compliance_hash": "batch_import_完整",
+      "content_id": "ai_item_0311",
+      "full_content_anchor": "ai_item_0311"
     }
   ],
   "schema_version": "1.0.0",
