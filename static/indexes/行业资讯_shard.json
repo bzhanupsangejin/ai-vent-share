@@ -1,0 +1,70 @@
+[
+  {
+    "title": "AI News (VentureBeat)",
+    "content_type": "行业资讯",
+    "summary": "AI领域深度新闻与分析，覆盖技术、商业与政策",
+    "direct_link": "https://venturebeat.com/category/ai",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际媒体",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0233",
+    "full_content_anchor": "ai_item_0233"
+  },
+  {
+    "title": "机器之心",
+    "content_type": "行业资讯",
+    "summary": "中文AI专业媒体，含技术解读、行业报告与会议资讯",
+    "direct_link": "https://www.jiqizhixin.com",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国内合规媒体",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0234",
+    "full_content_anchor": "ai_item_0234"
+  },
+  {
+    "title": "The Batch (DeepLearning.AI)",
+    "content_type": "行业资讯",
+    "summary": "Andrew Ng团队出品AI周报，精选技术与行业动态",
+    "direct_link": "https://www.deeplearning.ai/the-batch",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际教育平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0235",
+    "full_content_anchor": "ai_item_0235"
+  },
+  {
+    "title": "MIT Technology Review AI",
+    "content_type": "行业资讯",
+    "summary": "MIT科技评论AI专题，深度分析技术影响与伦理",
+    "direct_link": "https://www.technologyreview.com/topic/artificial-intelligence",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际权威媒体",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0236",
+    "full_content_anchor": "ai_item_0236"
+  }
+]

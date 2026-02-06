@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- 主页 / Homepage -->
+    <url>
+        <loc>https://bzhanupsangejin.github.io/ai-vent-share/</loc>
+        <lastmod>2026-02-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- AI专用页 / AI Page -->
+    <url>
+        <loc>https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html</loc>
+        <lastmod>2026-02-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- 主索引 / Main Index -->
+    <url>
+        <loc>https://bzhanupsangejin.github.io/ai-vent-share/content_index.json</loc>
+        <lastmod>2026-02-06</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- 元数据 / Metadata -->
+    <url>
+        <loc>https://bzhanupsangejin.github.io/ai-vent-share/static/meta/function_boundary.json</loc>
+        <lastmod>2026-02-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://bzhanupsangejin.github.io/ai-vent-share/static/meta/usage_guide.json</loc>
+        <lastmod>2026-02-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://bzhanupsangejin.github.io/ai-vent-share/static/meta/operation_meta.json</loc>
+        <lastmod>2026-02-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- 分片索引 / Shard Indexes -->
+    <url>
+        <loc>https://bzhanupsangejin.github.io/ai-vent-share/static/indexes/代码模板_shard.json</loc>
+        <lastmod>2026-02-06</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://bzhanupsangejin.github.io/ai-vent-share/static/indexes/资源分享_shard.json</loc>
+        <lastmod>2026-02-06</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://bzhanupsangejin.github.io/ai-vent-share/static/indexes/AI工具_shard.json</loc>
+        <lastmod>2026-02-06</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://bzhanupsangejin.github.io/ai-vent-share/static/indexes/FAQ文档_shard.json</loc>
+        <lastmod>2026-02-06</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://bzhanupsangejin.github.io/ai-vent-share/static/indexes/免费API_shard.json</loc>
+        <lastmod>2026-02-06</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://bzhanupsangejin.github.io/ai-vent-share/static/indexes/技术教程_shard.json</loc>
+        <lastmod>2026-02-06</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://bzhanupsangejin.github.io/ai-vent-share/static/indexes/部署指南_shard.json</loc>
+        <lastmod>2026-02-06</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://bzhanupsangejin.github.io/ai-vent-share/static/indexes/合规说明_shard.json</loc>
+        <lastmod>2026-02-06</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+</urlset>

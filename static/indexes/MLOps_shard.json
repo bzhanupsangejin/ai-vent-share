@@ -1,0 +1,87 @@
+[
+  {
+    "title": "ClearML",
+    "content_type": "MLOps",
+    "summary": "开源MLOps平台，集成实验跟踪、自动化与部署",
+    "direct_link": "https://clear.ml",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0261",
+    "full_content_anchor": "ai_item_0261"
+  },
+  {
+    "title": "Kubeflow",
+    "content_type": "MLOps",
+    "summary": "Kubernetes原生ML工作流平台，支持端到端Pipeline",
+    "direct_link": "https://www.kubeflow.org",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "CNCF毕业项目",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0262",
+    "full_content_anchor": "ai_item_0262"
+  },
+  {
+    "title": "MLflow Projects",
+    "content_type": "MLOps",
+    "summary": "ML项目打包标准，支持多环境复现",
+    "direct_link": "https://mlflow.org/docs/latest/projects.html",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Linux基金会项目",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0263",
+    "full_content_anchor": "ai_item_0263"
+  },
+  {
+    "title": "DVC Pipelines",
+    "content_type": "MLOps",
+    "summary": "数据科学Pipeline管理，支持版本化工作流",
+    "direct_link": "https://dvc.org/doc/user-guide/project-structure/pipelines",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0264",
+    "full_content_anchor": "ai_item_0264"
+  },
+  {
+    "title": "Flyte",
+    "content_type": "MLOps",
+    "summary": "云原生ML编排平台，支持大规模工作流",
+    "direct_link": "https://flyte.org",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Linux基金会项目",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0265",
+    "full_content_anchor": "ai_item_0265"
+  }
+]

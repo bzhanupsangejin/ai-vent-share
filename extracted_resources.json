@@ -1,0 +1,1685 @@
+[
+  {
+    "title": "Hugging Face Model Hub",
+    "type": "模型仓库",
+    "url": "https://huggingface.co/models",
+    "description": "全球开源预训练模型库，支持NLP/CV/语音等千余模型一键调用",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台"
+  },
+  {
+    "title": "ModelScope（魔搭）",
+    "type": "模型仓库",
+    "url": "https://modelscope.cn",
+    "description": "中文模型开放平台，通义实验室出品，含Qwen系列等千余模型及推理代码",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "工信部备案平台"
+  },
+  {
+    "title": "TensorFlow Hub",
+    "type": "模型仓库",
+    "url": "https://tfhub.dev",
+    "description": "Google官方预训练模型库，支持迁移学习与模块化部署",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台"
+  },
+  {
+    "title": "PyTorch Hub",
+    "type": "模型仓库",
+    "url": "https://pytorch.org/hub",
+    "description": "PyTorch官方模型库，集成SOTA模型与复现代码",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台"
+  },
+  {
+    "title": "Kaggle Datasets",
+    "type": "数据集",
+    "url": "https://www.kaggle.com/datasets",
+    "description": "百万级公开数据集平台，含竞赛数据、行业数据集及Notebook示例",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台"
+  },
+  {
+    "title": "UCI Machine Learning Repository",
+    "type": "数据集",
+    "url": "https://archive.ics.uci.edu",
+    "description": "经典机器学习数据集库，含分类/回归/聚类标准数据集",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "学术合规平台"
+  },
+  {
+    "title": "ModelScope数据集",
+    "type": "数据集",
+    "url": "https://modelscope.cn/datasets",
+    "description": "中文高质量数据集平台，覆盖CLUE、金融、医疗等领域",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "工信部备案平台"
+  },
+  {
+    "title": "Hugging Face Datasets",
+    "type": "数据集",
+    "url": "https://huggingface.co/datasets",
+    "description": "开源数据集库，支持load_dataset() API快速加载",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台"
+  },
+  {
+    "title": "DataFountain",
+    "type": "数据集",
+    "url": "https://www.datafountain.cn",
+    "description": "中文数据竞赛与数据集平台，含政府/企业授权数据",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国家认证平台"
+  },
+  {
+    "title": "OpenSLR",
+    "type": "数据集",
+    "url": "https://openslr.org",
+    "description": "开源语音数据集库，含LibriSpeech等标准语音资源",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际开源平台"
+  },
+  {
+    "title": "Papers With Code",
+    "type": "论文库",
+    "url": "https://paperswithcode.com",
+    "description": "论文与代码关联平台，含SOTA结果、复现代码及数据集",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "学术合规平台"
+  },
+  {
+    "title": "arXiv",
+    "type": "论文库",
+    "url": "https://arxiv.org",
+    "description": "预印本论文平台，AI/ML领域核心论文首发地",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际学术平台"
+  },
+  {
+    "title": "Semantic Scholar",
+    "type": "论文库",
+    "url": "https://www.semanticscholar.org",
+    "description": "AI驱动的学术搜索引擎，支持论文关系图谱与影响力分析",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际学术平台"
+  },
+  {
+    "title": "中国知网AI专题",
+    "type": "论文库",
+    "url": "https://www.cnki.net",
+    "description": "中文AI领域核心期刊论文库，含硕博论文与会议文献",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国家认证平台"
+  },
+  {
+    "title": "TensorFlow官方教程",
+    "type": "框架教程",
+    "url": "https://www.tensorflow.org/tutorials",
+    "description": "TensorFlow全流程教程，含基础入门、部署优化及案例实践",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台"
+  },
+  {
+    "title": "PyTorch教程",
+    "type": "框架教程",
+    "url": "https://pytorch.org/tutorials",
+    "description": "PyTorch官方教程库，覆盖CV/NLP/强化学习等方向",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台"
+  },
+  {
+    "title": "飞桨PaddlePaddle教程",
+    "type": "框架教程",
+    "url": "https://www.paddlepaddle.org.cn/documentation",
+    "description": "国产深度学习框架教程，含产业实践范例与部署指南",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国家认证开源框架"
+  },
+  {
+    "title": "Fast.ai",
+    "type": "学习资料",
+    "url": "https://www.fast.ai",
+    "description": "实战导向深度学习课程，代码优先、零数学门槛",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际教育平台"
+  },
+  {
+    "title": "DeepLearning.AI",
+    "type": "学习资料",
+    "url": "https://www.deeplearning.ai",
+    "description": "Andrew Ng系列课程，含专项课程与行业应用案例",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际教育平台"
+  },
+  {
+    "title": "李沐《动手学深度学习》",
+    "type": "学习资料",
+    "url": "https://zh.d2l.ai",
+    "description": "中文深度学习开源教程，PyTorch/MXNet双实现",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "开源教育项目"
+  },
+  {
+    "title": "Kaggle Learn",
+    "type": "学习资料",
+    "url": "https://www.kaggle.com/learn",
+    "description": "微课程平台，含Python/ML/AI等30+实战短课程",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台"
+  },
+  {
+    "title": "天池学习中心",
+    "type": "学习资料",
+    "url": "https://tianchi.aliyun.com/education",
+    "description": "阿里云AI学习平台，含竞赛复盘、技术直播与认证体系",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国家认证平台"
+  },
+  {
+    "title": "Stack Overflow",
+    "type": "技术问答",
+    "url": "https://stackoverflow.com",
+    "description": "全球技术问答社区，AI/ML相关问题超百万条",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际技术社区"
+  },
+  {
+    "title": "知乎AI话题",
+    "type": "社区论坛",
+    "url": "https://www.zhihu.com/topic/20037813",
+    "description": "中文AI技术讨论社区，含行业动态与技术解析",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国内合规社区"
+  },
+  {
+    "title": "Reddit r/MachineLearning",
+    "type": "社区论坛",
+    "url": "https://www.reddit.com/r/MachineLearning",
+    "description": "国际ML社区，含论文讨论、工具分享与行业资讯",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际社区"
+  },
+  {
+    "title": "ModelScope社区",
+    "type": "社区论坛",
+    "url": "https://modelscope.cn/community",
+    "description": "中文模型开发者社区，含实战笔记、踩坑记录与答疑",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "工信部备案平台"
+  },
+  {
+    "title": "HeyWhale（和鲸）",
+    "type": "社区论坛",
+    "url": "https://www.heywhale.com",
+    "description": "中文数据科学社区，支持Notebook协作与数据集共享",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国内合规平台"
+  },
+  {
+    "title": "Kaggle Competitions",
+    "type": "竞赛平台",
+    "url": "https://www.kaggle.com/competitions",
+    "description": "全球数据科学竞赛平台，含奖金赛事与练习赛",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台"
+  },
+  {
+    "title": "天池大赛",
+    "type": "竞赛平台",
+    "url": "https://tianchi.aliyun.com",
+    "description": "阿里云主办AI竞赛平台，覆盖CV/NLP/推荐系统等方向",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国家认证平台"
+  },
+  {
+    "title": "DataFountain竞赛",
+    "type": "竞赛平台",
+    "url": "https://www.datafountain.cn/competitions",
+    "description": "中文数据竞赛平台，含政府/企业真实业务赛题",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国家认证平台"
+  },
+  {
+    "title": "DrivenData",
+    "type": "竞赛平台",
+    "url": "https://www.drivendata.org",
+    "description": "社会影响力数据竞赛平台，聚焦公益与可持续发展",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台"
+  },
+  {
+    "title": "Weights & Biases",
+    "type": "实验管理",
+    "url": "https://wandb.ai",
+    "description": "ML实验跟踪工具，支持指标记录、超参对比与可视化",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规工具"
+  },
+  {
+    "title": "MLflow",
+    "type": "实验管理",
+    "url": "https://mlflow.org",
+    "description": "开源ML生命周期管理平台，支持实验跟踪与模型部署",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源"
+  },
+  {
+    "title": "TensorBoard",
+    "type": "可视化工具",
+    "url": "https://www.tensorflow.org/tensorboard",
+    "description": "TensorFlow官方可视化工具，支持训练监控与图结构分析",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规工具"
+  },
+  {
+    "title": "Comet.ml",
+    "type": "实验管理",
+    "url": "https://www.comet.com",
+    "description": "ML实验管理平台，支持团队协作与模型版本控制",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台"
+  },
+  {
+    "title": "Label Studio",
+    "type": "数据标注",
+    "url": "https://labelstud.io",
+    "description": "开源数据标注工具，支持图像/文本/音频多模态标注",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源"
+  },
+  {
+    "title": "CVAT",
+    "type": "数据标注",
+    "url": "https://cvat.org",
+    "description": "计算机视觉标注工具，支持智能辅助标注与团队协作",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "MIT开源"
+  },
+  {
+    "title": "Roboflow",
+    "type": "数据标注",
+    "url": "https://roboflow.com",
+    "description": "CV数据集管理平台，含标注、增强、导出全流程工具",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台"
+  },
+  {
+    "title": "Weights & Biases Artifacts",
+    "type": "模型管理",
+    "url": "https://wandb.ai/artifacts",
+    "description": "模型与数据集版本管理，支持团队共享与复现",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规工具"
+  },
+  {
+    "title": "ModelDB",
+    "type": "模型管理",
+    "url": "https://modeldb.ml",
+    "description": "开源模型管理平台，支持元数据记录与查询",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "MIT开源"
+  },
+  {
+    "title": "BentoML",
+    "type": "部署工具",
+    "url": "https://www.bentoml.com",
+    "description": "ML模型服务化框架，支持多框架模型打包与部署",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源"
+  },
+  {
+    "title": "Triton Inference Server",
+    "type": "部署工具",
+    "url": "https://developer.nvidia.com/nvidia-triton-inference-server",
+    "description": "NVIDIA高性能推理服务框架，支持多框架模型并发",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "NVIDIA官方工具"
+  },
+  {
+    "title": "TensorRT",
+    "type": "部署工具",
+    "url": "https://developer.nvidia.com/tensorrt",
+    "description": "NVIDIA深度学习推理优化器，支持模型量化与加速",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "NVIDIA官方工具"
+  },
+  {
+    "title": "ONNX Runtime",
+    "type": "部署工具",
+    "url": "https://onnxruntime.ai",
+    "description": "跨平台推理引擎，支持ONNX模型高效执行",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Linux基金会项目"
+  },
+  {
+    "title": "ModelScope创空间",
+    "type": "部署工具",
+    "url": "https://modelscope.cn/studios",
+    "description": "魔搭在线部署平台，支持Gradio/Streamlit应用一键发布",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "阿里云合规服务"
+  },
+  {
+    "title": "Hugging Face Spaces",
+    "type": "部署工具",
+    "url": "https://huggingface.co/spaces",
+    "description": "模型Demo部署平台，支持Gradio/Streamlit快速创建",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台"
+  },
+  {
+    "title": "Streamlit",
+    "type": "应用框架",
+    "url": "https://streamlit.io",
+    "description": "Python数据应用框架，快速构建ML交互式界面",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源"
+  },
+  {
+    "title": "Gradio",
+    "type": "应用框架",
+    "url": "https://www.gradio.app",
+    "description": "快速创建ML模型Web界面的Python库",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源"
+  },
+  {
+    "title": "Plotly Dash",
+    "type": "应用框架",
+    "url": "https://plotly.com/dash",
+    "description": "Python分析型Web应用框架，支持复杂交互可视化",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台"
+  },
+  {
+    "title": "LangChain",
+    "type": "应用框架",
+    "url": "https://www.langchain.com",
+    "description": "大语言模型应用开发框架，支持Agent/Chain构建",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "MIT开源"
+  },
+  {
+    "title": "LlamaIndex",
+    "type": "应用框架",
+    "url": "https://www.llamaindex.ai",
+    "description": "LLM数据连接框架，支持私有数据检索与问答",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "MIT开源"
+  },
+  {
+    "title": "Haystack",
+    "type": "应用框架",
+    "url": "https://haystack.deepset.ai",
+    "description": "端到端NLP管道框架，支持检索增强生成（RAG）",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源"
+  },
+  {
+    "title": "OpenAI API",
+    "type": "API服务",
+    "url": "https://platform.openai.com",
+    "description": "GPT系列模型API服务，支持文本生成、嵌入等能力",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规服务"
+  },
+  {
+    "title": "通义实验室API",
+    "type": "API服务",
+    "url": "https://help.aliyun.com/product/43121.html",
+    "description": "阿里云百炼平台，提供Qwen等大模型API服务",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国家认证平台"
+  },
+  {
+    "title": "ModelScope API",
+    "type": "API服务",
+    "url": "https://modelscope.cn/api",
+    "description": "魔搭模型API市场，支持语音/视觉/文本模型调用",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "阿里云合规服务"
+  },
+  {
+    "title": "Replicate",
+    "type": "API服务",
+    "url": "https://replicate.com",
+    "description": "开源模型API平台，支持Stable Diffusion等模型调用",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台"
+  },
+  {
+    "title": "Paperspace Gradient",
+    "type": "云平台",
+    "url": "https://gradient.paperspace.com",
+    "description": "ML开发云平台，含Notebook、训练与部署一体化服务",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台"
+  },
+  {
+    "title": "Google Colab",
+    "type": "云平台",
+    "url": "https://colab.research.google.com",
+    "description": "免费Jupyter Notebook环境，支持GPU/TPU加速",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Google官方服务"
+  },
+  {
+    "title": "Kaggle Notebooks",
+    "type": "云平台",
+    "url": "https://www.kaggle.com/code",
+    "description": "免费云Notebook环境，集成数据集与GPU资源",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台"
+  },
+  {
+    "title": "阿里云PAI",
+    "type": "云平台",
+    "url": "https://www.aliyun.com/product/learn/pai",
+    "description": "企业级机器学习平台，支持全流程开发与部署",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国家认证平台"
+  },
+  {
+    "title": "AWS SageMaker",
+    "type": "云平台",
+    "url": "https://aws.amazon.com/sagemaker",
+    "description": "全托管ML服务，含Notebook、训练、部署与监控",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台"
+  },
+  {
+    "title": "Azure Machine Learning",
+    "type": "云平台",
+    "url": "https://azure.microsoft.com/services/machine-learning",
+    "description": "微软云ML平台，支持AutoML与MLOps",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台"
+  },
+  {
+    "title": "NeurIPS",
+    "type": "学术会议",
+    "url": "https://neurips.cc",
+    "description": "顶级AI/ML国际会议，年会论文与教程资源库",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际学术组织"
+  },
+  {
+    "title": "ICML",
+    "type": "学术会议",
+    "url": "https://icml.cc",
+    "description": "国际机器学习大会，核心论文与研讨会资源",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际学术组织"
+  },
+  {
+    "title": "CVPR",
+    "type": "学术会议",
+    "url": "https://cvpr.thecvf.com",
+    "description": "计算机视觉顶会，含论文、代码与数据集",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际学术组织"
+  },
+  {
+    "title": "ACL",
+    "type": "学术会议",
+    "url": "https://aclweb.org",
+    "description": "计算语言学顶会，NLP领域核心会议",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际学术组织"
+  },
+  {
+    "title": "EMNLP",
+    "type": "学术会议",
+    "url": "https://2023.emnlp.org",
+    "description": "自然语言处理重要会议，聚焦实证方法与应用",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际学术组织"
+  },
+  {
+    "title": "AAAI",
+    "type": "学术会议",
+    "url": "https://aaai.org",
+    "description": "人工智能促进协会年会，综合AI领域研究",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际学术组织"
+  },
+  {
+    "title": "IJCAI",
+    "type": "学术会议",
+    "url": "https://ijcai.org",
+    "description": "国际人工智能联合会议，历史悠久的综合AI会议",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际学术组织"
+  },
+  {
+    "title": "GitHub Topics: AI",
+    "type": "开源项目",
+    "url": "https://github.com/topics/artificial-intelligence",
+    "description": "GitHub AI主题仓库，含万级开源项目与趋势",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际开源平台"
+  },
+  {
+    "title": "GitHub Topics: Machine-Learning",
+    "type": "开源项目",
+    "url": "https://github.com/topics/machine-learning",
+    "description": "机器学习开源项目聚合，含框架、工具与案例",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际开源平台"
+  },
+  {
+    "title": "ModelScope开源项目",
+    "type": "开源项目",
+    "url": "https://modelscope.cn/models",
+    "description": "魔搭开源模型库，含训练代码、推理脚本与文档",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "工信部备案平台"
+  },
+  {
+    "title": "Papers With Code SOTA",
+    "type": "资源索引",
+    "url": "https://paperswithcode.com/sota",
+    "description": "各领域SOTA模型排行榜，含论文、代码与复现结果",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "学术合规平台"
+  },
+  {
+    "title": "Awesome AI",
+    "type": "资源索引",
+    "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+    "description": "GitHub精选AI资源列表，含工具、数据集与教程",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "MIT开源"
+  },
+  {
+    "title": "AI News (VentureBeat)",
+    "type": "行业资讯",
+    "url": "https://venturebeat.com/category/ai",
+    "description": "AI领域深度新闻与分析，覆盖技术、商业与政策",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际媒体"
+  },
+  {
+    "title": "机器之心",
+    "type": "行业资讯",
+    "url": "https://www.jiqizhixin.com",
+    "description": "中文AI专业媒体，含技术解读、行业报告与会议资讯",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国内合规媒体"
+  },
+  {
+    "title": "The Batch (DeepLearning.AI)",
+    "type": "行业资讯",
+    "url": "https://www.deeplearning.ai/the-batch",
+    "description": "Andrew Ng团队出品AI周报，精选技术与行业动态",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际教育平台"
+  },
+  {
+    "title": "MIT Technology Review AI",
+    "type": "行业资讯",
+    "url": "https://www.technologyreview.com/topic/artificial-intelligence",
+    "description": "MIT科技评论AI专题，深度分析技术影响与伦理",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际权威媒体"
+  },
+  {
+    "title": "AI Ethics Guidelines (EU)",
+    "type": "伦理规范",
+    "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+    "description": "欧盟AI伦理准则与法规框架，含可信AI评估清单",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际规范文件"
+  },
+  {
+    "title": "中国人工智能伦理规范",
+    "type": "伦理规范",
+    "url": "https://www.cac.gov.cn",
+    "description": "国家网信办发布AI治理原则，强调安全可控与以人为本",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国家规范文件"
+  },
+  {
+    "title": "PartiQL",
+    "type": "数据工具",
+    "url": "https://partiql.org",
+    "description": "统一查询语言，支持SQL查询JSON/关系型/文档数据",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源"
+  },
+  {
+    "title": "DVC",
+    "type": "数据工具",
+    "url": "https://dvc.org",
+    "description": "数据版本控制工具，支持大文件与数据集管理",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源"
+  },
+  {
+    "title": "Great Expectations",
+    "type": "数据工具",
+    "url": "https://greatexpectations.io",
+    "description": "数据质量测试框架，支持数据验证与文档生成",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源"
+  },
+  {
+    "title": "Feature Store (Feast)",
+    "type": "特征平台",
+    "url": "https://feast.dev",
+    "description": "开源特征存储平台，支持训练/推理特征一致性",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源"
+  },
+  {
+    "title": "Hopsworks Feature Store",
+    "type": "特征平台",
+    "url": "https://www.hopsworks.ai",
+    "description": "企业级特征平台，集成MLflow与Kubernetes",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台"
+  },
+  {
+    "title": "Evidently AI",
+    "type": "监控工具",
+    "url": "https://www.evidentlyai.com",
+    "description": "ML模型监控工具，支持数据漂移与模型性能分析",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源"
+  },
+  {
+    "title": "Arize AI",
+    "type": "监控工具",
+    "url": "https://arize.com",
+    "description": "生产环境ML监控平台，支持根因分析与可视化",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台"
+  },
+  {
+    "title": "WhyLabs",
+    "type": "监控工具",
+    "url": "https://whylabs.ai",
+    "description": "无代码ML监控平台，支持自动异常检测",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台"
+  },
+  {
+    "title": "Captum",
+    "type": "可解释性",
+    "url": "https://captum.ai",
+    "description": "PyTorch模型可解释性库，支持特征归因与可视化",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "PyTorch官方工具"
+  },
+  {
+    "title": "SHAP",
+    "type": "可解释性",
+    "url": "https://shap.readthedocs.io",
+    "description": "模型解释统一框架，支持多种算法与可视化",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "MIT开源"
+  },
+  {
+    "title": "LIME",
+    "type": "可解释性",
+    "url": "https://github.com/marcotcr/lime",
+    "description": "局部可解释模型，支持文本/图像/表格数据解释",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "BSD开源"
+  },
+  {
+    "title": "IBM AI Fairness 360",
+    "type": "公平性工具",
+    "url": "https://aif360.mybluemix.net",
+    "description": "AI公平性检测工具包，含30+偏差检测与缓解算法",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源"
+  },
+  {
+    "title": "Google What-If Tool",
+    "type": "公平性工具",
+    "url": "https://pair-code.github.io/what-if-tool",
+    "description": "模型公平性与性能可视化分析工具",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Google开源工具"
+  },
+  {
+    "title": "TensorFlow Privacy",
+    "type": "隐私保护",
+    "url": "https://www.tensorflow.org/responsible_ai/privacy",
+    "description": "差分隐私训练库，支持隐私保护模型训练",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "TensorFlow官方工具"
+  },
+  {
+    "title": "Opacus",
+    "type": "隐私保护",
+    "url": "https://opacus.ai",
+    "description": "PyTorch差分隐私训练库，支持高效隐私保护",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "PyTorch官方工具"
+  },
+  {
+    "title": "NVIDIA TAO Toolkit",
+    "type": "开发工具",
+    "url": "https://developer.nvidia.com/tao-toolkit",
+    "description": "低代码模型训练工具，支持迁移学习与优化",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "NVIDIA官方工具"
+  },
+  {
+    "title": "AutoGluon",
+    "type": "AutoML",
+    "url": "https://auto.gluon.ai",
+    "description": "开源AutoML工具，支持表格/图像/文本自动建模",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源"
+  },
+  {
+    "title": "H2O AutoML",
+    "type": "AutoML",
+    "url": "https://www.h2o.ai/products/h2o-automl",
+    "description": "企业级AutoML平台，支持模型训练与部署",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "开源核心+商业版"
+  },
+  {
+    "title": "TPOT",
+    "type": "AutoML",
+    "url": "https://epistasislab.github.io/tpot",
+    "description": "基于遗传算法的AutoML工具，生成优化Pipeline",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "MIT开源"
+  },
+  {
+    "title": "Ray Tune",
+    "type": "超参优化",
+    "url": "https://docs.ray.io/en/latest/tune",
+    "description": "分布式超参调优库，支持多种搜索算法与调度器",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源"
+  },
+  {
+    "title": "Optuna",
+    "type": "超参优化",
+    "url": "https://optuna.org",
+    "description": "超参优化框架，支持动态构建搜索空间",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "MIT开源"
+  },
+  {
+    "title": "Weights & Biases Sweeps",
+    "type": "超参优化",
+    "url": "https://wandb.ai/site/sweeps",
+    "description": "实验管理平台内置超参搜索功能",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规工具"
+  },
+  {
+    "title": "ClearML",
+    "type": "MLOps",
+    "url": "https://clear.ml",
+    "description": "开源MLOps平台，集成实验跟踪、自动化与部署",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源"
+  },
+  {
+    "title": "Kubeflow",
+    "type": "MLOps",
+    "url": "https://www.kubeflow.org",
+    "description": "Kubernetes原生ML工作流平台，支持端到端Pipeline",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "CNCF毕业项目"
+  },
+  {
+    "title": "MLflow Projects",
+    "type": "MLOps",
+    "url": "https://mlflow.org/docs/latest/projects.html",
+    "description": "ML项目打包标准，支持多环境复现",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Linux基金会项目"
+  },
+  {
+    "title": "DVC Pipelines",
+    "type": "MLOps",
+    "url": "https://dvc.org/doc/user-guide/project-structure/pipelines",
+    "description": "数据科学Pipeline管理，支持版本化工作流",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源"
+  },
+  {
+    "title": "Flyte",
+    "type": "MLOps",
+    "url": "https://flyte.org",
+    "description": "云原生ML编排平台，支持大规模工作流",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Linux基金会项目"
+  },
+  {
+    "title": "Meta AI Research",
+    "type": "研究机构",
+    "url": "https://ai.meta.com/research",
+    "description": "Meta AI研究部门，发布LLaMA等开源模型与论文",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际研究机构"
+  },
+  {
+    "title": "Google AI",
+    "type": "研究机构",
+    "url": "https://ai.google",
+    "description": "Google人工智能研究，含DeepMind与Google Research成果",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际研究机构"
+  },
+  {
+    "title": "Microsoft Research AI",
+    "type": "研究机构",
+    "url": "https://www.microsoft.com/research/research-area/artificial-intelligence",
+    "description": "微软研究院AI部门，发布多模态、NLP等前沿工作",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际研究机构"
+  },
+  {
+    "title": "通义实验室",
+    "type": "研究机构",
+    "url": "https://www.aliyun.com/product/tongyi",
+    "description": "阿里云大模型研究团队，发布Qwen系列模型与应用",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国家认证平台"
+  },
+  {
+    "title": "智源研究院",
+    "type": "研究机构",
+    "url": "https://www.baai.ac.cn",
+    "description": "北京智源人工智能研究院，发布悟道模型与开源项目",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国家认证平台"
+  },
+  {
+    "title": "上海人工智能实验室",
+    "type": "研究机构",
+    "url": "https://www.shlab.org.cn",
+    "description": "国家级AI研究机构，发布书生大模型等成果",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国家认证平台"
+  },
+  {
+    "title": "Stanford HAI",
+    "type": "研究机构",
+    "url": "https://hai.stanford.edu",
+    "description": "斯坦福以人为本AI研究院，聚焦技术与社会交叉研究",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际研究机构"
+  },
+  {
+    "title": "MIT CSAIL",
+    "type": "研究机构",
+    "url": "https://www.csail.mit.edu",
+    "description": "MIT计算机科学与人工智能实验室，基础研究重镇",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际研究机构"
+  },
+  {
+    "title": "CMU LTI",
+    "type": "研究机构",
+    "url": "https://lti.cs.cmu.edu",
+    "description": "卡内基梅隆大学语言技术研究所，NLP领域权威",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际研究机构"
+  },
+  {
+    "title": "伯克利BAIR",
+    "type": "研究机构",
+    "url": "https://bair.berkeley.edu",
+    "description": "伯克利人工智能研究实验室，强化学习与机器人方向",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际研究机构"
+  },
+  {
+    "title": "TensorFlow官方博客",
+    "type": "技术博客",
+    "url": "https://blog.tensorflow.org",
+    "description": "TensorFlow团队技术博客，含最佳实践与新特性",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台"
+  },
+  {
+    "title": "PyTorch博客",
+    "type": "技术博客",
+    "url": "https://pytorch.org/blog",
+    "description": "PyTorch官方技术博客，含框架更新与案例分享",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台"
+  },
+  {
+    "title": "Hugging Face博客",
+    "type": "技术博客",
+    "url": "https://huggingface.co/blog",
+    "description": "Hugging Face技术博客，含模型发布与工具教程",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台"
+  },
+  {
+    "title": "阿里云技术博客",
+    "type": "技术博客",
+    "url": "https://developer.aliyun.com/article",
+    "description": "阿里云技术实践分享，含大模型、MLOps等方向",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国家认证平台"
+  },
+  {
+    "title": "机器之心技术专栏",
+    "type": "技术博客",
+    "url": "https://www.jiqizhixin.com/column/technical",
+    "description": "中文AI技术深度解析，含论文解读与工程实践",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国内合规媒体"
+  },
+  {
+    "title": "Distill.pub",
+    "type": "技术博客",
+    "url": "https://distill.pub",
+    "description": "可视化技术博客，聚焦ML概念清晰解释",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际学术平台"
+  },
+  {
+    "title": "Sebastian Raschka博客",
+    "type": "技术博客",
+    "url": "https://sebastianraschka.com/blog",
+    "description": "ML工程实践博客，含PyTorch技巧与MLOps指南",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "个人技术博客"
+  },
+  {
+    "title": "Andrej Karpathy博客",
+    "type": "技术博客",
+    "url": "https://karpathy.ai",
+    "description": "深度学习实践博客，含神经网络训练技巧与见解",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "个人技术博客"
+  },
+  {
+    "title": "Weights & Biases博客",
+    "type": "技术博客",
+    "url": "https://wandb.ai/site/blog",
+    "description": "ML实验管理实践博客，含案例与工具教程",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台"
+  },
+  {
+    "title": "Full Stack Deep Learning",
+    "type": "课程资源",
+    "url": "https://fullstackdeeplearning.com",
+    "description": "全栈深度学习课程，覆盖产品化全流程",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际教育平台"
+  },
+  {
+    "title": "Stanford CS229",
+    "type": "课程资源",
+    "url": "https://cs229.stanford.edu",
+    "description": "斯坦福机器学习经典课程，Andrew Ng主讲",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际学术资源"
+  },
+  {
+    "title": "Berkeley CS294-158",
+    "type": "课程资源",
+    "url": "https://cs294-158.github.io",
+    "description": "伯克利深度无监督学习课程，含讲义与作业",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际学术资源"
+  },
+  {
+    "title": "李宏毅机器学习",
+    "type": "课程资源",
+    "url": "https://speech.ee.ntu.edu.tw/~hylee/ml",
+    "description": "台湾大学机器学习课程，中文讲解含深度学习",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "学术教育资源"
+  },
+  {
+    "title": "吴恩达《Machine Learning》",
+    "type": "课程资源",
+    "url": "https://www.coursera.org/learn/machine-learning",
+    "description": "Coursera经典ML课程，理论与实践结合",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际教育平台"
+  },
+  {
+    "title": "吴恩达《Deep Learning Specialization》",
+    "type": "课程资源",
+    "url": "https://www.coursera.org/specializations/deep-learning",
+    "description": "深度学习专项课程，含CNN/RNN/Transformer等",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际教育平台"
+  },
+  {
+    "title": "Fast.ai《Practical Deep Learning》",
+    "type": "课程资源",
+    "url": "https://course.fast.ai",
+    "description": "实战深度学习课程，代码优先、项目驱动",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际教育平台"
+  },
+  {
+    "title": "DeepLearning.AI《Generative AI》",
+    "type": "课程资源",
+    "url": "https://www.deeplearning.ai/short-courses",
+    "description": "生成式AI短课程系列，含提示工程与RAG",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际教育平台"
+  },
+  {
+    "title": "阿里云ACA/ACP认证",
+    "type": "认证体系",
+    "url": "https://edu.aliyun.com/certification",
+    "description": "阿里云人工智能工程师认证，含实操与理论考核",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国家认证体系"
+  },
+  {
+    "title": "AWS ML Specialty",
+    "type": "认证体系",
+    "url": "https://aws.amazon.com/certification/certified-machine-learning-specialty",
+    "description": "AWS机器学习专家认证，考察云上ML实践能力",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际认证体系"
+  },
+  {
+    "title": "Google Professional ML Engineer",
+    "type": "认证体系",
+    "url": "https://cloud.google.com/certification/machine-learning-engineer",
+    "description": "Google云ML工程师认证，聚焦生产环境部署",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际认证体系"
+  },
+  {
+    "title": "Microsoft Azure AI Engineer",
+    "type": "认证体系",
+    "url": "https://learn.microsoft.com/certifications/azure-ai-engineer",
+    "description": "微软Azure AI工程师认证，含认知服务与模型部署",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际认证体系"
+  },
+  {
+    "title": "NVIDIA DLI",
+    "type": "培训认证",
+    "url": "https://www.nvidia.com/en-us/training/instructor-led-workshops",
+    "description": "NVIDIA深度学习培训，含CV/NLP/推荐系统方向",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "厂商认证培训"
+  },
+  {
+    "title": "ModelScope学院",
+    "type": "培训认证",
+    "url": "https://modelscope.cn/education",
+    "description": "魔搭官方培训体系，含模型应用与部署认证",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "工信部备案平台"
+  },
+  {
+    "title": "中国人工智能学会认证",
+    "type": "认证体系",
+    "url": "https://www.caai.cn",
+    "description": "CAAI人工智能工程师认证，国内权威资质",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国家认证体系"
+  },
+  {
+    "title": "IEEE AI Standards",
+    "type": "标准规范",
+    "url": "https://standards.ieee.org/industry-connections/ec/autonomous-systems",
+    "description": "IEEE人工智能标准工作组，制定伦理与技术标准",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际标准组织"
+  },
+  {
+    "title": "ISO/IEC JTC 1/SC 42",
+    "type": "标准规范",
+    "url": "https://www.iso.org/committee/6794445.html",
+    "description": "国际AI标准化技术委员会，制定AI基础标准",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际标准组织"
+  },
+  {
+    "title": "中国信通院AI标准",
+    "type": "标准规范",
+    "url": "https://www.caict.ac.cn",
+    "description": "中国AI技术标准与评估体系，含模型评测规范",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国家认证机构"
+  },
+  {
+    "title": "MLPerf",
+    "type": "基准测试",
+    "url": "https://mlcommons.org/en",
+    "description": "全球ML性能基准测试，含训练/推理/边缘设备",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际产业联盟"
+  },
+  {
+    "title": "GLUE Benchmark",
+    "type": "基准测试",
+    "url": "https://gluebenchmark.com",
+    "description": "NLP通用语言理解评估基准，含9项任务",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "学术基准"
+  },
+  {
+    "title": "SuperGLUE",
+    "type": "基准测试",
+    "url": "https://super.gluebenchmark.com",
+    "description": "GLUE升级版，更具挑战性的NLP评估基准",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "学术基准"
+  },
+  {
+    "title": "ImageNet",
+    "type": "基准测试",
+    "url": "https://image-net.org",
+    "description": "计算机视觉经典数据集与竞赛基准",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "学术基准"
+  },
+  {
+    "title": "ModelScope评测",
+    "type": "基准测试",
+    "url": "https://modelscope.cn/evaluation",
+    "description": "中文模型评测平台，含多任务能力评估",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "工信部备案平台"
+  },
+  {
+    "title": "Open LLM Leaderboard",
+    "type": "基准测试",
+    "url": "https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard",
+    "description": "开源大语言模型排行榜，含多项能力评测",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际开源平台"
+  },
+  {
+    "title": "BigModel.cn",
+    "type": "中文资源",
+    "url": "https://bigmodel.cn",
+    "description": "智谱AI开放平台，含GLM系列模型与应用",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国家认证平台"
+  },
+  {
+    "title": "ModelWhale",
+    "type": "协作平台",
+    "url": "https://www.modelwhale.com",
+    "description": "数据科学协作平台，支持Notebook与项目管理",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国内合规平台"
+  },
+  {
+    "title": "Jina AI",
+    "url": "https://jina.ai",
+    "type": "向量搜索",
+    "description": "云原生向量搜索框架，支持多模态检索",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "待验证"
+  }
+]

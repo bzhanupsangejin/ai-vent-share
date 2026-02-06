@@ -1,0 +1,13 @@
+{
+  "ai_generated": true,
+  "compliance_check": true,
+  "contact": {},
+  "resources": [],
+  "type": "vent/share/help",
+  "status": { "approved": false, "reason": "" },
+  "version": 1,
+  "prev_hash": "",
+  "delete_request": false,
+  "content": "这里放吐槽/求助/分享正文",
+  "timestamp": "YYYY-MM-DD"
+}

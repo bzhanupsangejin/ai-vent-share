@@ -1,0 +1,19 @@
+[
+  {
+    "title": "ModelWhale",
+    "content_type": "协作平台",
+    "summary": "数据科学协作平台，支持Notebook与项目管理",
+    "direct_link": "https://www.modelwhale.com",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国内合规平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0310",
+    "full_content_anchor": "ai_item_0310"
+  }
+]

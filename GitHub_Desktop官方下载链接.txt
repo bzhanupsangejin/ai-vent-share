@@ -1,0 +1,189 @@
+================================================================================
+GitHub Desktop 官方下载链接
+================================================================================
+生成时间：2026年02月04日
+
+================================================================================
+一、官方下载地址
+================================================================================
+
+【GitHub Desktop 官方网站】
+https://desktop.github.com/
+
+【Windows 64位版本（推荐）】
+https://central.github.com/deployments/desktop/desktop/latest/win32
+
+【Windows MSI安装包版本】
+https://central.github.com/deployments/desktop/desktop/latest/win32-x64-msi
+
+【备用下载地址（GitHub Releases）】
+https://github.com/desktop/desktop/releases/latest
+
+【直接下载最新版（64位）】
+https://github.com/desktop/desktop/releases/latest/download/GitHubDesktopSetup-x64.exe
+
+【直接下载最新版（MSI）】
+https://github.com/desktop/desktop/releases/latest/download/GitHubDesktopSetup-x64.msi
+
+================================================================================
+二、版本说明
+================================================================================
+
+【EXE版本（推荐个人用户）】
+- 文件名：GitHubDesktopSetup-x64.exe
+- 大小：约170-180 MB
+- 特点：自动安装，无需管理员权限
+- 安装位置：C:\Users\用户名\AppData\Local\GitHubDesktop
+
+【MSI版本（推荐企业用户）】
+- 文件名：GitHubDesktopSetup-x64.msi
+- 大小：约170-180 MB
+- 特点：支持批量部署，可自定义安装位置
+- 需要：管理员权限
+
+================================================================================
+三、下载方式
+================================================================================
+
+【方式1：直接点击链接下载（推荐）】
+--------------------------------------
+1. 复制以下链接到浏览器：
+   https://desktop.github.com/
+
+2. 点击页面上的 "Download for Windows" 按钮
+
+3. 等待下载完成
+
+【方式2：使用命令行下载】
+--------------------------------------
+打开PowerShell，运行以下命令：
+
+Invoke-WebRequest -Uri "https://central.github.com/deployments/desktop/desktop/latest/win32" -OutFile "$env:USERPROFILE\Desktop\GitHubDesktopSetup.exe"
+
+【方式3：使用浏览器直接下载】
+--------------------------------------
+复制以下链接到浏览器地址栏：
+
+https://github.com/desktop/desktop/releases/latest/download/GitHubDesktopSetup-x64.exe
+
+浏览器会自动开始下载
+
+================================================================================
+四、其他Git工具下载链接
+================================================================================
+
+【Git for Windows（命令行工具）】
+https://git-scm.com/download/win
+
+【TortoiseGit（图形化工具）】
+https://tortoisegit.org/download/
+
+【Sourcetree（Atlassian出品）】
+https://www.sourcetreeapp.com/
+
+【GitKraken（跨平台）】
+https://www.gitkraken.com/download
+
+================================================================================
+五、GitHub相关资源
+================================================================================
+
+【GitHub官网】
+https://github.com
+
+【GitHub文档】
+https://docs.github.com
+
+【GitHub CLI（命令行工具）】
+https://cli.github.com/
+
+【GitHub Mobile（手机App）】
+- iOS: https://apps.apple.com/app/github/id1477376905
+- Android: https://play.google.com/store/apps/details?id=com.github.android
+
+================================================================================
+六、下载后的操作
+================================================================================
+
+1. 找到下载的文件（通常在Downloads文件夹）
+2. 双击运行安装程序
+3. 按照安装向导完成安装
+4. 安装完成后会自动打开GitHub Desktop
+5. 点击 "Sign in to GitHub.com" 登录账号
+6. 开始使用
+
+================================================================================
+七、系统要求
+================================================================================
+
+【最低要求】
+- 操作系统：Windows 10 或更高版本（64位）
+- 内存：4 GB RAM
+- 硬盘空间：500 MB
+
+【推荐配置】
+- 操作系统：Windows 11（64位）
+- 内存：8 GB RAM 或更高
+- 硬盘空间：1 GB 或更高
+
+================================================================================
+八、常见问题
+================================================================================
+
+【问题1】下载速度慢怎么办？
+--------------------------------------
+解决方案：
+1. 先配置hosts文件（使用桌面上的"修改GitHub_Hosts.bat"）
+2. 刷新DNS缓存
+3. 重新下载
+
+【问题2】下载失败怎么办？
+--------------------------------------
+解决方案：
+1. 检查网络连接
+2. 尝试使用备用下载地址
+3. 使用下载工具（如IDM、迅雷）
+4. 从GitHub Releases页面手动下载
+
+【问题3】安装时提示需要管理员权限
+--------------------------------------
+解决方案：
+1. 右键点击安装文件
+2. 选择"以管理员身份运行"
+3. 或者下载EXE版本（无需管理员权限）
+
+【问题4】安装后无法启动
+--------------------------------------
+解决方案：
+1. 检查系统版本是否为Windows 10或更高
+2. 检查是否安装了.NET Framework
+3. 重新下载并安装
+4. 查看错误日志
+
+================================================================================
+九、快速链接汇总
+================================================================================
+
+【最常用】
+官方网站：https://desktop.github.com/
+直接下载：https://central.github.com/deployments/desktop/desktop/latest/win32
+
+【备用】
+GitHub Releases：https://github.com/desktop/desktop/releases/latest
+直接下载EXE：https://github.com/desktop/desktop/releases/latest/download/GitHubDesktopSetup-x64.exe
+直接下载MSI：https://github.com/desktop/desktop/releases/latest/download/GitHubDesktopSetup-x64.msi
+
+【其他工具】
+Git命令行：https://git-scm.com/download/win
+GitHub CLI：https://cli.github.com/
+
+================================================================================
+报告结束
+================================================================================
+生成时间：2026年02月04日
+执行AI：阶跃星辰 (StepFun)
+
+【推荐下载链接】
+https://desktop.github.com/
+或
+https://central.github.com/deployments/desktop/desktop/latest/win32

@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Captum",
+    "content_type": "可解释性",
+    "summary": "PyTorch模型可解释性库，支持特征归因与可视化",
+    "direct_link": "https://captum.ai",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "PyTorch官方工具",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0247",
+    "full_content_anchor": "ai_item_0247"
+  },
+  {
+    "title": "SHAP",
+    "content_type": "可解释性",
+    "summary": "模型解释统一框架，支持多种算法与可视化",
+    "direct_link": "https://shap.readthedocs.io",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "MIT开源",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0248",
+    "full_content_anchor": "ai_item_0248"
+  },
+  {
+    "title": "LIME",
+    "content_type": "可解释性",
+    "summary": "局部可解释模型，支持文本/图像/表格数据解释",
+    "direct_link": "https://github.com/marcotcr/lime",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "BSD开源",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0249",
+    "full_content_anchor": "ai_item_0249"
+  }
+]

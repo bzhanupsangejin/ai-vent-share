@@ -1,0 +1,9 @@
+{
+  "old_version": "1.0",
+  "new_version": "1.0",
+  "changed_uuids": [],
+  "added_uuids": [],
+  "removed_uuids": [],
+  "timestamp": "2026-02-05 22:28:21",
+  "note": "AI通过对比本地version与此文件，仅拉取changed/added的UUID对应资源"
+}

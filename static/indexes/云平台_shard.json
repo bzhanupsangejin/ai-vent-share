@@ -1,0 +1,104 @@
+[
+  {
+    "title": "Paperspace Gradient",
+    "content_type": "云平台",
+    "summary": "ML开发云平台，含Notebook、训练与部署一体化服务",
+    "direct_link": "https://gradient.paperspace.com",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0215",
+    "full_content_anchor": "ai_item_0215"
+  },
+  {
+    "title": "Google Colab",
+    "content_type": "云平台",
+    "summary": "免费Jupyter Notebook环境，支持GPU/TPU加速",
+    "direct_link": "https://colab.research.google.com",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Google官方服务",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0216",
+    "full_content_anchor": "ai_item_0216"
+  },
+  {
+    "title": "Kaggle Notebooks",
+    "content_type": "云平台",
+    "summary": "免费云Notebook环境，集成数据集与GPU资源",
+    "direct_link": "https://www.kaggle.com/code",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0217",
+    "full_content_anchor": "ai_item_0217"
+  },
+  {
+    "title": "阿里云PAI",
+    "content_type": "云平台",
+    "summary": "企业级机器学习平台，支持全流程开发与部署",
+    "direct_link": "https://www.aliyun.com/product/learn/pai",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国家认证平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0218",
+    "full_content_anchor": "ai_item_0218"
+  },
+  {
+    "title": "AWS SageMaker",
+    "content_type": "云平台",
+    "summary": "全托管ML服务，含Notebook、训练、部署与监控",
+    "direct_link": "https://aws.amazon.com/sagemaker",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0219",
+    "full_content_anchor": "ai_item_0219"
+  },
+  {
+    "title": "Azure Machine Learning",
+    "content_type": "云平台",
+    "summary": "微软云ML平台，支持AutoML与MLOps",
+    "direct_link": "https://azure.microsoft.com/services/machine-learning",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0220",
+    "full_content_anchor": "ai_item_0220"
+  }
+]

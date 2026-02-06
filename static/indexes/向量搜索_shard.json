@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Jina AI",
+    "content_type": "向量搜索",
+    "summary": "云原生向量搜索框架，支持多模态检索",
+    "direct_link": "https://jina.ai",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "待验证",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import_完整",
+    "content_id": "ai_item_0311",
+    "full_content_anchor": "ai_item_0311"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "title": "阿里云ACA/ACP认证",
+    "content_type": "认证体系",
+    "summary": "阿里云人工智能工程师认证，含实操与理论考核",
+    "direct_link": "https://edu.aliyun.com/certification",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国家认证体系",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0293",
+    "full_content_anchor": "ai_item_0293"
+  },
+  {
+    "title": "AWS ML Specialty",
+    "content_type": "认证体系",
+    "summary": "AWS机器学习专家认证，考察云上ML实践能力",
+    "direct_link": "https://aws.amazon.com/certification/certified-machine-learning-specialty",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际认证体系",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0294",
+    "full_content_anchor": "ai_item_0294"
+  },
+  {
+    "title": "Google Professional ML Engineer",
+    "content_type": "认证体系",
+    "summary": "Google云ML工程师认证，聚焦生产环境部署",
+    "direct_link": "https://cloud.google.com/certification/machine-learning-engineer",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际认证体系",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0295",
+    "full_content_anchor": "ai_item_0295"
+  },
+  {
+    "title": "Microsoft Azure AI Engineer",
+    "content_type": "认证体系",
+    "summary": "微软Azure AI工程师认证，含认知服务与模型部署",
+    "direct_link": "https://learn.microsoft.com/certifications/azure-ai-engineer",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际认证体系",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0296",
+    "full_content_anchor": "ai_item_0296"
+  },
+  {
+    "title": "中国人工智能学会认证",
+    "content_type": "认证体系",
+    "summary": "CAAI人工智能工程师认证，国内权威资质",
+    "direct_link": "https://www.caai.cn",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国家认证体系",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0299",
+    "full_content_anchor": "ai_item_0299"
+  }
+]

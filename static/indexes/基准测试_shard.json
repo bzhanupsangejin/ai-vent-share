@@ -1,0 +1,104 @@
+[
+  {
+    "title": "MLPerf",
+    "content_type": "基准测试",
+    "summary": "全球ML性能基准测试，含训练/推理/边缘设备",
+    "direct_link": "https://mlcommons.org/en",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际产业联盟",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0303",
+    "full_content_anchor": "ai_item_0303"
+  },
+  {
+    "title": "GLUE Benchmark",
+    "content_type": "基准测试",
+    "summary": "NLP通用语言理解评估基准，含9项任务",
+    "direct_link": "https://gluebenchmark.com",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "学术基准",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0304",
+    "full_content_anchor": "ai_item_0304"
+  },
+  {
+    "title": "SuperGLUE",
+    "content_type": "基准测试",
+    "summary": "GLUE升级版，更具挑战性的NLP评估基准",
+    "direct_link": "https://super.gluebenchmark.com",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "学术基准",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0305",
+    "full_content_anchor": "ai_item_0305"
+  },
+  {
+    "title": "ImageNet",
+    "content_type": "基准测试",
+    "summary": "计算机视觉经典数据集与竞赛基准",
+    "direct_link": "https://image-net.org",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "学术基准",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0306",
+    "full_content_anchor": "ai_item_0306"
+  },
+  {
+    "title": "ModelScope评测",
+    "content_type": "基准测试",
+    "summary": "中文模型评测平台，含多任务能力评估",
+    "direct_link": "https://modelscope.cn/evaluation",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "工信部备案平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0307",
+    "full_content_anchor": "ai_item_0307"
+  },
+  {
+    "title": "Open LLM Leaderboard",
+    "content_type": "基准测试",
+    "summary": "开源大语言模型排行榜，含多项能力评测",
+    "direct_link": "https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际开源平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0308",
+    "full_content_anchor": "ai_item_0308"
+  }
+]

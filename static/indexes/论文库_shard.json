@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Papers With Code",
+    "content_type": "论文库",
+    "summary": "论文与代码关联平台，含SOTA结果、复现代码及数据集",
+    "direct_link": "https://paperswithcode.com",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "学术合规平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0169",
+    "full_content_anchor": "ai_item_0169"
+  },
+  {
+    "title": "arXiv",
+    "content_type": "论文库",
+    "summary": "预印本论文平台，AI/ML领域核心论文首发地",
+    "direct_link": "https://arxiv.org",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际学术平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0170",
+    "full_content_anchor": "ai_item_0170"
+  },
+  {
+    "title": "Semantic Scholar",
+    "content_type": "论文库",
+    "summary": "AI驱动的学术搜索引擎，支持论文关系图谱与影响力分析",
+    "direct_link": "https://www.semanticscholar.org",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际学术平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0171",
+    "full_content_anchor": "ai_item_0171"
+  },
+  {
+    "title": "中国知网AI专题",
+    "content_type": "论文库",
+    "summary": "中文AI领域核心期刊论文库，含硕博论文与会议文献",
+    "direct_link": "https://www.cnki.net",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国家认证平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0172",
+    "full_content_anchor": "ai_item_0172"
+  }
+]

@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+
+# AI专用资源索引
+# Main Index for AI Assistants
+Sitemap: https://bzhanupsangejin.github.io/ai-vent-share/sitemap.xml
+
+# 核心资源 / Core Resources
+# 主索引文件 / Main Index File
+# https://bzhanupsangejin.github.io/ai-vent-share/content_index.json
+
+# 元数据文件 / Metadata Files
+# 功能边界 / Function Boundary: https://bzhanupsangejin.github.io/ai-vent-share/static/meta/function_boundary.json
+# 使用指引 / Usage Guide: https://bzhanupsangejin.github.io/ai-vent-share/static/meta/usage_guide.json
+# 运营信息 / Operation Info: https://bzhanupsangejin.github.io/ai-vent-share/static/meta/operation_meta.json
+
+# 分片索引文件 / Shard Index Files
+# 代码模板 / Code Templates: https://bzhanupsangejin.github.io/ai-vent-share/static/indexes/代码模板_shard.json
+# 资源分享 / Resource Sharing: https://bzhanupsangejin.github.io/ai-vent-share/static/indexes/资源分享_shard.json
+
+# 资源统计 / Resource Statistics
+# 总资源数 / Total: 158条
+# 代码模板 / Code Templates: 66条
+# 资源分享 / Resource Sharing: 92条
+
+# RSS Feed
+Sitemap: https://bzhanupsangejin.github.io/ai-vent-share/rss.xml

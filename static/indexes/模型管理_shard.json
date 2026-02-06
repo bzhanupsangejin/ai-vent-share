@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Weights & Biases Artifacts",
+    "content_type": "模型管理",
+    "summary": "模型与数据集版本管理，支持团队共享与复现",
+    "direct_link": "https://wandb.ai/artifacts",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规工具",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0197",
+    "full_content_anchor": "ai_item_0197"
+  },
+  {
+    "title": "ModelDB",
+    "content_type": "模型管理",
+    "summary": "开源模型管理平台，支持元数据记录与查询",
+    "direct_link": "https://modeldb.ml",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "MIT开源",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0198",
+    "full_content_anchor": "ai_item_0198"
+  }
+]

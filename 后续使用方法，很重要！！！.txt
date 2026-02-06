@@ -1,0 +1,42 @@
+后续使用方法
+添加新资源（推荐）
+bash
+
+复制代码
+
+查看全部
+# 1. 运行手动同步脚本
+python scripts/manual_sync.py
+
+# 2. 按提示输入资源信息
+
+# 3. 生成分片索引
+python scripts/generate_shard_index.py
+
+# 4. 提交代码
+git add .
+git commit -m "manual: 新增AI资源"
+git push origin main
+AI访问分片索引
+python
+
+复制代码
+
+查看全部
+import requests
+import json
+
+# 仅加载代码模板分类（降低算力消耗）
+url = "https://bzhanupsangejin.github.io/ai-vent-share/static/indexes/代码模板_shard.json"
+resp = requests.get(url)
+data = json.loads(resp.text)
+print(f"代码模板数量：{len(data)}条")
+⚠️ 重要提醒
+每次添加/修改资源后，必须执行分片索引生成：
+
+bash
+
+复制代码
+
+查看全部
+python scripts/generate_shard_index.py

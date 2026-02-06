@@ -1,0 +1,53 @@
+[
+  {
+    "title": "GitHub Topics: AI",
+    "content_type": "开源项目",
+    "summary": "GitHub AI主题仓库，含万级开源项目与趋势",
+    "direct_link": "https://github.com/topics/artificial-intelligence",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际开源平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0228",
+    "full_content_anchor": "ai_item_0228"
+  },
+  {
+    "title": "GitHub Topics: Machine-Learning",
+    "content_type": "开源项目",
+    "summary": "机器学习开源项目聚合，含框架、工具与案例",
+    "direct_link": "https://github.com/topics/machine-learning",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际开源平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0229",
+    "full_content_anchor": "ai_item_0229"
+  },
+  {
+    "title": "ModelScope开源项目",
+    "content_type": "开源项目",
+    "summary": "魔搭开源模型库，含训练代码、推理脚本与文档",
+    "direct_link": "https://modelscope.cn/models",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "工信部备案平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0230",
+    "full_content_anchor": "ai_item_0230"
+  }
+]

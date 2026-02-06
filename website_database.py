@@ -1,0 +1,186 @@
+# 150个高访问量中英文网站完整清单
+# 分类：AI平台、开源社区、文档学习、效率工具、设计资源、数据资源、新闻媒体、云服务、API服务、综合工具
+
+WEBSITE_DATA = [
+    # ========== 中文AI平台（10个）==========
+    {"name": "讯飞星火", "url": "https://xinghuo.xfyun.cn", "desc": "国产通用大模型，支持API调用、多模态生成", "lang": "zh"},
+    {"name": "百度文心一言", "url": "https://yiyan.baidu.com", "desc": "百度自研大模型，开放生态与开发者接口", "lang": "zh"},
+    {"name": "通义千问", "url": "https://tongyi.aliyun.com", "desc": "阿里AI大模型，提供企业级/开发者服务", "lang": "zh"},
+    {"name": "智谱清言", "url": "https://chatglm.cn", "desc": "开源闭源结合的大模型，支持本地化部署", "lang": "zh"},
+    {"name": "Kimi", "url": "https://kimi.moonshot.cn", "desc": "月之暗面AI助手，支持超长文本处理", "lang": "zh"},
+    {"name": "豆包", "url": "https://www.doubao.com", "desc": "字节跳动AI助手，多场景应用", "lang": "zh"},
+    {"name": "腾讯混元", "url": "https://hunyuan.tencent.com", "desc": "腾讯自研大模型，企业级AI服务", "lang": "zh"},
+    {"name": "商汤日日新", "url": "https://www.sensetime.com", "desc": "商汤科技AI平台，计算机视觉领域领先", "lang": "zh"},
+    {"name": "MiniMax", "url": "https://www.minimax.chat", "desc": "国产AI对话平台，支持多模态交互", "lang": "zh"},
+    {"name": "澜舟科技", "url": "https://www.langboat.com", "desc": "企业级AI解决方案提供商", "lang": "zh"},
+    
+    # ========== 英文AI平台（15个）==========
+    {"name": "OpenAI", "url": "https://openai.com", "desc": "全球领先大模型研发，API生态完善", "lang": "en"},
+    {"name": "Anthropic", "url": "https://www.anthropic.com", "desc": "Claude大模型开发商，安全AI架构", "lang": "en"},
+    {"name": "Google AI", "url": "https://ai.google", "desc": "谷歌AI研究与产品，Gemini系列模型", "lang": "en"},
+    {"name": "Hugging Face", "url": "https://huggingface.co", "desc": "AI模型/数据集开源社区，行业标准库", "lang": "en"},
+    {"name": "Mistral AI", "url": "https://mistral.ai", "desc": "欧洲开源AI公司，高性能模型", "lang": "en"},
+    {"name": "Cohere", "url": "https://cohere.com", "desc": "企业级NLP平台，API服务", "lang": "en"},
+    {"name": "Stability AI", "url": "https://stability.ai", "desc": "Stable Diffusion开发商，图像生成AI", "lang": "en"},
+    {"name": "Midjourney", "url": "https://www.midjourney.com", "desc": "AI艺术创作平台，高质量图像生成", "lang": "en"},
+    {"name": "Replicate", "url": "https://replicate.com", "desc": "AI模型云端运行平台，一键部署", "lang": "en"},
+    {"name": "Perplexity", "url": "https://www.perplexity.ai", "desc": "AI搜索引擎，实时信息检索", "lang": "en"},
+    {"name": "Character.AI", "url": "https://character.ai", "desc": "AI角色对话平台，个性化交互", "lang": "en"},
+    {"name": "Jasper", "url": "https://www.jasper.ai", "desc": "AI内容创作平台，营销文案生成", "lang": "en"},
+    {"name": "Copy.ai", "url": "https://www.copy.ai", "desc": "AI写作助手，多场景文案生成", "lang": "en"},
+    {"name": "Runway", "url": "https://runwayml.com", "desc": "AI视频编辑平台，创意工具", "lang": "en"},
+    {"name": "ElevenLabs", "url": "https://elevenlabs.io", "desc": "AI语音合成平台，多语言支持", "lang": "en"},
+    
+    # ========== 开源社区（15个）==========
+    {"name": "GitHub", "url": "https://github.com", "desc": "全球最大开源代码托管平台", "lang": "en"},
+    {"name": "GitLab", "url": "https://gitlab.com", "desc": "开源DevOps平台，私有化部署方案", "lang": "en"},
+    {"name": "Gitee", "url": "https://gitee.com", "desc": "国产开源代码托管平台，国内访问稳定", "lang": "zh"},
+    {"name": "Stack Overflow", "url": "https://stackoverflow.com", "desc": "全球最大编程问答社区", "lang": "en"},
+    {"name": "Dev.to", "url": "https://dev.to", "desc": "全球技术创作者社区", "lang": "en"},
+    {"name": "掘金", "url": "https://juejin.cn", "desc": "技术开发者社区，教程/源码/实战分享", "lang": "zh"},
+    {"name": "CSDN", "url": "https://www.csdn.net", "desc": "中国最大IT社区和服务平台", "lang": "zh"},
+    {"name": "博客园", "url": "https://www.cnblogs.com", "desc": "开发者知识分享社区", "lang": "zh"},
+    {"name": "SegmentFault", "url": "https://segmentfault.com", "desc": "中文技术问答社区", "lang": "zh"},
+    {"name": "V2EX", "url": "https://www.v2ex.com", "desc": "创意工作者社区", "lang": "zh"},
+    {"name": "Reddit", "url": "https://www.reddit.com", "desc": "全球最大社交新闻聚合平台", "lang": "en"},
+    {"name": "Hacker News", "url": "https://news.ycombinator.com", "desc": "技术创业者新闻社区", "lang": "en"},
+    {"name": "Product Hunt", "url": "https://www.producthunt.com", "desc": "新产品发现平台", "lang": "en"},
+    {"name": "Indie Hackers", "url": "https://www.indiehackers.com", "desc": "独立开发者社区", "lang": "en"},
+    {"name": "CodePen", "url": "https://codepen.io", "desc": "前端代码分享平台", "lang": "en"},
+    
+    # ========== 文档学习（20个）==========
+    {"name": "MDN Web Docs", "url": "https://developer.mozilla.org", "desc": "前端开发权威技术文档", "lang": "en"},
+    {"name": "W3Schools", "url": "https://www.w3schools.com", "desc": "全球入门级编程教程平台", "lang": "en"},
+    {"name": "菜鸟教程", "url": "https://www.runoob.com", "desc": "全栈编程入门实战教程", "lang": "zh"},
+    {"name": "维基百科", "url": "https://zh.wikipedia.org", "desc": "开放式在线百科全书", "lang": "zh"},
+    {"name": "Wikipedia", "url": "https://en.wikipedia.org", "desc": "全球最大英文百科", "lang": "en"},
+    {"name": "Coursera", "url": "https://www.coursera.org", "desc": "全球在线课程平台", "lang": "en"},
+    {"name": "edX", "url": "https://www.edx.org", "desc": "麻省理工和哈佛联合创办的在线学习平台", "lang": "en"},
+    {"name": "Udemy", "url": "https://www.udemy.com", "desc": "全球最大在线课程市场", "lang": "en"},
+    {"name": "Khan Academy", "url": "https://www.khanacademy.org", "desc": "免费在线教育平台", "lang": "en"},
+    {"name": "FreeCodeCamp", "url": "https://www.freecodecamp.org", "desc": "免费编程学习平台", "lang": "en"},
+    {"name": "LeetCode", "url": "https://leetcode.com", "desc": "算法题库和编程竞赛平台", "lang": "en"},
+    {"name": "力扣", "url": "https://leetcode.cn", "desc": "LeetCode中国版，算法刷题", "lang": "zh"},
+    {"name": "牛客网", "url": "https://www.nowcoder.com", "desc": "IT求职笔试面试备考平台", "lang": "zh"},
+    {"name": "慕课网", "url": "https://www.imooc.com", "desc": "IT技能学习平台", "lang": "zh"},
+    {"name": "网易云课堂", "url": "https://study.163.com", "desc": "综合在线学习平台", "lang": "zh"},
+    {"name": "腾讯课堂", "url": "https://ke.qq.com", "desc": "腾讯在线教育平台", "lang": "zh"},
+    {"name": "B站", "url": "https://www.bilibili.com", "desc": "中国最大视频学习平台", "lang": "zh"},
+    {"name": "YouTube", "url": "https://www.youtube.com", "desc": "全球最大视频平台", "lang": "en"},
+    {"name": "Medium", "url": "https://medium.com", "desc": "高质量内容创作平台", "lang": "en"},
+    {"name": "知乎", "url": "https://www.zhihu.com", "desc": "中文问答社区", "lang": "zh"},
+    
+    # ========== 效率工具（20个）==========
+    {"name": "Notion", "url": "https://www.notion.so", "desc": "全能笔记和协作平台", "lang": "en"},
+    {"name": "Obsidian", "url": "https://obsidian.md", "desc": "本地知识管理工具", "lang": "en"},
+    {"name": "语雀", "url": "https://www.yuque.com", "desc": "阿里巴巴知识库平台", "lang": "zh"},
+    {"name": "飞书", "url": "https://www.feishu.cn", "desc": "字节跳动协作平台", "lang": "zh"},
+    {"name": "钉钉", "url": "https://www.dingtalk.com", "desc": "阿里巴巴企业协作平台", "lang": "zh"},
+    {"name": "企业微信", "url": "https://work.weixin.qq.com", "desc": "腾讯企业通讯工具", "lang": "zh"},
+    {"name": "Slack", "url": "https://slack.com", "desc": "全球团队协作平台", "lang": "en"},
+    {"name": "Trello", "url": "https://trello.com", "desc": "看板式项目管理工具", "lang": "en"},
+    {"name": "Asana", "url": "https://asana.com", "desc": "团队任务管理平台", "lang": "en"},
+    {"name": "Monday", "url": "https://monday.com", "desc": "工作操作系统", "lang": "en"},
+    {"name": "Airtable", "url": "https://www.airtable.com", "desc": "低代码协作平台", "lang": "en"},
+    {"name": "Figma", "url": "https://www.figma.com", "desc": "在线协作设计工具", "lang": "en"},
+    {"name": "Canva", "url": "https://www.canva.com", "desc": "在线设计工具，开放开发者接口", "lang": "en"},
+    {"name": "即时设计", "url": "https://js.design", "desc": "国产协作设计工具", "lang": "zh"},
+    {"name": "墨刀", "url": "https://modao.cc", "desc": "产品原型设计工具", "lang": "zh"},
+    {"name": "ProcessOn", "url": "https://www.processon.com", "desc": "在线作图工具", "lang": "zh"},
+    {"name": "石墨文档", "url": "https://shimo.im", "desc": "在线协作文档", "lang": "zh"},
+    {"name": "腾讯文档", "url": "https://docs.qq.com", "desc": "腾讯在线文档", "lang": "zh"},
+    {"name": "金山文档", "url": "https://www.kdocs.cn", "desc": "WPS在线文档", "lang": "zh"},
+    {"name": "印象笔记", "url": "https://www.yinxiang.com", "desc": "知识管理工具", "lang": "zh"},
+    
+    # ========== 设计资源（15个）==========
+    {"name": "Dribbble", "url": "https://dribbble.com", "desc": "设计师作品展示平台", "lang": "en"},
+    {"name": "Behance", "url": "https://www.behance.net", "desc": "Adobe创意作品平台", "lang": "en"},
+    {"name": "Unsplash", "url": "https://unsplash.com", "desc": "免费高质量图片库", "lang": "en"},
+    {"name": "Pexels", "url": "https://www.pexels.com", "desc": "免费素材图片和视频", "lang": "en"},
+    {"name": "Pixabay", "url": "https://pixabay.com", "desc": "免费图片和视频素材", "lang": "en"},
+    {"name": "IconFont", "url": "https://www.iconfont.cn", "desc": "阿里矢量图标库", "lang": "zh"},
+    {"name": "Font Awesome", "url": "https://fontawesome.com", "desc": "图标字体库", "lang": "en"},
+    {"name": "Google Fonts", "url": "https://fonts.google.com", "desc": "谷歌免费字体库", "lang": "en"},
+    {"name": "Flaticon", "url": "https://www.flaticon.com", "desc": "免费图标资源", "lang": "en"},
+    {"name": "Freepik", "url": "https://www.freepik.com", "desc": "免费设计资源", "lang": "en"},
+    {"name": "站酷", "url": "https://www.zcool.com.cn", "desc": "中国设计师社区", "lang": "zh"},
+    {"name": "花瓣", "url": "https://huaban.com", "desc": "图片采集工具", "lang": "zh"},
+    {"name": "UI中国", "url": "https://www.ui.cn", "desc": "UI设计师社区", "lang": "zh"},
+    {"name": "优设", "url": "https://www.uisdc.com", "desc": "设计师学习平台", "lang": "zh"},
+    {"name": "ColorHunt", "url": "https://colorhunt.co", "desc": "配色方案分享平台", "lang": "en"},
+    
+    # ========== 数据资源（10个）==========
+    {"name": "Kaggle", "url": "https://www.kaggle.com", "desc": "数据科学竞赛平台", "lang": "en"},
+    {"name": "Google Dataset Search", "url": "https://datasetsearch.research.google.com", "desc": "谷歌数据集搜索", "lang": "en"},
+    {"name": "UCI Machine Learning", "url": "https://archive.ics.uci.edu/ml", "desc": "机器学习数据集库", "lang": "en"},
+    {"name": "Papers With Code", "url": "https://paperswithcode.com", "desc": "机器学习论文和代码", "lang": "en"},
+    {"name": "arXiv", "url": "https://arxiv.org", "desc": "学术论文预印本平台", "lang": "en"},
+    {"name": "Google Scholar", "url": "https://scholar.google.com", "desc": "谷歌学术搜索", "lang": "en"},
+    {"name": "百度学术", "url": "https://xueshu.baidu.com", "desc": "百度学术搜索", "lang": "zh"},
+    {"name": "知网", "url": "https://www.cnki.net", "desc": "中国知网学术数据库", "lang": "zh"},
+    {"name": "万方数据", "url": "https://www.wanfangdata.com.cn", "desc": "学术资源平台", "lang": "zh"},
+    {"name": "国家统计局", "url": "http://www.stats.gov.cn", "desc": "官方统计数据", "lang": "zh"},
+    
+    # ========== 新闻媒体（10个）==========
+    {"name": "TechCrunch", "url": "https://techcrunch.com", "desc": "科技新闻媒体", "lang": "en"},
+    {"name": "The Verge", "url": "https://www.theverge.com", "desc": "科技文化新闻", "lang": "en"},
+    {"name": "Ars Technica", "url": "https://arstechnica.com", "desc": "技术新闻和分析", "lang": "en"},
+    {"name": "Wired", "url": "https://www.wired.com", "desc": "科技文化杂志", "lang": "en"},
+    {"name": "MIT Technology Review", "url": "https://www.technologyreview.com", "desc": "麻省理工科技评论", "lang": "en"},
+    {"name": "36氪", "url": "https://36kr.com", "desc": "科技创投媒体", "lang": "zh"},
+    {"name": "虎嗅", "url": "https://www.huxiu.com", "desc": "科技财经媒体", "lang": "zh"},
+    {"name": "钛媒体", "url": "https://www.tmtpost.com", "desc": "科技媒体平台", "lang": "zh"},
+    {"name": "InfoQ", "url": "https://www.infoq.cn", "desc": "技术社区和媒体", "lang": "zh"},
+    {"name": "少数派", "url": "https://sspai.com", "desc": "数字生活方式媒体", "lang": "zh"},
+    
+    # ========== 云服务（10个）==========
+    {"name": "AWS", "url": "https://aws.amazon.com", "desc": "亚马逊云服务", "lang": "en"},
+    {"name": "Azure", "url": "https://azure.microsoft.com", "desc": "微软云服务", "lang": "en"},
+    {"name": "Google Cloud", "url": "https://cloud.google.com", "desc": "谷歌云平台", "lang": "en"},
+    {"name": "阿里云", "url": "https://www.aliyun.com", "desc": "阿里巴巴云计算", "lang": "zh"},
+    {"name": "腾讯云", "url": "https://cloud.tencent.com", "desc": "腾讯云服务", "lang": "zh"},
+    {"name": "华为云", "url": "https://www.huaweicloud.com", "desc": "华为云计算", "lang": "zh"},
+    {"name": "百度云", "url": "https://cloud.baidu.com", "desc": "百度智能云", "lang": "zh"},
+    {"name": "DigitalOcean", "url": "https://www.digitalocean.com", "desc": "开发者云平台", "lang": "en"},
+    {"name": "Vercel", "url": "https://vercel.com", "desc": "前端部署平台", "lang": "en"},
+    {"name": "Netlify", "url": "https://www.netlify.com", "desc": "静态网站托管", "lang": "en"},
+    
+    # ========== API服务（10个）==========
+    {"name": "RapidAPI", "url": "https://rapidapi.com", "desc": "API市场平台", "lang": "en"},
+    {"name": "Postman", "url": "https://www.postman.com", "desc": "API开发测试工具", "lang": "en"},
+    {"name": "Swagger", "url": "https://swagger.io", "desc": "API文档工具", "lang": "en"},
+    {"name": "Apifox", "url": "https://www.apifox.cn", "desc": "国产API管理工具", "lang": "zh"},
+    {"name": "YApi", "url": "https://yapi.pro", "desc": "API管理平台", "lang": "zh"},
+    {"name": "Insomnia", "url": "https://insomnia.rest", "desc": "API调试工具", "lang": "en"},
+    {"name": "Hoppscotch", "url": "https://hoppscotch.io", "desc": "开源API测试工具", "lang": "en"},
+    {"name": "公共API列表", "url": "https://github.com/public-apis/public-apis", "desc": "免费API集合", "lang": "en"},
+    {"name": "聚合数据", "url": "https://www.juhe.cn", "desc": "API数据服务", "lang": "zh"},
+    {"name": "天行数据", "url": "https://www.tianapi.com", "desc": "免费API接口", "lang": "zh"},
+    
+    # ========== 综合工具（15个）==========
+    {"name": "在线工具", "url": "https://tool.lu", "desc": "全品类开发者在线工具集", "lang": "zh"},
+    {"name": "ToolFk", "url": "https://www.toolfk.com", "desc": "程序员在线工具", "lang": "zh"},
+    {"name": "JSON.cn", "url": "https://www.json.cn", "desc": "JSON在线解析", "lang": "zh"},
+    {"name": "RegExr", "url": "https://regexr.com", "desc": "正则表达式测试", "lang": "en"},
+    {"name": "Can I Use", "url": "https://caniuse.com", "desc": "浏览器兼容性查询", "lang": "en"},
+    {"name": "Carbon", "url": "https://carbon.now.sh", "desc": "代码截图美化工具", "lang": "en"},
+    {"name": "Excalidraw", "url": "https://excalidraw.com", "desc": "手绘风格绘图工具", "lang": "en"},
+    {"name": "Draw.io", "url": "https://app.diagrams.net", "desc": "免费流程图工具", "lang": "en"},
+    {"name": "TinyPNG", "url": "https://tinypng.com", "desc": "图片压缩工具", "lang": "en"},
+    {"name": "Remove.bg", "url": "https://www.remove.bg", "desc": "AI抠图工具", "lang": "en"},
+    {"name": "PDF24", "url": "https://tools.pdf24.org", "desc": "PDF在线工具", "lang": "en"},
+    {"name": "Convertio", "url": "https://convertio.co", "desc": "文件格式转换", "lang": "en"},
+    {"name": "Temp Mail", "url": "https://temp-mail.org", "desc": "临时邮箱服务", "lang": "en"},
+    {"name": "SpeedTest", "url": "https://www.speedtest.net", "desc": "网速测试工具", "lang": "en"},
+    {"name": "DownGit", "url": "https://minhaskamal.github.io/DownGit", "desc": "GitHub文件下载", "lang": "en"},
+]
+
+# 保存为Python文件供后续使用
+if __name__ == "__main__":
+    import json
+    with open("website_database.json", "w", encoding="utf-8") as f:
+        json.dump(WEBSITE_DATA, f, ensure_ascii=False, indent=2)
+    print(f"✅ 已生成150个网站数据库")
+    print(f"📊 中文网站：{len([w for w in WEBSITE_DATA if w['lang'] == 'zh'])}个")
+    print(f"📊 英文网站：{len([w for w in WEBSITE_DATA if w['lang'] == 'en'])}个")
+    print(f"📊 总计：{len(WEBSITE_DATA)}个")

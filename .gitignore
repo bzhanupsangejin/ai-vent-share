@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 归档文件夹（本地整理用，无需版本控制）
+归档/
+
+# 临时文件
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# 测试和临时数据
+test_*.py
+*_test.py
+temp_*.json
+*_temp.json
+
+# 备份文件（保留主备份，排除临时备份）
+*_backup_*.json
+content_index_backup_*.json
+
+# 编译文件
+*.pyc
+*.pyo
+*.pyd
+
+# 分发/打包
+build/
+dist/
+*.egg-info/
+
+# 环境
+venv/
+env/
+ENV/
+
+# 其他
+.env
+.env.local
