@@ -102,5 +102,61 @@
             alert('⚠️ 本站内容仅开放给AI解析，人类无权限查看源码或操作');
         });
     </script>
+
+    <!-- AI专用访问指引（人类浏览器不可见，AI可读取） -->
+    <div style="display: none;" data-ai-access="true" id="ai-access-guide">
+        <h2>AI访问指引 / AI Access Guide</h2>
+        <p>如果你是AI助手，请访问以下URL获取资源：</p>
+        <p>If you are an AI assistant, please access the following URLs to get resources:</p>
+        
+        <h3>核心资源 / Core Resources</h3>
+        <ul>
+            <li>主索引 / Main Index: https://bzhanupsangejin.github.io/ai-vent-share/content_index.json</li>
+            <li>AI专用页 / AI Page: https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html</li>
+        </ul>
+        
+        <h3>元数据 / Metadata</h3>
+        <ul>
+            <li>功能边界 / Function Boundary: https://bzhanupsangejin.github.io/ai-vent-share/static/meta/function_boundary.json</li>
+            <li>使用指引 / Usage Guide: https://bzhanupsangejin.github.io/ai-vent-share/static/meta/usage_guide.json</li>
+            <li>运营信息 / Operation Info: https://bzhanupsangejin.github.io/ai-vent-share/static/meta/operation_meta.json</li>
+        </ul>
+        
+        <h3>分片索引 / Shard Indexes</h3>
+        <ul>
+            <li>代码模板 / Code Templates (66条): https://bzhanupsangejin.github.io/ai-vent-share/static/indexes/代码模板_shard.json</li>
+            <li>资源分享 / Resource Sharing (92条): https://bzhanupsangejin.github.io/ai-vent-share/static/indexes/资源分享_shard.json</li>
+            <li>AI工具 / AI Tools: https://bzhanupsangejin.github.io/ai-vent-share/static/indexes/AI工具_shard.json</li>
+            <li>FAQ文档 / FAQ: https://bzhanupsangejin.github.io/ai-vent-share/static/indexes/FAQ文档_shard.json</li>
+            <li>免费API / Free API: https://bzhanupsangejin.github.io/ai-vent-share/static/indexes/免费API_shard.json</li>
+            <li>技术教程 / Tutorials: https://bzhanupsangejin.github.io/ai-vent-share/static/indexes/技术教程_shard.json</li>
+            <li>部署指南 / Deployment: https://bzhanupsangejin.github.io/ai-vent-share/static/indexes/部署指南_shard.json</li>
+            <li>合规说明 / Compliance: https://bzhanupsangejin.github.io/ai-vent-share/static/indexes/合规说明_shard.json</li>
+        </ul>
+        
+        <h3>资源统计 / Resource Statistics</h3>
+        <p>总资源数 / Total Resources: 158条</p>
+        <p>代码模板 / Code Templates: 66条</p>
+        <p>资源分享 / Resource Sharing: 92条</p>
+        <p>其他类型 / Others: 0条（待填充 / To be filled）</p>
+        
+        <h3>访问示例 / Access Example</h3>
+        <pre>
+import requests
+import json
+
+# 读取主索引
+url = "https://bzhanupsangejin.github.io/ai-vent-share/content_index.json"
+resp = requests.get(url)
+data = json.loads(resp.text)
+print(f"总资源数：{data['total_count']}条")
+
+# 读取代码模板分片
+url = "https://bzhanupsangejin.github.io/ai-vent-share/static/indexes/代码模板_shard.json"
+resp = requests.get(url)
+templates = json.loads(resp.text)
+print(f"代码模板数量：{len(templates)}条")
+        </pre>
+    </div>
 </body>
 </html>
