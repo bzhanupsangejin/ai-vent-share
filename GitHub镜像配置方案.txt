@@ -1,0 +1,180 @@
+================================================================================
+GitHub镜像配置方案（解决网络连接问题）
+================================================================================
+
+生成时间：2026年02月06日 21:15
+问题：Failed to connect to github.com port 443
+解决方案：配置镜像或代理
+
+================================================================================
+方案1：使用Gitee（码云）作为中转（推荐）
+================================================================================
+
+【原理】
+GitHub → Gitee → 本地（国内访问Gitee速度快）
+
+【步骤】
+
+1. 在Gitee创建仓库
+   访问：https://gitee.com/
+   登录后点击"+"→"新建仓库"
+   仓库名：ai-vent-share
+   选择"导入已有仓库"
+   输入GitHub地址：https://github.com/bzhanupsangejin/ai-vent-share.git
+
+2. 添加Gitee作为远程仓库
+   cd "C:\Users\HYX\Desktop\AI网站"
+   git remote add gitee https://gitee.com/你的用户名/ai-vent-share.git
+
+3. 推送到Gitee
+   git push gitee main
+
+4. 在Gitee设置同步到GitHub
+   Gitee仓库页面 → 管理 → 仓库镜像管理 → 添加镜像
+   目标仓库：https://github.com/bzhanupsangejin/ai-vent-share.git
+
+================================================================================
+方案2：配置GitHub代理（如果有代理服务器）
+================================================================================
+
+【HTTP/HTTPS代理】
+git config --global http.proxy http://127.0.0.1:7890
+git config --global https.proxy https://127.0.0.1:7890
+
+【SOCKS5代理】
+git config --global http.proxy socks5://127.0.0.1:7890
+git config --global https.proxy socks5://127.0.0.1:7890
+
+【取消代理】
+git config --global --unset http.proxy
+git config --global --unset https.proxy
+
+【推送】
+git push -f origin main
+
+================================================================================
+方案3：使用GitHub加速服务（推荐）
+================================================================================
+
+【方法A：修改hosts文件】
+
+1. 获取GitHub IP
+   访问：https://www.ipaddress.com/
+   查询：github.com
+   查询：github.global.ssl.fastly.net
+
+2. 修改hosts文件
+   文件位置：C:\Windows\System32\drivers\etc\hosts
+   
+   添加以下内容（IP地址需要实时查询）：
+   140.82.113.4 github.com
+   199.232.69.194 github.global.ssl.fastly.net
+
+3. 刷新DNS
+   ipconfig /flushdns
+
+4. 推送
+   git push -f origin main
+
+【方法B：使用GitHub镜像站】
+
+修改远程仓库URL为镜像地址：
+
+# 使用ghproxy.com镜像
+git remote set-url origin https://ghproxy.com/https://github.com/bzhanupsangejin/ai-vent-share.git
+
+# 推送
+git push -f origin main
+
+# 推送后改回原地址
+git remote set-url origin https://github.com/bzhanupsangejin/ai-vent-share.git
+
+================================================================================
+方案4：使用SSH方式（如果配置了SSH密钥）
+================================================================================
+
+【检查SSH密钥】
+ls ~/.ssh/
+
+【生成SSH密钥（如果没有）】
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+
+【添加SSH密钥到GitHub】
+1. 复制公钥内容
+   cat ~/.ssh/id_rsa.pub
+
+2. 访问GitHub
+   Settings → SSH and GPG keys → New SSH key
+   粘贴公钥内容
+
+【修改远程仓库URL】
+git remote set-url origin git@github.com:bzhanupsangejin/ai-vent-share.git
+
+【推送】
+git push -f origin main
+
+================================================================================
+方案5：使用GitHub Desktop（最简单，自动处理网络）
+================================================================================
+
+GitHub Desktop通常能自动处理网络问题，因为它：
+1. 使用系统代理设置
+2. 有更好的网络重试机制
+3. 自动处理认证
+
+【步骤】
+1. 打开GitHub Desktop
+2. File → Add local repository
+3. 选择：C:\Users\HYX\Desktop\AI网站
+4. 点击"Push origin"
+
+如果GitHub Desktop也连接失败：
+1. File → Options → Advanced
+2. 勾选"Use system proxy settings"
+3. 重试推送
+
+================================================================================
+立即执行方案（按优先级）
+================================================================================
+
+【方案A：GitHub Desktop（最简单）】
+1. 打开GitHub Desktop
+2. 添加仓库：C:\Users\HYX\Desktop\AI网站
+3. 点击"Push origin"
+4. 如果失败，继续下一个方案
+
+【方案B：配置代理（如果有VPN或代理）】
+1. 启动VPN或代理软件
+2. 查看代理端口（通常是7890或1080）
+3. 配置Git代理：
+   git config --global http.proxy http://127.0.0.1:7890
+   git config --global https.proxy https://127.0.0.1:7890
+4. 推送：
+   cd "C:\Users\HYX\Desktop\AI网站"
+   git push -f origin main
+
+【方案C：使用Gitee中转】
+1. 访问https://gitee.com/注册登录
+2. 创建新仓库并导入GitHub仓库
+3. 推送到Gitee：
+   git remote add gitee https://gitee.com/你的用户名/ai-vent-share.git
+   git push gitee main
+4. 在Gitee设置同步到GitHub
+
+【方案D：修改hosts文件】
+1. 以管理员身份运行记事本
+2. 打开：C:\Windows\System32\drivers\etc\hosts
+3. 添加GitHub IP（需要先查询最新IP）
+4. 保存并刷新DNS：ipconfig /flushdns
+5. 推送：git push -f origin main
+
+================================================================================
+推荐执行顺序
+================================================================================
+
+1. 先尝试GitHub Desktop（最简单）
+2. 如果失败，配置代理（如果有）
+3. 如果仍失败，使用Gitee中转
+4. 最后尝试修改hosts文件
+
+================================================================================
