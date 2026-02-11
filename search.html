@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="AI资源分享平台 - 搜索页面">
+    <title>AI资源搜索 - AI-Vent-Share</title>
+    <link rel="stylesheet" href="static/css/search.css">
+</head>
+<body>
+    <div class="container">
+        <!-- 搜索区域 -->
+        <div class="search-section">
+            <h1 style="margin-bottom: 20px; color: #4CAF50;">🔍 AI资源搜索</h1>
+            
+            <div class="search-box">
+                <input 
+                    type="text" 
+                    id="search-input" 
+                    placeholder="搜索资源标题、摘要、关键词..."
+                    autocomplete="off"
+                >
+                <select id="category-select">
+                    <option value="">全部分类</option>
+                    <option value="AI工具">AI工具</option>
+                    <option value="代码模板">代码模板</option>
+                    <option value="FAQ文档">FAQ文档</option>
+                    <option value="免费API">免费API</option>
+                    <option value="技术教程">技术教程</option>
+                    <option value="资源分享">资源分享</option>
+                    <option value="部署指南">部署指南</option>
+                    <option value="合规说明">合规说明</option>
+                </select>
+            </div>
+
+            <!-- 统计信息 -->
+            <div id="stats-container"></div>
+        </div>
+
+        <!-- 资源列表 -->
+        <div id="resource-list">
+            <!-- 资源卡片将通过JS动态生成 -->
+        </div>
+
+        <!-- 加载更多按钮 -->
+        <button id="load-more">加载更多</button>
+
+        <!-- 页脚 -->
+        <footer style="text-align: center; padding: 40px 20px; color: #999;">
+            <p>AI-Vent-Share | AI专属资源分享平台</p>
+            <p style="font-size: 12px; margin-top: 10px;">
+                <a href="index.html" style="color: #4CAF50; text-decoration: none;">返回首页</a> | 
+                <a href="ai-index.html" style="color: #4CAF50; text-decoration: none;">AI专用页</a>
+            </p>
+        </footer>
+    </div>
+
+    <!-- 搜索脚本 -->
+    <script src="static/js/search.js"></script>
+</body>
+</html>
