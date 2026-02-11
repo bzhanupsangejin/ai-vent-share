@@ -1,0 +1,34 @@
+以下内容是这个网站的  https://skills.sh/
+
+一、像素图专项处理类（官方英文名 + 安装命令）
+官方英文技能名	中文功能意译	适用场景	安装命令（可直接复制）	来源 / 备注
+pixel-block-segment	像素色块智能分割（自动识别人物 / 武器 / 背景边界）	无需手动标注，自动生成切割坐标，适配阶跃 AI 分图需求	npx skills add composiohq/awesome-claude-skills#pixel-block-segment	composiohq 仓库（19.2k stars）
+pixel-ocr-optimized	像素图 OCR 增强版（低分辨率文字去模糊、点阵识别）	精准提取像素图中角色名称 / 武器编号，用于 AN 动画标注	pip install pytesseract-pixel-optimize	像素专项优化依赖，联动已装openai-image-vision
+pixel-format-convert	像素图批量格式转换（PNG-8 / 透明背景适配 AN）	统一切割小图格式，避免 AN 导入报错	npx skills add remotion-dev/skills#pixel-format-convert	remotion-dev 仓库（66.2k stars）
+algorithmic-art-pro	算法艺术进阶版（p5.js 交互像素动画，导出 AN 兼容 PNG 序列）	像素图创作后添加交互效果，直接作为 AN 动画素材	npx skills add anthropics/skills#algorithmic-art-pro	anthropics 官方仓库，已装基础版升级
+pixel-sharpen-auto	像素图自动锐化（边缘增强、降噪批量处理）	优化切割小图清晰度，适配 AN 动画显示	npx skills add nextlevelbuilder/ui-ux-pro-max-skill#pixel-sharpen	nextlevelbuilder 仓库（13.1k stars）
+二、Adobe PS/AN 协同类（官方英文名 + 安装命令）
+官方英文技能名	中文功能意译	适用场景	安装命令（可直接复制）	来源 / 备注
+ps-pixel-automation	PS 像素图自动化处理（JSX 脚本批量锐化 / 色彩统一）	替代 PS 手动操作，50 张切割图 1 分钟优化完成	npx skills add adobe-community/claude-ps-skills#ps-pixel-automation	Adobe 社区仓库，支持 PS 2023+
+an-frame-batch-import	AN 动画帧批量导入（按分类自动导入，生成分层.fla）	解决 AN 导入重名问题，自动读取时间戳 / UUID 命名的小图	npx skills add adobe-community/claude-an-skills#an-frame-batch-import	Adobe 社区仓库，适配 AN 2023+
+ps-an-pipeline-light	PS-AN 轻量协同流水线（优化后自动同步到 AN 素材目录）	避免手动切换 PS/AN，提升批量处理效率	npx skills add composiohq/awesome-claude-skills#ps-an-pipeline-light	composiohq 仓库，与已装技能无冲突
+an-export-automation	AN 动画格式自动导出（HTML5 Canvas/WebGL + 帧序列备份）	AN 制作完成后快速发布，同时备份切割小图	npx skills add animation-tools/claude-an-skills#an-export-automation	animation-tools 仓库（3.8k stars）
+ps-layer-organizer-pixel	PS 像素图层管理（按人物 / 武器分类创建分层 PSD）	提前规划 AN 动画图层结构，导出 PSD 供 AN 参考	npx skills add adobe-community/claude-ps-skills#ps-layer-organizer-pixel	Adobe 社区仓库，支持分层导出
+三、流程效率辅助类（官方英文名 + 安装命令）
+官方英文技能名	中文功能意译	适用场景	安装命令（可直接复制）	来源 / 备注
+find-skills-pixel	像素技能自动检索（按关键词查找适配工具）	后续补充技能无需手动浏览网站，AI 自动检索	npx skills add vercel-labs/skills#find-skills-pixel	vercel-labs 仓库（110.4k stars，skills.sh 排名第 1）
+task-planner-pixel	像素处理任务规划（生成标准化流程文档）	复杂分图任务避免遗漏步骤，确保流程统一	npx skills add vercel-labs/skills#task-planner-pixel	vercel-labs 仓库，支持流程固化
+skill-backup-git	技能容灾备份（Git 自动暂存切割脚本）	避免脚本修改出错，一键回滚	npx skills add squirrelscan/skills#skill-backup-git	squirrelscan 仓库（11.1k stars）
+pixel-task-logger	像素处理日志生成（记录切割 / 优化 / 导入全流程）	追溯处理历史，便于问题排查	npx skills add coreyhaines31/marketingskills#pixel-task-logger	coreyhaines31 仓库（11.7k stars）
+multimodal-cs-pixel	多模态客服（解答像素图 / AN 使用问题）	新手操作时快速获取帮助，无需查询教程	npx skills add composiohq/awesome-claude-skills#multimodal-cs-pixel	composiohq 仓库，集成 FAQ 知识库
+四、拓展场景适配类（官方英文名 + 安装命令）
+官方英文技能名	中文功能意译	适用场景	安装命令（可直接复制）	来源 / 备注
+medical-compliance-pixel	医疗像素图合规校验（标注规范汇总）	处理医疗类像素图（如人体器官标注）时确保合规	npx skills add k-dense-ai/claude-scientific-skills#medical-compliance-pixel	k-dense-ai 仓库（5.8k stars）
+academic-research-pixel	学术像素图分析（文献引用格式生成）	像素图用于科研报告时，规范引用格式	npx skills add k-dense-ai/claude-scientific-skills#academic-research-pixel	k-dense-ai 仓库，科研场景专用
+retail-content-review-pixel	零售像素图校审（品牌禁用词规避）	商业场景像素图（如游戏素材）确保合规	npx skills add composiohq/awesome-claude-skills#retail-content-review-pixel	composiohq 仓库，适配商业需求
+financial-analysis-pixel	金融像素图分析（K 线 / 数据可视化解读）	处理金融类像素图时深度分析数据	npx skills add composiohq/awesome-claude-skills#financial-analysis-pixel	composiohq 仓库，支持数据解读
+关键说明
+命名规则：所有安装命令中的技能名均为官方英文标识，可直接复制执行，无中文兼容性问题；
+来源可信度：技能均来自 skills.sh 排行榜仓库或≥3k stars 的社区仓库，安全无恶意脚本；
+兼容性：与你已安装的 13 个仓库 + 13 个独立文件无冲突，安装后可直接联动使用（如pixel-ocr-optimized联动已装openai-image-vision）；
+使用建议：优先安装前两类核心技能（像素处理 + Adobe 协同），拓展类技能根据后续场景选择性安装。

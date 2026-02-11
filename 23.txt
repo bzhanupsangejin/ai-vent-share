@@ -1,0 +1,121 @@
+SkillsMP.com (Agent Skills Marketplace) 网站分析
+优点
+资源丰富：汇集了128,427+个AI代理技能，是最大的开放技能市场
+多平台兼容：支持Claude、OpenAI Codex和ChatGPT等多种AI平台
+分类清晰：按功能分类（开发工具、数据AI、业务、DevOps等）组织技能
+开源标准：基于开放的SKILL.md标准，便于社区共享和使用
+智能搜索：支持AI语义搜索和关键词过滤
+文档完善：提供详细的技能说明和使用指南
+缺点
+访问限制：在中国大陆访问GitHub资源可能遇到网络问题
+学习曲线：需要了解如何安装和配置技能
+质量参差：技能质量依赖于社区贡献，需要自行甄别
+需要技术基础：主要面向开发者，普通用户上手难度较大
+依赖外部服务：技能功能依赖于GitHub和其他第三方服务
+推荐下载的链接（可直接复制粘贴）
+核心资源
+text
+
+编辑
+
+
+
+https://skillsmp.com/en/docs
+https://skillsmp.com/en/docs/api
+https://skillsmp.com/en/categories
+https://skillsmp.com/en/timeline
+重要技能示例
+text
+
+编辑
+
+
+
+https://skillsmp.com/feature-flags.md
+https://skillsmp.com/extract-errors.md
+https://skillsmp.com/create-pr.md
+https://skillsmp.com/skill-lookup.md
+https://skillsmp.com/prompt-lookup.md
+相关资源与文档
+text
+
+编辑
+
+
+
+https://github.com/anthropics/skills
+https://agentskills.io
+https://github.com/openai/codex/blob/main/docs/skills.md
+https://skillsmp.com/en/about
+https://skillsmp.com/en/privacy
+https://skillsmp.com/en/terms
+GitHub访问备选方案（中国大陆用户）
+text
+
+编辑
+
+
+
+https://hub.fastgit.xyz/anthropics/skills
+https://github.moeyy.xyz/anthropics/skills
+https://gitee.com/search?q=skills+AI+agent
+实用工具
+text
+
+编辑
+
+
+
+https://manus.im/features/agent-skills?utm_source=nav_skillsmp
+https://skillsmp.com/en/changelog
+提示：如果您在中国大陆，建议先配置GitHub镜像访问（可参考您上传的文件中的解决方案），再下载这些资源。对于最关键的文档和技能，建议优先下载/en/docs和热门技能示例。
+
+
+Claude Skills Marketplace（https://skillsmp.com/zh）分析与推荐下载清单
+一、平台核心优缺点
+优点
+技能资源海量且分类清晰：汇集超 10000 个开源 Claude Skills，按「开发、数据 & AI、工具、文档」等 12 个类别划分，支持关键词 / AI 语义搜索，快速定位需求
+跨工具兼容性强：2025 年底 Agent Skills 成为开放标准，OpenAI（Codex CLI、ChatGPT）与 Claude 通用，安装一次可多平台使用
+轻量化无负担：技能按需加载，扫描元数据仅需～100 tokens，完整加载约 5k tokens，不拖慢 AI 运行速度
+质量基础过滤：筛选 GitHub 星星≥2 的仓库，剔除低质量技能，官方技能（Anthropic 出品）标注「Official」徽章，可信度高
+安装与文档完善：每个技能提供详细安装指令（个人 / 项目 / 插件 3 种部署方式）、GitHub 仓库链接及使用场景说明，新手易上手
+缺点
+安全风险需警惕：社区技能为第三方开发，虽过滤低星仓库，但仍可能含恶意代码，需手动审查代码后安装
+非官方技能质量不均：部分社区技能文档简陋、功能单一，甚至存在兼容性问题（如旧版 Claude 不支持）
+无官方直接支持：平台为独立社区项目，与 Anthropic 无关联，遇到技能故障需联系原仓库开发者，无统一客服
+更新存在延迟：技能更新依赖 GitHub 同步，仓库代码修改后需等待平台爬虫抓取（通常 1-2 天），无法实时获取最新版本
+二、推荐下载清单（可直接复制 URL 使用）
+1. 官方必装技能（Anthropic 出品，安全稳定）
+技能名称	核心功能	适用人群	下载 URL
+frontend-design	生成个性化前端界面（摆脱 AI 通用美学），支持落地页、H5、Web 组件开发	前端工程师、独立开发者	https://github.com/anthropics/skills/tree/main/skills/frontend-design
+skill-creator	引导创建自定义 Skill（自动生成 SKILL.md、脚本模板），几分钟完成技能封装	需定制工作流的高级用户、团队开发者	https://github.com/anthropics/skills/tree/main/skills/skill-creator
+git-automation	自动化 Git 工作流：生成规范 commit message、创建 PR、合并分支	所有开发者	https://github.com/anthropics/skills/tree/main/skills/git-automation
+webapp-testing	基于 Playwright 自动化测试本地 Web 应用，捕获截图、输出测试日志	前端开发者、QA 工程师	https://github.com/anthropics/skills/tree/main/skills/webapp-testing
+brand-guidelines	应用 Anthropic 官方品牌规范（颜色、字体、布局），保持文档 / 界面风格统一	设计师、品牌维护者	https://github.com/anthropics/skills/tree/main/skills/applying-brand-guidelines
+2. 高频实用技能（社区高星，覆盖多场景）
+技能名称	核心功能	适用人群	下载 URL
+document-skills 套件	处理多格式文档：PDF 数据提取、Markdown 转 Word、自动生成 PPT/Excel	技术写作者、产品经理、内容创作者	https://github.com/anthropics/skills/tree/main/skills/document-skills
+mcp-builder	快速搭建 MCP 服务器（Python/TypeScript），让 Claude 访问外部 API / 数据库	需扩展 AI 能力的开发者	https://github.com/ComposioHQ/awesome-claude-skills/tree/main/skills/mcp-builder
+code-reviewer	按 TDD 流程自动生成测试用例、审查代码规范、运行测试并输出报告	注重代码质量的团队、后端开发者	https://github.com/travisvn/awesome-claude-skills/tree/main/skills/code-reviewer
+obsidian-skills	生成 Obsidian 增强型 Markdown（自动加标签 / 日期），支持直接生成 Canvas 白板	Obsidian 用户、知识管理者	https://github.com/wshuyi/obsidian-claude-skills
+web-artifacts-builder	快速生成多文件 React 项目（支持 Tailwind + shadcn/ui），适合 MVP、内部工具开发	全栈工程师、原型设计师	https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder
+3. 专业场景技能（垂直领域必备）
+技能名称	核心功能	适用人群	下载 URL
+Kubernetes Security Policies	K8s 安全加固：配置 NetworkPolicies、Pod 安全标准、RBAC 最小权限等，符合 CIS/NIST 合规	安全工程师、SRE、DevSecOps	https://github.com/ComposioHQ/awesome-claude-skills/tree/main/skills/kubernetes-security-policies
+creating-financial-models	高级金融建模：DCF 分析、敏感性测试、蒙特卡洛模拟，辅助投资决策	金融分析师、投资人	https://github.com/anthropics/claude-cookbooks/tree/main/skills/creating-financial-models
+analyzing-financial-statements	解析财务报表：自动计算关键比率（毛利率、ROE 等），输出投资分析报告	财务从业者、企业管理者	https://github.com/anthropics/claude-cookbooks/tree/main/skills/analyzing-financial-statements
+iOS Simulator Control	控制 iOS 模拟器进行自动化测试、调试应用	iOS 开发者、移动测试工程师	https://github.com/ComposioHQ/awesome-claude-skills/tree/main/skills/ios-simulator-control
+workflow-interactive-dev	开发 FastGPT 工作流交互节点，提供架构说明、文件修改指南	FastGPT 使用者、AI 工作流开发者	https://github.com/labring/FastGPT/tree/main/skills/workflow-interactive-dev
+三、使用注意事项
+安装前必做：复制 URL 后，先克隆 GitHub 仓库，打开「SKILL.md」确认功能描述，审查脚本代码（尤其含可执行命令的技能），避免恶意操作
+部署路径规范：个人使用放「~/.claude/skills/」，团队共享放项目根目录「.claude/skills/」，便于 Git 提交同步
+版本兼容检查：技能文档通常标注支持的 Claude 版本（如 Claude Code 3.x），老旧版本需优先选择「legacy」分支的技能
+故障回滚：安装新技能后若出现 AI 异常，删除对应技能文件夹（如「~/.claude/skills/frontend-design」），重启 Claude 即可恢复
+
+
+
+
+
+
+
+所有手动审核，你自己审核，审核不了的放弃下载安装。

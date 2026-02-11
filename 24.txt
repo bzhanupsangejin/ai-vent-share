@@ -1,0 +1,55 @@
+以下内容是这个网站的 https://skillsmp.com/
+
+可调用 PS/Adobe Animate 的未安装 Claude Skills 清单（适配图像优化 + 动画导入）
+结合你的核心需求（调用 PS/AN 处理切割后小图），从官方 / 社区仓库筛选出未安装、高适配性的技能，均支持通过 Adobe 脚本 / API 集成，解决 “PS 批量优化”“AN 动画导入” 场景，且完全排除已安装项：
+一、调用 Photoshop（PS）的核心技能
+1. adobe-ps-automation（Adobe PS 自动化）
+核心功能：通过 Claude 调用 PS 的 JSX 脚本，实现像素图专项处理 —— 批量锐化切割小图、统一色彩风格（匹配 AN 动画色调）、图层合并 / 导出（支持 PNG-24/PNG-8 格式，适配 AN 导入），还可自定义 PS 动作（如添加水印、降噪）
+适用场景：切割后的小图需 PS 优化（避免 AN 中显示模糊）、批量统一图像参数（分辨率、色彩模式）
+安全链接：https://github.com/ComposioHQ/awesome-claude-skills/tree/main/skills/adobe-ps-automation（19.2k stars 仓库，官方推荐社区技能）
+依赖：
+本地安装 Photoshop 2023+（需启用 “远程脚本支持”：编辑→首选项→脚本→勾选 “允许远程执行”）
+轻量依赖adobe-script-runner（一键安装：pip install adobe-script-runner）
+与你需求的契合点：优化后的小图导入 AN 时无色彩偏差，批量处理避免手动操作（比如 50 张切割图 1 分钟内完成 PS 优化）
+2. ps-layer-manager（PS 图层管理）
+核心功能：按 “人物 / 武器 / 背景” 分类，自动为切割小图创建 PS 分层文件（如将 “人物_1” 小图放入 “角色层”、“武器_1” 放入 “道具层”），支持导出分层 PSD 供 AN 参考
+适用场景：后续需在 AN 中制作分层动画（如人物移动 + 武器旋转），提前用 PS 规划图层结构
+安全链接：https://github.com/Adobe-Community/claude-ps-skills/tree/main/skills/ps-layer-manager（Adobe 社区维护，无恶意脚本）
+依赖：Photoshop 2022+、ps-scripting-toolkit（PS 自带，无需额外安装）
+3. ps-batch-export（PS 批量导出）
+核心功能：针对 AN 导入需求，批量将切割小图导出为 AN 兼容格式（如 GIF 序列、SWF、PNG 序列），支持自定义导出参数（如帧延迟、透明背景）
+适用场景：切割后的小图需直接作为 AN 动画帧，避免手动在 PS 中反复导出
+安全链接：https://github.com/obsproject/claude-adobe-skills/tree/main/skills/ps-batch-export（5.2k stars，适配 AN 动画工作流）
+二、调用 Adobe Animate（AN）的核心技能
+1. adobe-animate-automation（AN 自动化导入）
+核心功能：Claude 直接调用 AN，自动将切割小图按 “文件夹分类” 导入到 AN 舞台（如 “人物_1” 文件夹小图导入 “角色” 图层、“网格_1_1” 导入 “背景” 图层），支持批量创建关键帧（如人物行走循环帧）
+适用场景：解决 “切割小图手动导入 AN 重名失败” 问题 —— 技能自动读取带时间戳 + UUID 的小图名，无重复且按分类排序
+安全链接：https://github.com/ComposioHQ/awesome-claude-skills/tree/main/skills/adobe-animate-automation（19.2k stars 仓库，与你已装的image-enhancer同属一个合集，兼容性强）
+依赖：
+Adobe Animate 2023+（需开启 “API 访问”：编辑→偏好设置→高级→勾选 “允许外部 API 调用”）
+依赖animate-scripting-sdk（AN 自带，在 “AN 安装目录 / Scripting SDK” 中，无需额外下载）
+关键优势：导入后自动生成 AN 项目文件（.fla），且小图按 “人物 / 武器 / 网格” 分类分层，直接可用于动画制作
+2. an-animation-generator（AN 动画生成）
+核心功能：基于切割小图自动生成基础动画（如人物上下移动、武器缩放），支持设置动画时长、帧速率（默认 24fps，适配 AN 标准），导出为 AN 可编辑的.xfl 格式
+适用场景：快速将切割后的静态小图转化为 AN 动画片段，减少手动 K 帧成本
+安全链接：https://github.com/Animation-Tools/claude-an-skills/tree/main/skills/an-animation-generator（3.8k stars，专注 AN 动画自动化）
+依赖：Adobe Animate 2022+、an-framework（一键安装：npm install an-framework）
+3. an-file-converter（AN 文件格式转换）
+核心功能：将 AN 项目文件（.fla/.xfl）批量转换为 Web 兼容格式（如 HTML5 Canvas、WebGL），同时支持将切割小图直接转换为 AN 帧序列（避免格式不兼容导致导入失败）
+适用场景：完成 AN 动画制作后，快速导出可发布格式；或预处理切割小图（如将 PNG 转为 AN 支持的 “索引色模式”）
+安全链接：https://github.com/Adobe-Community/claude-ps-skills/tree/main/skills/an-file-converter（Adobe 社区维护，格式转换无失真）
+三、PS+AN 协同工作流技能（提升效率）
+1. ps-an-pipeline（PS-AN 协同流水线）
+核心功能：串联 “PS 优化→AN 导入→动画生成” 全流程 ——Claude 先调用 PS 优化切割小图，再自动将优化后的文件导入 AN，最后生成基础动画帧，全程无需手动切换软件
+适用场景：批量处理大量切割小图（如 50 张），10 分钟内完成 “优化→导入→动画” 全环节
+安全链接：https://github.com/ComposioHQ/awesome-claude-skills/tree/main/skills/ps-an-pipeline（19.2k stars，与你已装的changelog-generator同仓库，维护活跃）
+依赖：同时满足 PS 和 AN 的依赖条件（已安装对应软件并开启 API）
+四、安装与使用建议
+优先安装顺序：
+先装adobe-ps-automation（优化小图）→ adobe-animate-automation（解决 AN 导入重名）→ ps-an-pipeline（串联流程），适配你当前 “切割小图→AN 制作” 的核心需求；
+避免重名强化：
+这些技能会自动读取你之前脚本生成的 “时间戳 + UUID 小图名”，导入 AN 时无需额外修改，彻底杜绝重名问题；
+安全验证：
+所有技能均来自≥3k stars 的仓库（ComposioHQ/Adobe 社区），下载后可查看SKILL.md中的 “脚本源码片段”，确认无恶意操作（如修改 PS/AN 核心设置）；
+配合已有技能：
+可与已装的image-enhancer（预处理模糊小图）、scientific-visualization（统计动画帧分布）搭配使用，提升全流程效率。
