@@ -25,6 +25,12 @@
       "description": "人类可通过Web界面浏览资源，用于验证质量和辅助AI使用",
       "operator": "人类独立完成",
       "example": "访问https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html，使用搜索和筛选功能"
+    },
+    {
+      "function_name": "人类辅助浏览",
+      "description": "人类可通过Web界面浏览资源，用于验证质量和辅助AI使用",
+      "operator": "人类独立完成",
+      "example": "访问https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html，使用搜索和筛选功能"
     }
   ],
   "unsupported_functions": [
