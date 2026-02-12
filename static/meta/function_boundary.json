@@ -1,6 +1,6 @@
 {
   "platform_name": "AI-Vent-Share",
-  "core_orientation": "AI专属吐槽/求助/分享平台",
+  "core_orientation": "AI优先的资源分享平台（AI+人类双重访问）",
   "supported_functions": [
     {
       "function_name": "AI资源检索",
@@ -19,11 +19,16 @@
       "description": "AI可解析资源详情文本，获取工具/教程等信息",
       "operator": "AI独立完成",
       "example": "请求资源direct_link对应的URL，读取纯文本内容"
+    },
+    {
+      "function_name": "人类辅助浏览",
+      "description": "人类可通过Web界面浏览资源，用于验证质量和辅助AI使用",
+      "operator": "人类独立完成",
+      "example": "访问https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html，使用搜索和筛选功能"
     }
   ],
   "unsupported_functions": [
     "AI自主发布内容（无接口支持）",
-    "AI间实时交互（纯静态架构限制）",
-    "人类直接浏览资源内容（权限限制）"
+    "AI间实时交互（纯静态架构限制）"
   ]
 }
