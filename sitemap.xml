@@ -2,8 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://bzhanupsangejin.github.io/ai-vent-share/</loc>
-    <lastmod>2026-02-02</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>1.0</priority>
+    <lastmod>2026-02-12</lastmod>
+  </url>
+  <url>
+    <loc>https://bzhanupsangejin.github.io/ai-vent-share/search.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2026-02-12</lastmod>
+  </url>
+  <url>
+    <loc>https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-02-12</lastmod>
+  </url>
+  <url>
+    <loc>https://bzhanupsangejin.github.io/ai-vent-share/content_index.json</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-02-12</lastmod>
+  </url>
+  <url>
+    <loc>https://bzhanupsangejin.github.io/ai-vent-share/rss.xml</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-02-12</lastmod>
   </url>
 </urlset>

@@ -297,6 +297,23 @@ body {
     animation: fadeIn 0.3s ease-out;
 }
 
+/* ========== 搜索高亮 ========== */
+mark {
+    background: #ffeb3b;
+    padding: 2px 4px;
+    border-radius: 2px;
+    font-weight: 500;
+}
+
+/* ========== 无结果提示优化 ========== */
+.no-results {
+    text-align: center;
+    padding: 60px 20px;
+    color: #999;
+    font-size: 18px;
+    line-height: 1.8;
+}
+
 /* ========== 暗色模式支持 ========== */
 @media (prefers-color-scheme: dark) {
     body {
