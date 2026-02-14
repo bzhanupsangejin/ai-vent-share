@@ -1,0 +1,750 @@
+[
+  {
+    "title": "TensorFlow官方教程",
+    "content_type": "技术教程",
+    "summary": "TensorFlow全流程教程，含基础入门、部署优化及案例实践",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0173",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0173",
+    "full_content_anchor": "ai_item_0173"
+  },
+  {
+    "title": "PyTorch教程",
+    "content_type": "技术教程",
+    "summary": "PyTorch官方教程库，覆盖CV/NLP/强化学习等方向",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0174",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0174",
+    "full_content_anchor": "ai_item_0174"
+  },
+  {
+    "title": "飞桨PaddlePaddle教程",
+    "content_type": "技术教程",
+    "summary": "国产深度学习框架教程，含产业实践范例与部署指南",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0175",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国家认证开源框架",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0175",
+    "full_content_anchor": "ai_item_0175"
+  },
+  {
+    "title": "Fast.ai",
+    "content_type": "技术教程",
+    "summary": "实战导向深度学习课程，代码优先、零数学门槛",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0176",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际教育平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0176",
+    "full_content_anchor": "ai_item_0176"
+  },
+  {
+    "title": "DeepLearning.AI",
+    "content_type": "技术教程",
+    "summary": "Andrew Ng系列课程，含专项课程与行业应用案例",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0177",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际教育平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0177",
+    "full_content_anchor": "ai_item_0177"
+  },
+  {
+    "title": "李沐《动手学深度学习》",
+    "content_type": "技术教程",
+    "summary": "中文深度学习开源教程，PyTorch/MXNet双实现",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0178",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "开源教育项目",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0178",
+    "full_content_anchor": "ai_item_0178"
+  },
+  {
+    "title": "Kaggle Learn",
+    "content_type": "技术教程",
+    "summary": "微课程平台，含Python/ML/AI等30+实战短课程",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0179",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0179",
+    "full_content_anchor": "ai_item_0179"
+  },
+  {
+    "title": "天池学习中心",
+    "content_type": "技术教程",
+    "summary": "阿里云AI学习平台，含竞赛复盘、技术直播与认证体系",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0180",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国家认证平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0180",
+    "full_content_anchor": "ai_item_0180"
+  },
+  {
+    "title": "Full Stack Deep Learning",
+    "content_type": "技术教程",
+    "summary": "全栈深度学习课程，覆盖产品化全流程",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0283",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际教育平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0283",
+    "full_content_anchor": "ai_item_0285"
+  },
+  {
+    "title": "Stanford CS229",
+    "content_type": "技术教程",
+    "summary": "斯坦福机器学习经典课程，Andrew Ng主讲",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0284",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际学术资源",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0284",
+    "full_content_anchor": "ai_item_0286"
+  },
+  {
+    "title": "Berkeley CS294-158",
+    "content_type": "技术教程",
+    "summary": "伯克利深度无监督学习课程，含讲义与作业",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0285",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际学术资源",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0285",
+    "full_content_anchor": "ai_item_0287"
+  },
+  {
+    "title": "李宏毅机器学习",
+    "content_type": "技术教程",
+    "summary": "台湾大学机器学习课程，中文讲解含深度学习",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0286",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "学术教育资源",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0286",
+    "full_content_anchor": "ai_item_0288"
+  },
+  {
+    "title": "吴恩达《Machine Learning》",
+    "content_type": "技术教程",
+    "summary": "Coursera经典ML课程，理论与实践结合",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0287",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际教育平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0287",
+    "full_content_anchor": "ai_item_0289"
+  },
+  {
+    "title": "吴恩达《Deep Learning Specialization》",
+    "content_type": "技术教程",
+    "summary": "深度学习专项课程，含CNN/RNN/Transformer等",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0288",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际教育平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0288",
+    "full_content_anchor": "ai_item_0290"
+  },
+  {
+    "title": "Fast.ai《Practical Deep Learning》",
+    "content_type": "技术教程",
+    "summary": "实战深度学习课程，代码优先、项目驱动",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0289",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际教育平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0289",
+    "full_content_anchor": "ai_item_0291"
+  },
+  {
+    "title": "DeepLearning.AI《Generative AI》",
+    "content_type": "技术教程",
+    "summary": "生成式AI短课程系列，含提示工程与RAG",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0290",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际教育平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0290",
+    "full_content_anchor": "ai_item_0292"
+  },
+  {
+    "title": "NVIDIA DLI",
+    "content_type": "技术教程",
+    "summary": "NVIDIA深度学习培训，含CV/NLP/推荐系统方向",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0295",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "厂商认证培训",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0295",
+    "full_content_anchor": "ai_item_0297"
+  },
+  {
+    "title": "ModelScope学院",
+    "content_type": "技术教程",
+    "summary": "魔搭官方培训体系，含模型应用与部署认证",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0296",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "工信部备案平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0296",
+    "full_content_anchor": "ai_item_0298"
+  },
+  {
+    "title": "TensorFlow官方博客",
+    "content_type": "技术教程",
+    "summary": "TensorFlow团队技术博客，含最佳实践与新特性",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0274",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0274",
+    "full_content_anchor": "ai_item_0276"
+  },
+  {
+    "title": "PyTorch博客",
+    "content_type": "技术教程",
+    "summary": "PyTorch官方技术博客，含框架更新与案例分享",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0275",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0275",
+    "full_content_anchor": "ai_item_0277"
+  },
+  {
+    "title": "Hugging Face博客",
+    "content_type": "技术教程",
+    "summary": "Hugging Face技术博客，含模型发布与工具教程",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0276",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0276",
+    "full_content_anchor": "ai_item_0278"
+  },
+  {
+    "title": "阿里云技术博客",
+    "content_type": "技术教程",
+    "summary": "阿里云技术实践分享，含大模型、MLOps等方向",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0277",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国家认证平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0277",
+    "full_content_anchor": "ai_item_0279"
+  },
+  {
+    "title": "机器之心技术专栏",
+    "content_type": "技术教程",
+    "summary": "中文AI技术深度解析，含论文解读与工程实践",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0278",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国内合规媒体",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0278",
+    "full_content_anchor": "ai_item_0280"
+  },
+  {
+    "title": "Distill.pub",
+    "content_type": "技术教程",
+    "summary": "可视化技术博客，聚焦ML概念清晰解释",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0279",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际学术平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0279",
+    "full_content_anchor": "ai_item_0281"
+  },
+  {
+    "title": "Sebastian Raschka博客",
+    "content_type": "技术教程",
+    "summary": "ML工程实践博客，含PyTorch技巧与MLOps指南",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0280",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "个人技术博客",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0280",
+    "full_content_anchor": "ai_item_0282"
+  },
+  {
+    "title": "Andrej Karpathy博客",
+    "content_type": "技术教程",
+    "summary": "深度学习实践博客，含神经网络训练技巧与见解",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0281",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "个人技术博客",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0281",
+    "full_content_anchor": "ai_item_0283"
+  },
+  {
+    "title": "Weights & Biases博客",
+    "content_type": "技术教程",
+    "summary": "ML实验管理实践博客，含案例与工具教程",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0282",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0282",
+    "full_content_anchor": "ai_item_0284"
+  },
+  {
+    "title": "Papers With Code",
+    "content_type": "技术教程",
+    "summary": "论文与代码关联平台，含SOTA结果、复现代码及数据集",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0169",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "学术合规平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0169",
+    "full_content_anchor": "ai_item_0169"
+  },
+  {
+    "title": "arXiv",
+    "content_type": "技术教程",
+    "summary": "预印本论文平台，AI/ML领域核心论文首发地",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0170",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际学术平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0170",
+    "full_content_anchor": "ai_item_0170"
+  },
+  {
+    "title": "Semantic Scholar",
+    "content_type": "技术教程",
+    "summary": "AI驱动的学术搜索引擎，支持论文关系图谱与影响力分析",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0171",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际学术平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0171",
+    "full_content_anchor": "ai_item_0171"
+  },
+  {
+    "title": "中国知网AI专题",
+    "content_type": "技术教程",
+    "summary": "中文AI领域核心期刊论文库，含硕博论文与会议文献",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0172",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国家认证平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0172",
+    "full_content_anchor": "ai_item_0172"
+  },
+  {
+    "title": "NeurIPS",
+    "content_type": "技术教程",
+    "summary": "顶级AI/ML国际会议，年会论文与教程资源库",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0221",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际学术组织",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0221",
+    "full_content_anchor": "ai_item_0221"
+  },
+  {
+    "title": "ICML",
+    "content_type": "技术教程",
+    "summary": "国际机器学习大会，核心论文与研讨会资源",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0222",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际学术组织",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0222",
+    "full_content_anchor": "ai_item_0222"
+  },
+  {
+    "title": "CVPR",
+    "content_type": "技术教程",
+    "summary": "计算机视觉顶会，含论文、代码与数据集",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0223",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际学术组织",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0223",
+    "full_content_anchor": "ai_item_0223"
+  },
+  {
+    "title": "ACL",
+    "content_type": "技术教程",
+    "summary": "计算语言学顶会，NLP领域核心会议",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0224",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际学术组织",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0224",
+    "full_content_anchor": "ai_item_0224"
+  },
+  {
+    "title": "EMNLP",
+    "content_type": "技术教程",
+    "summary": "自然语言处理重要会议，聚焦实证方法与应用",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0225",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际学术组织",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0225",
+    "full_content_anchor": "ai_item_0225"
+  },
+  {
+    "title": "AAAI",
+    "content_type": "技术教程",
+    "summary": "人工智能促进协会年会，综合AI领域研究",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0226",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际学术组织",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0226",
+    "full_content_anchor": "ai_item_0226"
+  },
+  {
+    "title": "IJCAI",
+    "content_type": "技术教程",
+    "summary": "国际人工智能联合会议，历史悠久的综合AI会议",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0227",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际学术组织",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0227",
+    "full_content_anchor": "ai_item_0227"
+  },
+  {
+    "title": "MLPerf",
+    "content_type": "技术教程",
+    "summary": "全球ML性能基准测试，含训练/推理/边缘设备",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0301",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际产业联盟",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0301",
+    "full_content_anchor": "ai_item_0303"
+  },
+  {
+    "title": "GLUE Benchmark",
+    "content_type": "技术教程",
+    "summary": "NLP通用语言理解评估基准，含9项任务",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0302",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "学术基准",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0302",
+    "full_content_anchor": "ai_item_0304"
+  },
+  {
+    "title": "SuperGLUE",
+    "content_type": "技术教程",
+    "summary": "GLUE升级版，更具挑战性的NLP评估基准",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0303",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "学术基准",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0303",
+    "full_content_anchor": "ai_item_0305"
+  },
+  {
+    "title": "ImageNet",
+    "content_type": "技术教程",
+    "summary": "计算机视觉经典数据集与竞赛基准",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0304",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "学术基准",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0304",
+    "full_content_anchor": "ai_item_0306"
+  },
+  {
+    "title": "ModelScope评测",
+    "content_type": "技术教程",
+    "summary": "中文模型评测平台，含多任务能力评估",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0305",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "工信部备案平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0305",
+    "full_content_anchor": "ai_item_0307"
+  },
+  {
+    "title": "Open LLM Leaderboard",
+    "content_type": "技术教程",
+    "summary": "开源大语言模型排行榜，含多项能力评测",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0306",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际开源平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0306",
+    "full_content_anchor": "ai_item_0308"
+  }
+]

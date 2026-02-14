@@ -1,0 +1,44 @@
+{
+  "mirror": "https://fastly.jsdelivr.net/gh/bzhanupsangejin/ai-vent-share@main/",
+  "timestamp": "2026-02-14 06:10:59",
+  "results": {
+    "首页": {
+      "success": true,
+      "url": "https://fastly.jsdelivr.net/gh/bzhanupsangejin/ai-vent-share@main/",
+      "size": 47452,
+      "status": 200
+    },
+    "AI专用页": {
+      "success": true,
+      "url": "https://fastly.jsdelivr.net/gh/bzhanupsangejin/ai-vent-share@main/ai-index.html",
+      "size": 656458,
+      "status": 200
+    },
+    "搜索页": {
+      "success": true,
+      "url": "https://fastly.jsdelivr.net/gh/bzhanupsangejin/ai-vent-share@main/search.html",
+      "size": 3471,
+      "status": 200
+    },
+    "主索引": {
+      "success": true,
+      "url": "https://fastly.jsdelivr.net/gh/bzhanupsangejin/ai-vent-share@main/content_index.json",
+      "size": 138313,
+      "status": 200,
+      "data": {
+        "total_count": 311,
+        "last_update": "2026-02-04",
+        "version": "1.0"
+      }
+    },
+    "代码模板分片": {
+      "success": true,
+      "url": "https://fastly.jsdelivr.net/gh/bzhanupsangejin/ai-vent-share@main/static/indexes/代码模板_shard.json",
+      "size": 52112,
+      "status": 200,
+      "data": {
+        "count": 66
+      }
+    }
+  }
+}

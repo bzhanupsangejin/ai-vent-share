@@ -1,0 +1,682 @@
+[
+  {
+    "title": "AutoGluon",
+    "content_type": "AI工具",
+    "summary": "开源AutoML工具，支持表格/图像/文本自动建模",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0253",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0253",
+    "full_content_anchor": "ai_item_0255"
+  },
+  {
+    "title": "H2O AutoML",
+    "content_type": "AI工具",
+    "summary": "企业级AutoML平台，支持模型训练与部署",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0254",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "开源核心+商业版",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0254",
+    "full_content_anchor": "ai_item_0256"
+  },
+  {
+    "title": "TPOT",
+    "content_type": "AI工具",
+    "summary": "基于遗传算法的AutoML工具，生成优化Pipeline",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0255",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "MIT开源",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0255",
+    "full_content_anchor": "ai_item_0257"
+  },
+  {
+    "title": "ClearML",
+    "content_type": "AI工具",
+    "summary": "开源MLOps平台，集成实验跟踪、自动化与部署",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0259",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0259",
+    "full_content_anchor": "ai_item_0261"
+  },
+  {
+    "title": "Kubeflow",
+    "content_type": "AI工具",
+    "summary": "Kubernetes原生ML工作流平台，支持端到端Pipeline",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0260",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "CNCF毕业项目",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0260",
+    "full_content_anchor": "ai_item_0262"
+  },
+  {
+    "title": "MLflow Projects",
+    "content_type": "AI工具",
+    "summary": "ML项目打包标准，支持多环境复现",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0261",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Linux基金会项目",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0261",
+    "full_content_anchor": "ai_item_0263"
+  },
+  {
+    "title": "DVC Pipelines",
+    "content_type": "AI工具",
+    "summary": "数据科学Pipeline管理，支持版本化工作流",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0262",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0262",
+    "full_content_anchor": "ai_item_0264"
+  },
+  {
+    "title": "Flyte",
+    "content_type": "AI工具",
+    "summary": "云原生ML编排平台，支持大规模工作流",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0263",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Linux基金会项目",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0263",
+    "full_content_anchor": "ai_item_0265"
+  },
+  {
+    "title": "TensorBoard",
+    "content_type": "AI工具",
+    "summary": "TensorFlow官方可视化工具，支持训练监控与图结构分析",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0192",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规工具",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0192",
+    "full_content_anchor": "ai_item_0192"
+  },
+  {
+    "title": "Captum",
+    "content_type": "AI工具",
+    "summary": "PyTorch模型可解释性库，支持特征归因与可视化",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0245",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "PyTorch官方工具",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0245",
+    "full_content_anchor": "ai_item_0247"
+  },
+  {
+    "title": "SHAP",
+    "content_type": "AI工具",
+    "summary": "模型解释统一框架，支持多种算法与可视化",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0246",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "MIT开源",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0246",
+    "full_content_anchor": "ai_item_0248"
+  },
+  {
+    "title": "LIME",
+    "content_type": "AI工具",
+    "summary": "局部可解释模型，支持文本/图像/表格数据解释",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0247",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "BSD开源",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0247",
+    "full_content_anchor": "ai_item_0249"
+  },
+  {
+    "title": "Jina AI",
+    "content_type": "AI工具",
+    "summary": "云原生向量搜索框架，支持多模态检索",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0309",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "待验证",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import_完整",
+    "content_id": "ai_item_0309",
+    "full_content_anchor": "ai_item_0311"
+  },
+  {
+    "title": "Evidently AI",
+    "content_type": "AI工具",
+    "summary": "ML模型监控工具，支持数据漂移与模型性能分析",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0242",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0242",
+    "full_content_anchor": "ai_item_0244"
+  },
+  {
+    "title": "Arize AI",
+    "content_type": "AI工具",
+    "summary": "生产环境ML监控平台，支持根因分析与可视化",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0243",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0243",
+    "full_content_anchor": "ai_item_0245"
+  },
+  {
+    "title": "WhyLabs",
+    "content_type": "AI工具",
+    "summary": "无代码ML监控平台，支持自动异常检测",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0244",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0244",
+    "full_content_anchor": "ai_item_0246"
+  },
+  {
+    "title": "Feature Store (Feast)",
+    "content_type": "AI工具",
+    "summary": "开源特征存储平台，支持训练/推理特征一致性",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0240",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0240",
+    "full_content_anchor": "ai_item_0242"
+  },
+  {
+    "title": "Hopsworks Feature Store",
+    "content_type": "AI工具",
+    "summary": "企业级特征平台，集成MLflow与Kubernetes",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0241",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0241",
+    "full_content_anchor": "ai_item_0243"
+  },
+  {
+    "title": "Weights & Biases Artifacts",
+    "content_type": "AI工具",
+    "summary": "模型与数据集版本管理，支持团队共享与复现",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0197",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规工具",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0197",
+    "full_content_anchor": "ai_item_0197"
+  },
+  {
+    "title": "ModelDB",
+    "content_type": "AI工具",
+    "summary": "开源模型管理平台，支持元数据记录与查询",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0198",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "MIT开源",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0198",
+    "full_content_anchor": "ai_item_0198"
+  },
+  {
+    "title": "Hugging Face Model Hub",
+    "content_type": "AI工具",
+    "summary": "全球开源预训练模型库，支持NLP/CV/语音等千余模型一键调用",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0159",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0159",
+    "full_content_anchor": "ai_item_0159"
+  },
+  {
+    "title": "ModelScope（魔搭）",
+    "content_type": "AI工具",
+    "summary": "中文模型开放平台，通义实验室出品，含Qwen系列等千余模型及推理代码",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0160",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "工信部备案平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0160",
+    "full_content_anchor": "ai_item_0160"
+  },
+  {
+    "title": "TensorFlow Hub",
+    "content_type": "AI工具",
+    "summary": "Google官方预训练模型库，支持迁移学习与模块化部署",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0161",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0161",
+    "full_content_anchor": "ai_item_0161"
+  },
+  {
+    "title": "PyTorch Hub",
+    "content_type": "AI工具",
+    "summary": "PyTorch官方模型库，集成SOTA模型与复现代码",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0162",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0162",
+    "full_content_anchor": "ai_item_0162"
+  },
+  {
+    "title": "PartiQL",
+    "content_type": "AI工具",
+    "summary": "统一查询语言，支持SQL查询JSON/关系型/文档数据",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0237",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0237",
+    "full_content_anchor": "ai_item_0239"
+  },
+  {
+    "title": "DVC",
+    "content_type": "AI工具",
+    "summary": "数据版本控制工具，支持大文件与数据集管理",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0238",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0238",
+    "full_content_anchor": "ai_item_0240"
+  },
+  {
+    "title": "Great Expectations",
+    "content_type": "AI工具",
+    "summary": "数据质量测试框架，支持数据验证与文档生成",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0239",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0239",
+    "full_content_anchor": "ai_item_0241"
+  },
+  {
+    "title": "Label Studio",
+    "content_type": "AI工具",
+    "summary": "开源数据标注工具，支持图像/文本/音频多模态标注",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0194",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0194",
+    "full_content_anchor": "ai_item_0194"
+  },
+  {
+    "title": "CVAT",
+    "content_type": "AI工具",
+    "summary": "计算机视觉标注工具，支持智能辅助标注与团队协作",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0195",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "MIT开源",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0195",
+    "full_content_anchor": "ai_item_0195"
+  },
+  {
+    "title": "Roboflow",
+    "content_type": "AI工具",
+    "summary": "CV数据集管理平台，含标注、增强、导出全流程工具",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0196",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0196",
+    "full_content_anchor": "ai_item_0196"
+  },
+  {
+    "title": "Ray Tune",
+    "content_type": "AI工具",
+    "summary": "分布式超参调优库，支持多种搜索算法与调度器",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0256",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0256",
+    "full_content_anchor": "ai_item_0258"
+  },
+  {
+    "title": "Optuna",
+    "content_type": "AI工具",
+    "summary": "超参优化框架，支持动态构建搜索空间",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0257",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "MIT开源",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0257",
+    "full_content_anchor": "ai_item_0259"
+  },
+  {
+    "title": "Weights & Biases Sweeps",
+    "content_type": "AI工具",
+    "summary": "实验管理平台内置超参搜索功能",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0258",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规工具",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0258",
+    "full_content_anchor": "ai_item_0260"
+  },
+  {
+    "title": "Weights & Biases",
+    "content_type": "AI工具",
+    "summary": "ML实验跟踪工具，支持指标记录、超参对比与可视化",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0190",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规工具",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0190",
+    "full_content_anchor": "ai_item_0190"
+  },
+  {
+    "title": "MLflow",
+    "content_type": "AI工具",
+    "summary": "开源ML生命周期管理平台，支持实验跟踪与模型部署",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0191",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0191",
+    "full_content_anchor": "ai_item_0191"
+  },
+  {
+    "title": "Comet.ml",
+    "content_type": "AI工具",
+    "summary": "ML实验管理平台，支持团队协作与模型版本控制",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0193",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0193",
+    "full_content_anchor": "ai_item_0193"
+  },
+  {
+    "title": "IBM AI Fairness 360",
+    "content_type": "AI工具",
+    "summary": "AI公平性检测工具包，含30+偏差检测与缓解算法",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0248",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0248",
+    "full_content_anchor": "ai_item_0250"
+  },
+  {
+    "title": "Google What-If Tool",
+    "content_type": "AI工具",
+    "summary": "模型公平性与性能可视化分析工具",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0249",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Google开源工具",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0249",
+    "full_content_anchor": "ai_item_0251"
+  },
+  {
+    "title": "TensorFlow Privacy",
+    "content_type": "AI工具",
+    "summary": "差分隐私训练库，支持隐私保护模型训练",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0250",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "TensorFlow官方工具",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0250",
+    "full_content_anchor": "ai_item_0252"
+  },
+  {
+    "title": "Opacus",
+    "content_type": "AI工具",
+    "summary": "PyTorch差分隐私训练库，支持高效隐私保护",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0251",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "PyTorch官方工具",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0251",
+    "full_content_anchor": "ai_item_0253"
+  }
+]

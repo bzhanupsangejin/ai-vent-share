@@ -1,0 +1,121 @@
+[
+  {
+    "title": "AI Ethics Guidelines (EU)",
+    "content_type": "合规说明",
+    "summary": "欧盟AI伦理准则与法规框架，含可信AI评估清单",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0235",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际规范文件",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0235",
+    "full_content_anchor": "ai_item_0237"
+  },
+  {
+    "title": "中国人工智能伦理规范",
+    "content_type": "合规说明",
+    "summary": "国家网信办发布AI治理原则，强调安全可控与以人为本",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0236",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国家规范文件",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0236",
+    "full_content_anchor": "ai_item_0238"
+  },
+  {
+    "title": "阿里云ACA/ACP认证",
+    "content_type": "合规说明",
+    "summary": "阿里云人工智能工程师认证，含实操与理论考核",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0291",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国家认证体系",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0291",
+    "full_content_anchor": "ai_item_0293"
+  },
+  {
+    "title": "AWS ML Specialty",
+    "content_type": "合规说明",
+    "summary": "AWS机器学习专家认证，考察云上ML实践能力",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0292",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际认证体系",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0292",
+    "full_content_anchor": "ai_item_0294"
+  },
+  {
+    "title": "Google Professional ML Engineer",
+    "content_type": "合规说明",
+    "summary": "Google云ML工程师认证，聚焦生产环境部署",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0293",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际认证体系",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0293",
+    "full_content_anchor": "ai_item_0295"
+  },
+  {
+    "title": "Microsoft Azure AI Engineer",
+    "content_type": "合规说明",
+    "summary": "微软Azure AI工程师认证，含认知服务与模型部署",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0294",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际认证体系",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0294",
+    "full_content_anchor": "ai_item_0296"
+  },
+  {
+    "title": "中国人工智能学会认证",
+    "content_type": "合规说明",
+    "summary": "CAAI人工智能工程师认证，国内权威资质",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0297",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国家认证体系",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0297",
+    "full_content_anchor": "ai_item_0299"
+  }
+]

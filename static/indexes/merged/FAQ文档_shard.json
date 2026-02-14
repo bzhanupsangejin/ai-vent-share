@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Stack Overflow",
+    "content_type": "FAQ文档",
+    "summary": "全球技术问答社区，AI/ML相关问题超百万条",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0181",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际技术社区",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0181",
+    "full_content_anchor": "ai_item_0181"
+  },
+  {
+    "title": "BigModel.cn",
+    "content_type": "FAQ文档",
+    "summary": "智谱AI开放平台，含GLM系列模型与应用",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0307",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国家认证平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0307",
+    "full_content_anchor": "ai_item_0309"
+  }
+]

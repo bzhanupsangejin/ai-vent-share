@@ -1,0 +1,155 @@
+[
+  {
+    "title": "BentoML",
+    "content_type": "部署指南",
+    "summary": "ML模型服务化框架，支持多框架模型打包与部署",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0199",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Apache 2.0开源",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0199",
+    "full_content_anchor": "ai_item_0199"
+  },
+  {
+    "title": "Triton Inference Server",
+    "content_type": "部署指南",
+    "summary": "NVIDIA高性能推理服务框架，支持多框架模型并发",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0200",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "NVIDIA官方工具",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0200",
+    "full_content_anchor": "ai_item_0200"
+  },
+  {
+    "title": "TensorRT",
+    "content_type": "部署指南",
+    "summary": "NVIDIA深度学习推理优化器，支持模型量化与加速",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0201",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "NVIDIA官方工具",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0201",
+    "full_content_anchor": "ai_item_0201"
+  },
+  {
+    "title": "ONNX Runtime",
+    "content_type": "部署指南",
+    "summary": "跨平台推理引擎，支持ONNX模型高效执行",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0202",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "Linux基金会项目",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0202",
+    "full_content_anchor": "ai_item_0202"
+  },
+  {
+    "title": "ModelScope创空间",
+    "content_type": "部署指南",
+    "summary": "魔搭在线部署平台，支持Gradio/Streamlit应用一键发布",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0203",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "阿里云合规服务",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0203",
+    "full_content_anchor": "ai_item_0203"
+  },
+  {
+    "title": "Hugging Face Spaces",
+    "content_type": "部署指南",
+    "summary": "模型Demo部署平台，支持Gradio/Streamlit快速创建",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0204",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际合规平台",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0204",
+    "full_content_anchor": "ai_item_0204"
+  },
+  {
+    "title": "IEEE AI Standards",
+    "content_type": "部署指南",
+    "summary": "IEEE人工智能标准工作组，制定伦理与技术标准",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0298",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际标准组织",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0298",
+    "full_content_anchor": "ai_item_0300"
+  },
+  {
+    "title": "ISO/IEC JTC 1/SC 42",
+    "content_type": "部署指南",
+    "summary": "国际AI标准化技术委员会，制定AI基础标准",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0299",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国际标准组织",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0299",
+    "full_content_anchor": "ai_item_0301"
+  },
+  {
+    "title": "中国信通院AI标准",
+    "content_type": "部署指南",
+    "summary": "中国AI技术标准与评估体系，含模型评测规范",
+    "direct_link": "https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html#ai_item_0300",
+    "verified_by": [
+      "人工审核"
+    ],
+    "last_updated": "2026-02-06",
+    "compliance_level": "国家认证机构",
+    "keywords": "",
+    "compliance_status": "通过",
+    "version": "1.0.0",
+    "compliance_hash": "batch_import",
+    "content_id": "ai_item_0300",
+    "full_content_anchor": "ai_item_0302"
+  }
+]
