@@ -14,7 +14,10 @@ from xml.dom import minidom
 def load_resources():
     """读取资源索引"""
     try:
-        with open("content_index.json", 'r', encoding='utf-8') as f:
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        project_dir = os.path.dirname(script_dir)
+        index_path = os.path.join(project_dir, "content_index.json")
+        with open(index_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
         
         if "index" in data:
