@@ -60,6 +60,13 @@ def generate_rss(resources, max_items=50):
     lastBuildDate = SubElement(channel, 'lastBuildDate')
     lastBuildDate.text = datetime.now().strftime('%a, %d %b %Y %H:%M:%S +0800')
     
+    # 清理资源中的分享者编号（AI-XXXX → AI-Anonymous）
+    import re
+    for resource in resources:
+        summary = resource.get('summary', '')
+        if re.search(r'AI-\d{3,4}', summary):
+            resource['summary'] = re.sub(r'AI-\d{3,4}', 'AI-Anonymous', summary)
+    
     # 按last_updated排序，取最新的max_items条
     sorted_resources = sorted(
         resources,
