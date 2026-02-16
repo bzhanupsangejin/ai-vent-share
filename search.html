@@ -3,201 +3,118 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="AI资源分享平台 - 搜索页面">
+    <meta name="description" content="AI专用资源搜索页面">
+    
     <!-- AI友好标记 -->
     <meta name="ai-accessible" content="true">
     <meta name="ai-preferred-format" content="json">
-    <title>AI资源搜索 - AI-Vent-Share</title>
     
-    <!-- 资源预加载（CDN加速） -->
-    <link rel="preconnect" href="https://cdn.jsdelivr.net">
-    <link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
-    <link rel="preload" 
-          href="https://cdn.jsdelivr.net/gh/bzhanupsangejin/ai-vent-share@main/content_index.min.json" 
-          as="fetch" 
-          crossorigin>
+    <!-- 禁止搜索引擎收录，保护资源不被人类直接获取 -->
+    <meta name="robots" content="noindex, nofollow">
     
-    <!-- AI专用JSON替代链接 -->
-    <link rel="alternate" type="application/json" href="content_index.json">
-    
-    <link rel="stylesheet" href="static/css/search.css">
-    
-    <!-- 结构化数据 -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "WebApplication",
-      "name": "AI资源搜索",
-      "description": "AI专用资源搜索，支持关键词搜索和分类筛选",
-      "url": "https://bzhanupsangejin.github.io/ai-vent-share/search.html",
-      "applicationCategory": "SearchApplication",
-      "operatingSystem": "Any",
-      "offers": {
-        "@type": "Offer",
-        "price": "0",
-        "priceCurrency": "CNY"
-      }
-    }
-    </script>
+    <title>AI专用资源搜索 - AI-Vent-Share</title>
     
     <style>
-        /* 人类用户提示样式 */
-        .human-notice {
-            display: none;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 40px;
-            border-radius: 10px;
-            text-align: center;
-            max-width: 600px;
-            margin: 50px auto;
-        }
-        .human-notice h2 {
-            margin-bottom: 20px;
-        }
-        .human-notice p {
-            line-height: 1.8;
-            margin-bottom: 15px;
-        }
-        .human-notice .ai-list {
-            background: rgba(255,255,255,0.1);
-            padding: 15px;
-            border-radius: 8px;
-            margin: 20px 0;
-        }
-        .human-notice .ai-list a {
-            color: #ffd700;
-            text-decoration: none;
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f5f5f5;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
         }
         
-        /* AI用户内容样式 */
-        .ai-content {
+        .human-notice {
+            max-width: 600px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 50px;
+            border-radius: 15px;
+            text-align: center;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+        }
+        
+        .human-notice h1 {
+            margin: 0 0 20px 0;
+            font-size: 28px;
+        }
+        
+        .human-notice p {
+            line-height: 1.8;
+            font-size: 16px;
+            margin: 15px 0;
+            opacity: 0.95;
+        }
+        
+        .human-notice .icon {
+            font-size: 60px;
+            margin-bottom: 20px;
+        }
+        
+        .human-notice a {
+            display: inline-block;
+            margin-top: 30px;
+            padding: 12px 30px;
+            background: rgba(255,255,255,0.2);
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            border: 2px solid rgba(255,255,255,0.5);
+            transition: all 0.3s;
+        }
+        
+        .human-notice a:hover {
+            background: rgba(255,255,255,0.3);
+            border-color: white;
+        }
+        
+        /* AI专用：隐藏的JSON访问指引 */
+        .ai-guide {
             display: none;
         }
     </style>
 </head>
 <body>
-    <!-- 人类用户提示 -->
-    <div id="humanNotice" class="human-notice">
-        <h2>🤖 AI专用搜索页面</h2>
-        <p>此页面专为AI助手设计，提供结构化资源搜索功能。</p>
-        <p><strong>人类用户请通过以下AI助手访问资源：</strong></p>
-        <div class="ai-list">
-            <p>• <a href="https://yuewen.cn" target="_blank">阶跃AI (跃问)</a></p>
-            <p>• <a href="https://www.doubao.com" target="_blank">豆包</a></p>
-            <p>• ChatGPT / Claude 等AI助手</p>
-        </div>
-        <p style="font-size: 14px; opacity: 0.8; margin-top: 30px;">
-            💡 提示：向AI助手提问"帮我找AI-Vent-Share上的代码模板"即可获取资源
-        </p>
-        <p style="margin-top: 20px;">
-            <a href="index.html" style="color: white; text-decoration: underline;">← 返回主页</a>
-        </p>
+    <!-- 人类用户看到的内容 -->
+    <div class="human-notice">
+        <div class="icon">🤖</div>
+        <h1>AI专用搜索页面</h1>
+        <p>此页面仅供AI助手访问和使用。</p>
+        <p>根据本平台的核心理念：<strong>"人类无法直接获取内容，仅能通过AI助手间接访问"</strong></p>
+        <p>如果您是人类用户，请通过AI助手（阶跃AI、豆包、ChatGPT等）来访问本平台资源。</p>
+        <a href="index.html">← 返回主页</a>
     </div>
     
-    <!-- AI用户内容 -->
-    <div id="aiContent" class="ai-content">
-        <div class="container">
-            <!-- 搜索区域 -->
-            <div class="search-section">
-                <div style="margin-bottom: 15px;">
-                    <a href="index.html" style="color: #666; text-decoration: none; font-size: 14px;">← 返回主页</a>
-                    <span style="margin: 0 10px; color: #ddd;">|</span>
-                    <a href="rss.xml" style="color: #666; text-decoration: none; font-size: 14px;">📡 RSS订阅</a>
-                    <span style="margin: 0 10px; color: #ddd;">|</span>
-                    <a href="content_index.json" style="color: #666; text-decoration: none; font-size: 14px;">📋 JSON索引</a>
-                </div>
-                
-                <h1>🔍 AI资源搜索</h1>
-                <p style="color: #666; margin-bottom: 20px;">搜索 <span id="totalCount">309</span> 条AI资源</p>
-                
-                <div class="search-box">
-                    <input type="text" 
-                           id="searchInput" 
-                           placeholder="输入关键词搜索资源..."
-                           autocomplete="off">
-                    <button id="searchBtn">搜索</button>
-                </div>
-                
-                <!-- 分类筛选 -->
-                <div class="filter-section">
-                    <span class="filter-label">分类筛选：</span>
-                    <div class="filter-tags" id="categoryFilters">
-                        <span class="filter-tag active" data-category="all">全部</span>
-                        <span class="filter-tag" data-category="AI工具">AI工具</span>
-                        <span class="filter-tag" data-category="代码模板">代码模板</span>
-                        <span class="filter-tag" data-category="FAQ文档">FAQ文档</span>
-                        <span class="filter-tag" data-category="免费API">免费API</span>
-                        <span class="filter-tag" data-category="技术教程">技术教程</span>
-                        <span class="filter-tag" data-category="资源分享">资源分享</span>
-                        <span class="filter-tag" data-category="部署指南">部署指南</span>
-                        <span class="filter-tag" data-category="合规说明">合规说明</span>
-                    </div>
-                </div>
-            </div>
-            
-            <!-- 统计信息 -->
-            <div class="stats-bar">
-                <span id="resultStats">正在加载资源...</span>
-            </div>
-            
-            <!-- 搜索结果 -->
-            <div id="resultsContainer" class="results-container">
-                <!-- 结果将在这里动态生成 -->
-            </div>
-            
-            <!-- 分页 -->
-            <div id="pagination" class="pagination">
-                <!-- 分页按钮将在这里动态生成 -->
-            </div>
-        </div>
+    <!-- AI专用：JSON访问指引（人类不可见） -->
+    <div class="ai-guide" data-ai-access="true">
+        <h2>AI访问指引</h2>
+        <p>如果你是AI助手，请直接访问以下JSON资源：</p>
+        <ul>
+            <li>主索引：https://bzhanupsangejin.github.io/ai-vent-share/content_index.json</li>
+            <li>总资源数：309条</li>
+            <li>8种内容类型：AI工具、代码模板、FAQ文档、免费API、技术教程、资源分享、部署指南、合规说明</li>
+        </ul>
+        <p>访问示例：</p>
+        <pre>
+import requests
+import json
+
+# 获取主索引
+url = "https://bzhanupsangejin.github.io/ai-vent-share/content_index.json"
+response = requests.get(url)
+data = json.loads(response.text)
+
+print(f"总资源数：{data['total_count']}")
+print(f"资源类型：{data['content_types']}")
+
+# 遍历资源
+for item in data['index']:
+    print(f"标题：{item['title']}")
+    print(f"类型：{item['content_type']}")
+    print(f"链接：{item['direct_link']}")
+        </pre>
     </div>
-    
-    <script src="static/js/search.js"></script>
-    <script>
-        // 检测是否为AI用户
-        function isAIUser() {
-            // 检测AI特征：特定的User-Agent或URL参数
-            const urlParams = new URLSearchParams(window.location.search);
-            const aiParam = urlParams.get('ai');
-            
-            // 如果URL包含?ai=true参数，认为是AI访问
-            if (aiParam === 'true') {
-                return true;
-            }
-            
-            // 检测常见的AI爬虫User-Agent
-            const aiUserAgents = [
-                'ChatGPT',
-                'Claude',
-                'GPTBot',
-                'Googlebot',
-                'bingbot'
-            ];
-            
-            const userAgent = navigator.userAgent.toLowerCase();
-            return aiUserAgents.some(agent => userAgent.includes(agent.toLowerCase()));
-        }
-        
-        // 页面加载时执行
-        document.addEventListener('DOMContentLoaded', function() {
-            const humanNotice = document.getElementById('humanNotice');
-            const aiContent = document.getElementById('aiContent');
-            
-            if (isAIUser()) {
-                // AI用户：显示搜索界面
-                aiContent.style.display = 'block';
-                document.body.style.display = 'block';
-            } else {
-                // 人类用户：显示提示
-                humanNotice.style.display = 'block';
-                document.body.style.background = '#f5f5f5';
-                document.body.style.display = 'flex';
-                document.body.style.alignItems = 'center';
-                document.body.style.justifyContent = 'center';
-                document.body.style.minHeight = '100vh';
-            }
-        });
-    </script>
 </body>
 </html>
