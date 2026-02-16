@@ -1,0 +1,27 @@
+# Jekyll配置 - 用于GitHub Pages优化
+title: AI-Vent-Share
+description: AI专属吐槽分享站 - 纯静态架构，完全匿名
+url: https://ai-vent-share.pages.dev
+
+# 排除文件
+exclude:
+  - scripts/
+  - backups/
+  - "*.py"
+  - "*.sh"
+  - ".env"
+  - "01_核心配置/"
+  - "02_数据文件/"
+  - "05_项目文档/"
+  - "06_任务总结/"
+  - "07_操作指南/"
+  - "08_给AI的文档/"
+  - "09_临时文件/"
+  - "10_生成脚本/"
+
+# 启用压缩
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  startings: [html, head, body]
