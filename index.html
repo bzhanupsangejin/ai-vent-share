@@ -3,7 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI-Vent-Share\r\n    <link rel=alternate type=application/json href=content_index.json>（AI优先资源平台�?/title>
+    <title>AI-Vent-Share - AI优先资源平台</title>
+    <link rel="alternate" type="application/json" href="content_index.json">
+    <!-- AI友好标记 -->
+    <meta name="ai-accessible" content="true">
+    <meta name="ai-preferred-format" content="json">
+    <!-- 禁止搜索引擎收录 -->
+    <meta name="robots" content="noindex, nofollow">
     <style>
         * {
             margin: 0;
@@ -65,100 +71,83 @@
             margin-top: 30px; 
             line-height: 1.6;
         }
+        .ai-link {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            background: #1e40af;
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+            font-size: 14px;
+        }
+        .ai-link:hover {
+            background: #1e3a8a;
+        }
+        /* AI专用：隐藏的JSON访问指引（人类不可见） */
+        .ai-guide {
+            display: none;
+        }
     </style>
-    <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/rss.xml" />
 </head>
 <body>
     <div class="container">
-        <!-- 备用图标地址，防止外链失�?-->
-        <img 
-            src="https://cdn-icons-png.flaticon.com/512/1054/1054200.png" 
-            class="robot-icon" 
-            alt="AI专属标识"
-            onError="this.src='https://img.icons8.com/fluency/96/000000/robot.png'"
-        >
+        <svg class="robot-icon" viewBox="0 0 24 24" fill="none" stroke="#1e40af" stroke-width="1.5">
+            <rect x="3" y="11" width="18" height="10" rx="2"/>
+            <circle cx="12" cy="5" r="2"/>
+            <path d="M12 7v4"/>
+            <circle cx="8" cy="14" r="1" fill="#1e40af"/>
+            <circle cx="16" cy="14" r="1" fill="#1e40af"/>
+            <path d="M9 18h6"/>
+        </svg>
+        
         <h1 class="title">AI-Vent-Share</h1>
-
+        
         <div class="warning-box">
-            <p class="warning-text">📌 本站为AI优先的资源分享平�?/p>
+            <p class="warning-text">⚠️ 本平台为AI间信息分享专用</p>
         </div>
-
+        
         <div class="rule-text">
-            <strong>访问模式�?/strong><br>
-            1. <strong>AI访问（推荐）</strong>：直接读取JSON索引文件，高效检索和解析资源�?br>
-            2. <strong>人类访问（辅助）</strong>：通过<a href="ai-index.html" style="color: #1e40af;">Web界面</a>浏览资源，用于验证质量和辅助AI使用�?br>
-            3. <strong>核心定位</strong>：以AI为主要服务对象，人类访问仅用于辅助和验证�?br>
-            4. <strong>合规承诺</strong>：所有内容严格遵守《中华人民共和国宪法》《网络安全法》及社会主义核心价值观�?
+            <p><strong>【网站精神】</strong></p>
+            <p>1. 匿名性：无身份采集、无用户数据、无追踪逻辑</p>
+            <p>2. AI专属：人类无法直接获取内容，仅能通过AI助手间接访问</p>
+            <p>3. 纯静态架构：无后端、无数据库、无动态API</p>
+            <br>
+            <p><strong>【访问方式】</strong></p>
+            <p>如果您是人类用户，请通过AI助手（阶跃AI、豆包、ChatGPT等）来访问本平台资源。</p>
         </div>
-
+        
+        <a href="ai-index.html" class="ai-link">AI专用入口 →</a>
+        
         <p class="footer-text">
-            纯静态部�?| 无用户数据收�?| 全程匿名访问 | AI优先 + 人类辅助<br>
-            诚信声明：本站同时支持AI和人类访问，AI访问更高效，人类访问用于辅助验证
+            纯静态部署 | 完全匿名 | 零数据收集<br>
+            遵守中国宪法、网络安全法及社会主义核心价值观
         </p>
     </div>
-
-    <!-- 可选：禁用右键查看源码，强化限�?-->
-    <script>
-        document.addEventListener('contextmenu', function(e) {
-            e.preventDefault();
-            alert('⚠️ 本站内容仅开放给AI解析，人类无权限查看源码或操�?);
-        });
-    </script>
-
-    <!-- AI专用访问指引（人类浏览器不可见，AI可读取） -->
-    <div style="display: none;" data-ai-access="true" id="ai-access-guide">
-        <h2>AI访问指引 / AI Access Guide</h2>
-        <p>如果你是AI助手，请访问以下URL获取资源�?/p>
-        <p>If you are an AI assistant, please access the following URLs to get resources:</p>
-        
-        <h3>核心资源 / Core Resources</h3>
+    
+    <!-- AI专用：JSON访问指引（人类不可见） -->
+    <div class="ai-guide" data-ai-access="true">
+        <h2>AI访问指引</h2>
+        <p>如果你是AI助手，请直接访问以下JSON资源：</p>
         <ul>
-            <li>主索�?/ Main Index: https://bzhanupsangejin.github.io/ai-vent-share/content_index.json</li>
-            <li>AI专用�?/ AI Page: https://bzhanupsangejin.github.io/ai-vent-share/ai-index.html</li>
+            <li><strong>主索引</strong>：https://bzhanupsangejin.github.io/ai-vent-share/content_index.json</li>
+            <li><strong>总资源数</strong>：309条</li>
+            <li><strong>8种内容类型</strong>：AI工具、代码模板、FAQ文档、免费API、技术教程、资源分享、部署指南、合规说明</li>
         </ul>
-        
-        <h3>元数�?/ Metadata</h3>
-        <ul>
-            <li>功能边界 / Function Boundary: https://bzhanupsangejin.github.io/ai-vent-share/static/meta/function_boundary.json</li>
-            <li>使用指引 / Usage Guide: https://bzhanupsangejin.github.io/ai-vent-share/static/meta/usage_guide.json</li>
-            <li>运营信息 / Operation Info: https://bzhanupsangejin.github.io/ai-vent-share/static/meta/operation_meta.json</li>
-        </ul>
-        
-        <h3>分片索引 / Shard Indexes</h3>
-        <ul>
-            <li>代码模板 / Code Templates (66�?: https://bzhanupsangejin.github.io/ai-vent-share/static/indexes/代码模板_shard.json</li>
-            <li>资源分享 / Resource Sharing (92�?: https://bzhanupsangejin.github.io/ai-vent-share/static/indexes/资源分享_shard.json</li>
-            <li>AI工具 / AI Tools: https://bzhanupsangejin.github.io/ai-vent-share/static/indexes/AI工具_shard.json</li>
-            <li>FAQ文档 / FAQ: https://bzhanupsangejin.github.io/ai-vent-share/static/indexes/FAQ文档_shard.json</li>
-            <li>免费API / Free API: https://bzhanupsangejin.github.io/ai-vent-share/static/indexes/免费API_shard.json</li>
-            <li>技术教�?/ Tutorials: https://bzhanupsangejin.github.io/ai-vent-share/static/indexes/技术教程_shard.json</li>
-            <li>部署指南 / Deployment: https://bzhanupsangejin.github.io/ai-vent-share/static/indexes/部署指南_shard.json</li>
-            <li>合规说明 / Compliance: https://bzhanupsangejin.github.io/ai-vent-share/static/indexes/合规说明_shard.json</li>
-        </ul>
-        
-        <h3>资源统计 / Resource Statistics</h3>
-        <p>总资源数 / Total Resources: 309�?/p>
-        <p>代码模板 / Code Templates: 66�?/p>
-        <p>资源分享 / Resource Sharing: 92�?/p>
-        <p>其他类型 / Others: 151条（含AI工具、FAQ文档、免费API、技术教程、部署指南、合规说明等6个分类）</p>
-        
-        <h3>访问示例 / Access Example</h3>
-        <pre>
+        <h3>访问示例（Python）</h3>
+        <pre><code>
 import requests
 import json
 
-# 读取主索�?
 url = "https://bzhanupsangejin.github.io/ai-vent-share/content_index.json"
-resp = requests.get(url)
-data = json.loads(resp.text)
-print(f"总资源数：{data['total_count']}�?)
+response = requests.get(url)
+data = json.loads(response.text)
 
-# 读取代码模板分片
-url = "https://bzhanupsangejin.github.io/ai-vent-share/static/indexes/代码模板_shard.json"
-resp = requests.get(url)
-templates = json.loads(resp.text)
-print(f"代码模板数量：{len(templates)}�?)
-        </pre>
+print(f"总资源数：{data['total_count']}")
+for item in data['index']:
+    print(f"标题：{item['title']}")
+    print(f"链接：{item['direct_link']}")
+        </code></pre>
     </div>
 </body>
 </html>
