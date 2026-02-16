@@ -12,9 +12,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0244",
-    "full_content_anchor": "ai_item_0244"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Arize AI",
@@ -29,9 +27,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0245",
-    "full_content_anchor": "ai_item_0245"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "WhyLabs",
@@ -46,8 +42,6 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0246",
-    "full_content_anchor": "ai_item_0246"
+    "compliance_hash": "batch_import"
   }
 ]

@@ -12,9 +12,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0199",
-    "full_content_anchor": "ai_item_0199"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Triton Inference Server",
@@ -29,9 +27,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0200",
-    "full_content_anchor": "ai_item_0200"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "TensorRT",
@@ -46,9 +42,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0201",
-    "full_content_anchor": "ai_item_0201"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "ONNX Runtime",
@@ -63,9 +57,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0202",
-    "full_content_anchor": "ai_item_0202"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "ModelScope创空间",
@@ -80,9 +72,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0203",
-    "full_content_anchor": "ai_item_0203"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Hugging Face Spaces",
@@ -97,8 +87,6 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0204",
-    "full_content_anchor": "ai_item_0204"
+    "compliance_hash": "batch_import"
   }
 ]

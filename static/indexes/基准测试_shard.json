@@ -12,9 +12,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0303",
-    "full_content_anchor": "ai_item_0303"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "GLUE Benchmark",
@@ -29,9 +27,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0304",
-    "full_content_anchor": "ai_item_0304"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "SuperGLUE",
@@ -46,9 +42,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0305",
-    "full_content_anchor": "ai_item_0305"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "ImageNet",
@@ -63,9 +57,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0306",
-    "full_content_anchor": "ai_item_0306"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "ModelScope评测",
@@ -80,9 +72,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0307",
-    "full_content_anchor": "ai_item_0307"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Open LLM Leaderboard",
@@ -97,8 +87,6 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0308",
-    "full_content_anchor": "ai_item_0308"
+    "compliance_hash": "batch_import"
   }
 ]

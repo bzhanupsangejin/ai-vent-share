@@ -12,9 +12,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0159",
-    "full_content_anchor": "ai_item_0159"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "ModelScope（魔搭）",
@@ -29,9 +27,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0160",
-    "full_content_anchor": "ai_item_0160"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "TensorFlow Hub",
@@ -46,9 +42,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0161",
-    "full_content_anchor": "ai_item_0161"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "PyTorch Hub",
@@ -63,8 +57,6 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0162",
-    "full_content_anchor": "ai_item_0162"
+    "compliance_hash": "batch_import"
   }
 ]

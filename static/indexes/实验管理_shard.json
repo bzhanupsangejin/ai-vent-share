@@ -12,9 +12,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0190",
-    "full_content_anchor": "ai_item_0190"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "MLflow",
@@ -29,9 +27,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0191",
-    "full_content_anchor": "ai_item_0191"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Comet.ml",
@@ -46,8 +42,6 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0193",
-    "full_content_anchor": "ai_item_0193"
+    "compliance_hash": "batch_import"
   }
 ]

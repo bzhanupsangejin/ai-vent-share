@@ -12,9 +12,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0181",
-    "full_content_anchor": "ai_item_0181"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "BigModel.cn",
@@ -29,8 +27,6 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0307",
-    "full_content_anchor": "ai_item_0309"
+    "compliance_hash": "batch_import"
   }
 ]

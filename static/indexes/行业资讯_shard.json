@@ -12,9 +12,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0233",
-    "full_content_anchor": "ai_item_0233"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "机器之心",
@@ -29,9 +27,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0234",
-    "full_content_anchor": "ai_item_0234"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "The Batch (DeepLearning.AI)",
@@ -46,9 +42,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0235",
-    "full_content_anchor": "ai_item_0235"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "MIT Technology Review AI",
@@ -63,8 +57,6 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0236",
-    "full_content_anchor": "ai_item_0236"
+    "compliance_hash": "batch_import"
   }
 ]

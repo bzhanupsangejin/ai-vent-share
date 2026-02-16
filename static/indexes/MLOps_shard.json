@@ -12,9 +12,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0261",
-    "full_content_anchor": "ai_item_0261"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Kubeflow",
@@ -29,9 +27,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0262",
-    "full_content_anchor": "ai_item_0262"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "MLflow Projects",
@@ -46,9 +42,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0263",
-    "full_content_anchor": "ai_item_0263"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "DVC Pipelines",
@@ -63,9 +57,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0264",
-    "full_content_anchor": "ai_item_0264"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Flyte",
@@ -80,8 +72,6 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0265",
-    "full_content_anchor": "ai_item_0265"
+    "compliance_hash": "batch_import"
   }
 ]

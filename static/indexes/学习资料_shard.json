@@ -12,9 +12,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0176",
-    "full_content_anchor": "ai_item_0176"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "DeepLearning.AI",
@@ -29,9 +27,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0177",
-    "full_content_anchor": "ai_item_0177"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "李沐《动手学深度学习》",
@@ -46,9 +42,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0178",
-    "full_content_anchor": "ai_item_0178"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Kaggle Learn",
@@ -63,9 +57,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0179",
-    "full_content_anchor": "ai_item_0179"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "天池学习中心",
@@ -80,8 +72,6 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0180",
-    "full_content_anchor": "ai_item_0180"
+    "compliance_hash": "batch_import"
   }
 ]

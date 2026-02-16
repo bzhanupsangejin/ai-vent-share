@@ -12,9 +12,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0169",
-    "full_content_anchor": "ai_item_0169"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "arXiv",
@@ -29,9 +27,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0170",
-    "full_content_anchor": "ai_item_0170"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Semantic Scholar",
@@ -46,9 +42,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0171",
-    "full_content_anchor": "ai_item_0171"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "中国知网AI专题",
@@ -63,8 +57,6 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0172",
-    "full_content_anchor": "ai_item_0172"
+    "compliance_hash": "batch_import"
   }
 ]

@@ -12,8 +12,6 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0310",
-    "full_content_anchor": "ai_item_0310"
+    "compliance_hash": "batch_import"
   }
 ]

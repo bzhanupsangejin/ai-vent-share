@@ -12,9 +12,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0285",
-    "full_content_anchor": "ai_item_0285"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Stanford CS229",
@@ -29,9 +27,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0286",
-    "full_content_anchor": "ai_item_0286"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Berkeley CS294-158",
@@ -46,9 +42,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0287",
-    "full_content_anchor": "ai_item_0287"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "李宏毅机器学习",
@@ -63,9 +57,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0288",
-    "full_content_anchor": "ai_item_0288"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "吴恩达《Machine Learning》",
@@ -80,9 +72,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0289",
-    "full_content_anchor": "ai_item_0289"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "吴恩达《Deep Learning Specialization》",
@@ -97,9 +87,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0290",
-    "full_content_anchor": "ai_item_0290"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Fast.ai《Practical Deep Learning》",
@@ -114,9 +102,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0291",
-    "full_content_anchor": "ai_item_0291"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "DeepLearning.AI《Generative AI》",
@@ -131,8 +117,6 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0292",
-    "full_content_anchor": "ai_item_0292"
+    "compliance_hash": "batch_import"
   }
 ]

@@ -12,9 +12,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0211",
-    "full_content_anchor": "ai_item_0211"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "通义实验室API",
@@ -29,9 +27,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0212",
-    "full_content_anchor": "ai_item_0212"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "ModelScope API",
@@ -46,9 +42,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0213",
-    "full_content_anchor": "ai_item_0213"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Replicate",
@@ -63,8 +57,6 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0214",
-    "full_content_anchor": "ai_item_0214"
+    "compliance_hash": "batch_import"
   }
 ]

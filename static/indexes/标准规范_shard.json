@@ -12,9 +12,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0300",
-    "full_content_anchor": "ai_item_0300"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "ISO/IEC JTC 1/SC 42",
@@ -29,9 +27,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0301",
-    "full_content_anchor": "ai_item_0301"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "中国信通院AI标准",
@@ -46,8 +42,6 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0302",
-    "full_content_anchor": "ai_item_0302"
+    "compliance_hash": "batch_import"
   }
 ]

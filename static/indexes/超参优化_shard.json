@@ -12,9 +12,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0258",
-    "full_content_anchor": "ai_item_0258"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Optuna",
@@ -29,9 +27,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0259",
-    "full_content_anchor": "ai_item_0259"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Weights & Biases Sweeps",
@@ -46,8 +42,6 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0260",
-    "full_content_anchor": "ai_item_0260"
+    "compliance_hash": "batch_import"
   }
 ]

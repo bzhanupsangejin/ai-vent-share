@@ -12,9 +12,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0215",
-    "full_content_anchor": "ai_item_0215"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Google Colab",
@@ -29,9 +27,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0216",
-    "full_content_anchor": "ai_item_0216"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Kaggle Notebooks",
@@ -46,9 +42,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0217",
-    "full_content_anchor": "ai_item_0217"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "阿里云PAI",
@@ -63,9 +57,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0218",
-    "full_content_anchor": "ai_item_0218"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "AWS SageMaker",
@@ -80,9 +72,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0219",
-    "full_content_anchor": "ai_item_0219"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Azure Machine Learning",
@@ -97,8 +87,6 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0220",
-    "full_content_anchor": "ai_item_0220"
+    "compliance_hash": "batch_import"
   }
 ]

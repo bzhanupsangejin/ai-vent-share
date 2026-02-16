@@ -12,9 +12,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0221",
-    "full_content_anchor": "ai_item_0221"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "ICML",
@@ -29,9 +27,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0222",
-    "full_content_anchor": "ai_item_0222"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "CVPR",
@@ -46,9 +42,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0223",
-    "full_content_anchor": "ai_item_0223"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "ACL",
@@ -63,9 +57,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0224",
-    "full_content_anchor": "ai_item_0224"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "EMNLP",
@@ -80,9 +72,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0225",
-    "full_content_anchor": "ai_item_0225"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "AAAI",
@@ -97,9 +87,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0226",
-    "full_content_anchor": "ai_item_0226"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "IJCAI",
@@ -114,8 +102,6 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0227",
-    "full_content_anchor": "ai_item_0227"
+    "compliance_hash": "batch_import"
   }
 ]

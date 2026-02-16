@@ -12,9 +12,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0239",
-    "full_content_anchor": "ai_item_0239"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "DVC",
@@ -29,9 +27,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0240",
-    "full_content_anchor": "ai_item_0240"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Great Expectations",
@@ -46,8 +42,6 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0241",
-    "full_content_anchor": "ai_item_0241"
+    "compliance_hash": "batch_import"
   }
 ]

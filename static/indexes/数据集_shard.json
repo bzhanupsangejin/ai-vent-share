@@ -12,9 +12,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0163",
-    "full_content_anchor": "ai_item_0163"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "UCI Machine Learning Repository",
@@ -29,9 +27,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0164",
-    "full_content_anchor": "ai_item_0164"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "ModelScope数据集",
@@ -46,9 +42,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0165",
-    "full_content_anchor": "ai_item_0165"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Hugging Face Datasets",
@@ -63,9 +57,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0166",
-    "full_content_anchor": "ai_item_0166"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "DataFountain",
@@ -80,9 +72,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0167",
-    "full_content_anchor": "ai_item_0167"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "OpenSLR",
@@ -97,8 +87,6 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0168",
-    "full_content_anchor": "ai_item_0168"
+    "compliance_hash": "batch_import"
   }
 ]

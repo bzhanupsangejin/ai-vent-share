@@ -12,9 +12,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0293",
-    "full_content_anchor": "ai_item_0293"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "AWS ML Specialty",
@@ -29,9 +27,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0294",
-    "full_content_anchor": "ai_item_0294"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Google Professional ML Engineer",
@@ -46,9 +42,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0295",
-    "full_content_anchor": "ai_item_0295"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Microsoft Azure AI Engineer",
@@ -63,9 +57,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0296",
-    "full_content_anchor": "ai_item_0296"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "中国人工智能学会认证",
@@ -80,8 +72,6 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0299",
-    "full_content_anchor": "ai_item_0299"
+    "compliance_hash": "batch_import"
   }
 ]

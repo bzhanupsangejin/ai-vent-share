@@ -12,9 +12,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0252",
-    "full_content_anchor": "ai_item_0252"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Opacus",
@@ -29,8 +27,6 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0253",
-    "full_content_anchor": "ai_item_0253"
+    "compliance_hash": "batch_import"
   }
 ]

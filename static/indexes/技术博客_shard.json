@@ -12,9 +12,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0276",
-    "full_content_anchor": "ai_item_0276"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "PyTorch博客",
@@ -29,9 +27,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0277",
-    "full_content_anchor": "ai_item_0277"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Hugging Face博客",
@@ -46,9 +42,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0278",
-    "full_content_anchor": "ai_item_0278"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "阿里云技术博客",
@@ -63,9 +57,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0279",
-    "full_content_anchor": "ai_item_0279"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "机器之心技术专栏",
@@ -80,9 +72,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0280",
-    "full_content_anchor": "ai_item_0280"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Distill.pub",
@@ -97,9 +87,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0281",
-    "full_content_anchor": "ai_item_0281"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Sebastian Raschka博客",
@@ -114,9 +102,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0282",
-    "full_content_anchor": "ai_item_0282"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Andrej Karpathy博客",
@@ -131,9 +117,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0283",
-    "full_content_anchor": "ai_item_0283"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Weights & Biases博客",
@@ -148,8 +132,6 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0284",
-    "full_content_anchor": "ai_item_0284"
+    "compliance_hash": "batch_import"
   }
 ]

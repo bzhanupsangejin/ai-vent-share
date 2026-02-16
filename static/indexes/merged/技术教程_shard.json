@@ -12,9 +12,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0173",
-    "full_content_anchor": "ai_item_0173"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "PyTorch教程",
@@ -29,9 +27,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0174",
-    "full_content_anchor": "ai_item_0174"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "飞桨PaddlePaddle教程",
@@ -46,9 +42,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0175",
-    "full_content_anchor": "ai_item_0175"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Fast.ai",
@@ -63,9 +57,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0176",
-    "full_content_anchor": "ai_item_0176"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "DeepLearning.AI",
@@ -80,9 +72,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0177",
-    "full_content_anchor": "ai_item_0177"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "李沐《动手学深度学习》",
@@ -97,9 +87,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0178",
-    "full_content_anchor": "ai_item_0178"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Kaggle Learn",
@@ -114,9 +102,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0179",
-    "full_content_anchor": "ai_item_0179"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "天池学习中心",
@@ -131,9 +117,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0180",
-    "full_content_anchor": "ai_item_0180"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Full Stack Deep Learning",
@@ -148,9 +132,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0283",
-    "full_content_anchor": "ai_item_0285"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Stanford CS229",
@@ -165,9 +147,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0284",
-    "full_content_anchor": "ai_item_0286"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Berkeley CS294-158",
@@ -182,9 +162,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0285",
-    "full_content_anchor": "ai_item_0287"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "李宏毅机器学习",
@@ -199,9 +177,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0286",
-    "full_content_anchor": "ai_item_0288"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "吴恩达《Machine Learning》",
@@ -216,9 +192,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0287",
-    "full_content_anchor": "ai_item_0289"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "吴恩达《Deep Learning Specialization》",
@@ -233,9 +207,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0288",
-    "full_content_anchor": "ai_item_0290"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Fast.ai《Practical Deep Learning》",
@@ -250,9 +222,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0289",
-    "full_content_anchor": "ai_item_0291"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "DeepLearning.AI《Generative AI》",
@@ -267,9 +237,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0290",
-    "full_content_anchor": "ai_item_0292"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "NVIDIA DLI",
@@ -284,9 +252,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0295",
-    "full_content_anchor": "ai_item_0297"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "ModelScope学院",
@@ -301,9 +267,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0296",
-    "full_content_anchor": "ai_item_0298"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "TensorFlow官方博客",
@@ -318,9 +282,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0274",
-    "full_content_anchor": "ai_item_0276"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "PyTorch博客",
@@ -335,9 +297,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0275",
-    "full_content_anchor": "ai_item_0277"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Hugging Face博客",
@@ -352,9 +312,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0276",
-    "full_content_anchor": "ai_item_0278"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "阿里云技术博客",
@@ -369,9 +327,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0277",
-    "full_content_anchor": "ai_item_0279"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "机器之心技术专栏",
@@ -386,9 +342,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0278",
-    "full_content_anchor": "ai_item_0280"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Distill.pub",
@@ -403,9 +357,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0279",
-    "full_content_anchor": "ai_item_0281"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Sebastian Raschka博客",
@@ -420,9 +372,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0280",
-    "full_content_anchor": "ai_item_0282"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Andrej Karpathy博客",
@@ -437,9 +387,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0281",
-    "full_content_anchor": "ai_item_0283"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Weights & Biases博客",
@@ -454,9 +402,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0282",
-    "full_content_anchor": "ai_item_0284"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Papers With Code",
@@ -471,9 +417,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0169",
-    "full_content_anchor": "ai_item_0169"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "arXiv",
@@ -488,9 +432,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0170",
-    "full_content_anchor": "ai_item_0170"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Semantic Scholar",
@@ -505,9 +447,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0171",
-    "full_content_anchor": "ai_item_0171"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "中国知网AI专题",
@@ -522,9 +462,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0172",
-    "full_content_anchor": "ai_item_0172"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "NeurIPS",
@@ -539,9 +477,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0221",
-    "full_content_anchor": "ai_item_0221"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "ICML",
@@ -556,9 +492,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0222",
-    "full_content_anchor": "ai_item_0222"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "CVPR",
@@ -573,9 +507,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0223",
-    "full_content_anchor": "ai_item_0223"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "ACL",
@@ -590,9 +522,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0224",
-    "full_content_anchor": "ai_item_0224"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "EMNLP",
@@ -607,9 +537,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0225",
-    "full_content_anchor": "ai_item_0225"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "AAAI",
@@ -624,9 +552,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0226",
-    "full_content_anchor": "ai_item_0226"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "IJCAI",
@@ -641,9 +567,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0227",
-    "full_content_anchor": "ai_item_0227"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "MLPerf",
@@ -658,9 +582,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0301",
-    "full_content_anchor": "ai_item_0303"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "GLUE Benchmark",
@@ -675,9 +597,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0302",
-    "full_content_anchor": "ai_item_0304"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "SuperGLUE",
@@ -692,9 +612,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0303",
-    "full_content_anchor": "ai_item_0305"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "ImageNet",
@@ -709,9 +627,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0304",
-    "full_content_anchor": "ai_item_0306"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "ModelScope评测",
@@ -726,9 +642,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0305",
-    "full_content_anchor": "ai_item_0307"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Open LLM Leaderboard",
@@ -743,8 +657,6 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0306",
-    "full_content_anchor": "ai_item_0308"
+    "compliance_hash": "batch_import"
   }
 ]

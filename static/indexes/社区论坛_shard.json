@@ -12,9 +12,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0182",
-    "full_content_anchor": "ai_item_0182"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Reddit r/MachineLearning",
@@ -29,9 +27,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0183",
-    "full_content_anchor": "ai_item_0183"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "ModelScope社区",
@@ -46,9 +42,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0184",
-    "full_content_anchor": "ai_item_0184"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "HeyWhale（和鲸）",
@@ -63,8 +57,6 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0185",
-    "full_content_anchor": "ai_item_0185"
+    "compliance_hash": "batch_import"
   }
 ]

@@ -12,9 +12,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0253",
-    "full_content_anchor": "ai_item_0255"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "H2O AutoML",
@@ -29,9 +27,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0254",
-    "full_content_anchor": "ai_item_0256"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "TPOT",
@@ -46,9 +42,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0255",
-    "full_content_anchor": "ai_item_0257"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "ClearML",
@@ -63,9 +57,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0259",
-    "full_content_anchor": "ai_item_0261"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Kubeflow",
@@ -80,9 +72,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0260",
-    "full_content_anchor": "ai_item_0262"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "MLflow Projects",
@@ -97,9 +87,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0261",
-    "full_content_anchor": "ai_item_0263"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "DVC Pipelines",
@@ -114,9 +102,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0262",
-    "full_content_anchor": "ai_item_0264"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Flyte",
@@ -131,9 +117,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0263",
-    "full_content_anchor": "ai_item_0265"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "TensorBoard",
@@ -148,9 +132,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0192",
-    "full_content_anchor": "ai_item_0192"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Captum",
@@ -165,9 +147,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0245",
-    "full_content_anchor": "ai_item_0247"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "SHAP",
@@ -182,9 +162,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0246",
-    "full_content_anchor": "ai_item_0248"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "LIME",
@@ -199,9 +177,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0247",
-    "full_content_anchor": "ai_item_0249"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Jina AI",
@@ -216,9 +192,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import_完整",
-    "content_id": "ai_item_0309",
-    "full_content_anchor": "ai_item_0311"
+    "compliance_hash": "batch_import_完整"
   },
   {
     "title": "Evidently AI",
@@ -233,9 +207,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0242",
-    "full_content_anchor": "ai_item_0244"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Arize AI",
@@ -250,9 +222,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0243",
-    "full_content_anchor": "ai_item_0245"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "WhyLabs",
@@ -267,9 +237,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0244",
-    "full_content_anchor": "ai_item_0246"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Feature Store (Feast)",
@@ -284,9 +252,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0240",
-    "full_content_anchor": "ai_item_0242"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Hopsworks Feature Store",
@@ -301,9 +267,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0241",
-    "full_content_anchor": "ai_item_0243"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Weights & Biases Artifacts",
@@ -318,9 +282,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0197",
-    "full_content_anchor": "ai_item_0197"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "ModelDB",
@@ -335,9 +297,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0198",
-    "full_content_anchor": "ai_item_0198"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Hugging Face Model Hub",
@@ -352,9 +312,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0159",
-    "full_content_anchor": "ai_item_0159"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "ModelScope（魔搭）",
@@ -369,9 +327,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0160",
-    "full_content_anchor": "ai_item_0160"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "TensorFlow Hub",
@@ -386,9 +342,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0161",
-    "full_content_anchor": "ai_item_0161"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "PyTorch Hub",
@@ -403,9 +357,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0162",
-    "full_content_anchor": "ai_item_0162"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "PartiQL",
@@ -420,9 +372,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0237",
-    "full_content_anchor": "ai_item_0239"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "DVC",
@@ -437,9 +387,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0238",
-    "full_content_anchor": "ai_item_0240"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Great Expectations",
@@ -454,9 +402,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0239",
-    "full_content_anchor": "ai_item_0241"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Label Studio",
@@ -471,9 +417,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0194",
-    "full_content_anchor": "ai_item_0194"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "CVAT",
@@ -488,9 +432,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0195",
-    "full_content_anchor": "ai_item_0195"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Roboflow",
@@ -505,9 +447,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0196",
-    "full_content_anchor": "ai_item_0196"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Ray Tune",
@@ -522,9 +462,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0256",
-    "full_content_anchor": "ai_item_0258"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Optuna",
@@ -539,9 +477,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0257",
-    "full_content_anchor": "ai_item_0259"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Weights & Biases Sweeps",
@@ -556,9 +492,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0258",
-    "full_content_anchor": "ai_item_0260"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Weights & Biases",
@@ -573,9 +507,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0190",
-    "full_content_anchor": "ai_item_0190"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "MLflow",
@@ -590,9 +522,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0191",
-    "full_content_anchor": "ai_item_0191"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Comet.ml",
@@ -607,9 +537,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0193",
-    "full_content_anchor": "ai_item_0193"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "IBM AI Fairness 360",
@@ -624,9 +552,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0248",
-    "full_content_anchor": "ai_item_0250"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Google What-If Tool",
@@ -641,9 +567,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0249",
-    "full_content_anchor": "ai_item_0251"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "TensorFlow Privacy",
@@ -658,9 +582,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0250",
-    "full_content_anchor": "ai_item_0252"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Opacus",
@@ -675,8 +597,6 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0251",
-    "full_content_anchor": "ai_item_0253"
+    "compliance_hash": "batch_import"
   }
 ]

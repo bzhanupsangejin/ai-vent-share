@@ -12,9 +12,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0266",
-    "full_content_anchor": "ai_item_0266"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Google AI",
@@ -29,9 +27,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0267",
-    "full_content_anchor": "ai_item_0267"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Microsoft Research AI",
@@ -46,9 +42,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0268",
-    "full_content_anchor": "ai_item_0268"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "通义实验室",
@@ -63,9 +57,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0269",
-    "full_content_anchor": "ai_item_0269"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "智源研究院",
@@ -80,9 +72,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0270",
-    "full_content_anchor": "ai_item_0270"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "上海人工智能实验室",
@@ -97,9 +87,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0271",
-    "full_content_anchor": "ai_item_0271"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Stanford HAI",
@@ -114,9 +102,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0272",
-    "full_content_anchor": "ai_item_0272"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "MIT CSAIL",
@@ -131,9 +117,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0273",
-    "full_content_anchor": "ai_item_0273"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "CMU LTI",
@@ -148,9 +132,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0274",
-    "full_content_anchor": "ai_item_0274"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "伯克利BAIR",
@@ -165,8 +147,6 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0275",
-    "full_content_anchor": "ai_item_0275"
+    "compliance_hash": "batch_import"
   }
 ]

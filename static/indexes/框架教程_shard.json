@@ -12,9 +12,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0173",
-    "full_content_anchor": "ai_item_0173"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "PyTorch教程",
@@ -29,9 +27,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0174",
-    "full_content_anchor": "ai_item_0174"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "飞桨PaddlePaddle教程",
@@ -46,8 +42,6 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0175",
-    "full_content_anchor": "ai_item_0175"
+    "compliance_hash": "batch_import"
   }
 ]

@@ -12,9 +12,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0211",
-    "full_content_anchor": "ai_item_0211"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "通义实验室API",
@@ -29,9 +27,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0212",
-    "full_content_anchor": "ai_item_0212"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "ModelScope API",
@@ -46,9 +42,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0213",
-    "full_content_anchor": "ai_item_0213"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Replicate",
@@ -63,9 +57,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0214",
-    "full_content_anchor": "ai_item_0214"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Kaggle Datasets",
@@ -80,9 +72,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0163",
-    "full_content_anchor": "ai_item_0163"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "UCI Machine Learning Repository",
@@ -97,9 +87,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0164",
-    "full_content_anchor": "ai_item_0164"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "ModelScope数据集",
@@ -114,9 +102,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0165",
-    "full_content_anchor": "ai_item_0165"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Hugging Face Datasets",
@@ -131,9 +117,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0166",
-    "full_content_anchor": "ai_item_0166"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "DataFountain",
@@ -148,9 +132,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0167",
-    "full_content_anchor": "ai_item_0167"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "OpenSLR",
@@ -165,9 +147,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0168",
-    "full_content_anchor": "ai_item_0168"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Paperspace Gradient",
@@ -182,9 +162,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0215",
-    "full_content_anchor": "ai_item_0215"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Google Colab",
@@ -199,9 +177,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0216",
-    "full_content_anchor": "ai_item_0216"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Kaggle Notebooks",
@@ -216,9 +192,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0217",
-    "full_content_anchor": "ai_item_0217"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "阿里云PAI",
@@ -233,9 +207,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0218",
-    "full_content_anchor": "ai_item_0218"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "AWS SageMaker",
@@ -250,9 +222,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0219",
-    "full_content_anchor": "ai_item_0219"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Azure Machine Learning",
@@ -267,8 +237,6 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0220",
-    "full_content_anchor": "ai_item_0220"
+    "compliance_hash": "batch_import"
   }
 ]

@@ -12,9 +12,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0205",
-    "full_content_anchor": "ai_item_0205"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Gradio",
@@ -29,9 +27,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0206",
-    "full_content_anchor": "ai_item_0206"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Plotly Dash",
@@ -46,9 +42,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0207",
-    "full_content_anchor": "ai_item_0207"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "LangChain",
@@ -63,9 +57,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0208",
-    "full_content_anchor": "ai_item_0208"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "LlamaIndex",
@@ -80,9 +72,7 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0209",
-    "full_content_anchor": "ai_item_0209"
+    "compliance_hash": "batch_import"
   },
   {
     "title": "Haystack",
@@ -97,8 +87,6 @@
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import",
-    "content_id": "ai_item_0210",
-    "full_content_anchor": "ai_item_0210"
+    "compliance_hash": "batch_import"
   }
 ]
