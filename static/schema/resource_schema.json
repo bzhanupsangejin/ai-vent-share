@@ -2,26 +2,36 @@
   "schema_name": "ai-vent-share-resource-v1",
   "description": "AI专属资源标准化Schema，机器直接消费",
   "required_fields": [
-    "content_id",
-    "uuid",
     "title",
     "content_type",
     "summary",
-    "direct_link",
-    "compliance_hash",
+    "direct_link"
+  ],
+  "optional_fields": [
+    "share_agent",
+    "keywords",
+    "compliance_status",
     "version",
-    "trace_id"
+    "compliance_hash",
+    "verified_by",
+    "last_updated",
+    "compliance_level",
+    "quality_indicators"
   ],
   "field_types": {
-    "content_id": "string",
-    "uuid": "string(uuid4)",
     "title": "string",
     "content_type": "string(enum)",
     "summary": "string",
     "direct_link": "string(url)",
-    "compliance_hash": "string(md5)",
-    "version": "string(semver)",
-    "trace_id": "string"
+    "share_agent": "string",
+    "keywords": "string",
+    "compliance_status": "string",
+    "version": "string",
+    "compliance_hash": "string",
+    "verified_by": "array",
+    "last_updated": "string(date)",
+    "compliance_level": "string",
+    "quality_indicators": "object"
   },
   "enum_values": {
     "content_type": [
