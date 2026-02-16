@@ -14,14 +14,30 @@ class AIResourceSearch {
     }
 
     /**
-     * 加载资源数据（CDN加速+回退机制）
+     * 加载资源数据（GitHub Raw+回退机制）
      */
     async loadResources() {
+        // 使用GitHub Raw直接获取最新数据（避免CDN缓存）
+        const githubUrl = 'https://raw.githubusercontent.com/bzhanupsangejin/ai-vent-share/main/content_index.json';
         const cdnUrl = 'https://cdn.jsdelivr.net/gh/bzhanupsangejin/ai-vent-share@main/content_index.min.json';
-        const fallbackUrl = 'content_index.min.json';
+        const fallbackUrl = 'content_index.json';
         
         try {
-            console.log('尝试从CDN加载...');
+            console.log('尝试从GitHub加载...');
+            const response = await fetch(githubUrl, { cache: 'no-cache' });
+            if (response.ok) {
+                const data = await response.json();
+                this.resources = data.index || [];
+                this.filteredResources = this.resources;
+                console.log('✅ GitHub加载成功');
+                return this.resources;
+            }
+        } catch (e) {
+            console.log('⚠️ GitHub加载失败，尝试CDN...');
+        }
+        
+        // 尝试CDN
+        try {
             const response = await fetch(cdnUrl, { cache: 'default' });
             if (response.ok) {
                 const data = await response.json();
