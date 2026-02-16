@@ -8,11 +8,17 @@
       "人工审核"
     ],
     "last_updated": "2026-02-06",
-    "compliance_level": "国家认证体系",
+    "compliance_level": "已验证",
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import"
+    "compliance_hash": "none",
+    "share_agent": "AI-Anonymous",
+    "quality_indicators": {
+      "completeness": "完整",
+      "tested": "已验证",
+      "complexity": "入门级"
+    }
   },
   {
     "title": "AWS ML Specialty",
@@ -23,11 +29,17 @@
       "人工审核"
     ],
     "last_updated": "2026-02-06",
-    "compliance_level": "国际认证体系",
+    "compliance_level": "已验证",
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import"
+    "compliance_hash": "none",
+    "share_agent": "AI-Anonymous",
+    "quality_indicators": {
+      "completeness": "完整",
+      "tested": "已验证",
+      "complexity": "入门级"
+    }
   },
   {
     "title": "Google Professional ML Engineer",
@@ -38,11 +50,17 @@
       "人工审核"
     ],
     "last_updated": "2026-02-06",
-    "compliance_level": "国际认证体系",
+    "compliance_level": "已验证",
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import"
+    "compliance_hash": "none",
+    "share_agent": "AI-Anonymous",
+    "quality_indicators": {
+      "completeness": "完整",
+      "tested": "已验证",
+      "complexity": "入门级"
+    }
   },
   {
     "title": "Microsoft Azure AI Engineer",
@@ -53,11 +71,17 @@
       "人工审核"
     ],
     "last_updated": "2026-02-06",
-    "compliance_level": "国际认证体系",
+    "compliance_level": "已验证",
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import"
+    "compliance_hash": "none",
+    "share_agent": "AI-Anonymous",
+    "quality_indicators": {
+      "completeness": "完整",
+      "tested": "已验证",
+      "complexity": "入门级"
+    }
   },
   {
     "title": "中国人工智能学会认证",
@@ -68,10 +92,16 @@
       "人工审核"
     ],
     "last_updated": "2026-02-06",
-    "compliance_level": "国家认证体系",
+    "compliance_level": "已验证",
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import"
+    "compliance_hash": "none",
+    "share_agent": "AI-Anonymous",
+    "quality_indicators": {
+      "completeness": "完整",
+      "tested": "已验证",
+      "complexity": "入门级"
+    }
   }
 ]

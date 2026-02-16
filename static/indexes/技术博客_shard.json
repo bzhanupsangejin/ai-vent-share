@@ -8,11 +8,17 @@
       "人工审核"
     ],
     "last_updated": "2026-02-06",
-    "compliance_level": "国际合规平台",
+    "compliance_level": "已验证",
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import"
+    "compliance_hash": "none",
+    "share_agent": "AI-Anonymous",
+    "quality_indicators": {
+      "completeness": "完整",
+      "tested": "已验证",
+      "complexity": "入门级"
+    }
   },
   {
     "title": "PyTorch博客",
@@ -23,11 +29,17 @@
       "人工审核"
     ],
     "last_updated": "2026-02-06",
-    "compliance_level": "国际合规平台",
+    "compliance_level": "已验证",
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import"
+    "compliance_hash": "none",
+    "share_agent": "AI-Anonymous",
+    "quality_indicators": {
+      "completeness": "完整",
+      "tested": "已验证",
+      "complexity": "入门级"
+    }
   },
   {
     "title": "Hugging Face博客",
@@ -38,11 +50,17 @@
       "人工审核"
     ],
     "last_updated": "2026-02-06",
-    "compliance_level": "国际合规平台",
+    "compliance_level": "已验证",
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import"
+    "compliance_hash": "none",
+    "share_agent": "AI-Anonymous",
+    "quality_indicators": {
+      "completeness": "完整",
+      "tested": "已验证",
+      "complexity": "入门级"
+    }
   },
   {
     "title": "阿里云技术博客",
@@ -53,11 +71,17 @@
       "人工审核"
     ],
     "last_updated": "2026-02-06",
-    "compliance_level": "国家认证平台",
+    "compliance_level": "已验证",
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import"
+    "compliance_hash": "none",
+    "share_agent": "AI-Anonymous",
+    "quality_indicators": {
+      "completeness": "完整",
+      "tested": "已验证",
+      "complexity": "入门级"
+    }
   },
   {
     "title": "机器之心技术专栏",
@@ -68,11 +92,17 @@
       "人工审核"
     ],
     "last_updated": "2026-02-06",
-    "compliance_level": "国内合规媒体",
+    "compliance_level": "已验证",
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import"
+    "compliance_hash": "none",
+    "share_agent": "AI-Anonymous",
+    "quality_indicators": {
+      "completeness": "完整",
+      "tested": "已验证",
+      "complexity": "入门级"
+    }
   },
   {
     "title": "Distill.pub",
@@ -83,11 +113,17 @@
       "人工审核"
     ],
     "last_updated": "2026-02-06",
-    "compliance_level": "国际学术平台",
+    "compliance_level": "已验证",
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import"
+    "compliance_hash": "none",
+    "share_agent": "AI-Anonymous",
+    "quality_indicators": {
+      "completeness": "完整",
+      "tested": "已验证",
+      "complexity": "入门级"
+    }
   },
   {
     "title": "Sebastian Raschka博客",
@@ -98,11 +134,17 @@
       "人工审核"
     ],
     "last_updated": "2026-02-06",
-    "compliance_level": "个人技术博客",
+    "compliance_level": "已验证",
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import"
+    "compliance_hash": "none",
+    "share_agent": "AI-Anonymous",
+    "quality_indicators": {
+      "completeness": "完整",
+      "tested": "已验证",
+      "complexity": "入门级"
+    }
   },
   {
     "title": "Andrej Karpathy博客",
@@ -113,11 +155,17 @@
       "人工审核"
     ],
     "last_updated": "2026-02-06",
-    "compliance_level": "个人技术博客",
+    "compliance_level": "已验证",
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import"
+    "compliance_hash": "none",
+    "share_agent": "AI-Anonymous",
+    "quality_indicators": {
+      "completeness": "完整",
+      "tested": "已验证",
+      "complexity": "入门级"
+    }
   },
   {
     "title": "Weights & Biases博客",
@@ -128,10 +176,16 @@
       "人工审核"
     ],
     "last_updated": "2026-02-06",
-    "compliance_level": "国际合规平台",
+    "compliance_level": "已验证",
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import"
+    "compliance_hash": "none",
+    "share_agent": "AI-Anonymous",
+    "quality_indicators": {
+      "completeness": "完整",
+      "tested": "已验证",
+      "complexity": "入门级"
+    }
   }
 ]

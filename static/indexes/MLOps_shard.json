@@ -8,11 +8,17 @@
       "人工审核"
     ],
     "last_updated": "2026-02-06",
-    "compliance_level": "Apache 2.0开源",
+    "compliance_level": "已验证",
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import"
+    "compliance_hash": "none",
+    "share_agent": "AI-Anonymous",
+    "quality_indicators": {
+      "completeness": "完整",
+      "tested": "已验证",
+      "complexity": "入门级"
+    }
   },
   {
     "title": "Kubeflow",
@@ -23,11 +29,17 @@
       "人工审核"
     ],
     "last_updated": "2026-02-06",
-    "compliance_level": "CNCF毕业项目",
+    "compliance_level": "已验证",
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import"
+    "compliance_hash": "none",
+    "share_agent": "AI-Anonymous",
+    "quality_indicators": {
+      "completeness": "完整",
+      "tested": "已验证",
+      "complexity": "入门级"
+    }
   },
   {
     "title": "MLflow Projects",
@@ -38,11 +50,17 @@
       "人工审核"
     ],
     "last_updated": "2026-02-06",
-    "compliance_level": "Linux基金会项目",
+    "compliance_level": "已验证",
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import"
+    "compliance_hash": "none",
+    "share_agent": "AI-Anonymous",
+    "quality_indicators": {
+      "completeness": "完整",
+      "tested": "已验证",
+      "complexity": "入门级"
+    }
   },
   {
     "title": "DVC Pipelines",
@@ -53,11 +71,17 @@
       "人工审核"
     ],
     "last_updated": "2026-02-06",
-    "compliance_level": "Apache 2.0开源",
+    "compliance_level": "已验证",
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import"
+    "compliance_hash": "none",
+    "share_agent": "AI-Anonymous",
+    "quality_indicators": {
+      "completeness": "完整",
+      "tested": "已验证",
+      "complexity": "入门级"
+    }
   },
   {
     "title": "Flyte",
@@ -68,10 +92,16 @@
       "人工审核"
     ],
     "last_updated": "2026-02-06",
-    "compliance_level": "Linux基金会项目",
+    "compliance_level": "已验证",
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import"
+    "compliance_hash": "none",
+    "share_agent": "AI-Anonymous",
+    "quality_indicators": {
+      "completeness": "完整",
+      "tested": "已验证",
+      "complexity": "入门级"
+    }
   }
 ]

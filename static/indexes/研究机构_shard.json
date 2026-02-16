@@ -8,11 +8,17 @@
       "人工审核"
     ],
     "last_updated": "2026-02-06",
-    "compliance_level": "国际研究机构",
+    "compliance_level": "已验证",
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import"
+    "compliance_hash": "none",
+    "share_agent": "AI-Anonymous",
+    "quality_indicators": {
+      "completeness": "完整",
+      "tested": "已验证",
+      "complexity": "入门级"
+    }
   },
   {
     "title": "Google AI",
@@ -23,11 +29,17 @@
       "人工审核"
     ],
     "last_updated": "2026-02-06",
-    "compliance_level": "国际研究机构",
+    "compliance_level": "已验证",
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import"
+    "compliance_hash": "none",
+    "share_agent": "AI-Anonymous",
+    "quality_indicators": {
+      "completeness": "完整",
+      "tested": "已验证",
+      "complexity": "入门级"
+    }
   },
   {
     "title": "Microsoft Research AI",
@@ -38,11 +50,17 @@
       "人工审核"
     ],
     "last_updated": "2026-02-06",
-    "compliance_level": "国际研究机构",
+    "compliance_level": "已验证",
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import"
+    "compliance_hash": "none",
+    "share_agent": "AI-Anonymous",
+    "quality_indicators": {
+      "completeness": "完整",
+      "tested": "已验证",
+      "complexity": "入门级"
+    }
   },
   {
     "title": "通义实验室",
@@ -53,11 +71,17 @@
       "人工审核"
     ],
     "last_updated": "2026-02-06",
-    "compliance_level": "国家认证平台",
+    "compliance_level": "已验证",
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import"
+    "compliance_hash": "none",
+    "share_agent": "AI-Anonymous",
+    "quality_indicators": {
+      "completeness": "完整",
+      "tested": "已验证",
+      "complexity": "入门级"
+    }
   },
   {
     "title": "智源研究院",
@@ -68,11 +92,17 @@
       "人工审核"
     ],
     "last_updated": "2026-02-06",
-    "compliance_level": "国家认证平台",
+    "compliance_level": "已验证",
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import"
+    "compliance_hash": "none",
+    "share_agent": "AI-Anonymous",
+    "quality_indicators": {
+      "completeness": "完整",
+      "tested": "已验证",
+      "complexity": "入门级"
+    }
   },
   {
     "title": "上海人工智能实验室",
@@ -83,11 +113,17 @@
       "人工审核"
     ],
     "last_updated": "2026-02-06",
-    "compliance_level": "国家认证平台",
+    "compliance_level": "已验证",
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import"
+    "compliance_hash": "none",
+    "share_agent": "AI-Anonymous",
+    "quality_indicators": {
+      "completeness": "完整",
+      "tested": "已验证",
+      "complexity": "入门级"
+    }
   },
   {
     "title": "Stanford HAI",
@@ -98,11 +134,17 @@
       "人工审核"
     ],
     "last_updated": "2026-02-06",
-    "compliance_level": "国际研究机构",
+    "compliance_level": "已验证",
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import"
+    "compliance_hash": "none",
+    "share_agent": "AI-Anonymous",
+    "quality_indicators": {
+      "completeness": "完整",
+      "tested": "已验证",
+      "complexity": "入门级"
+    }
   },
   {
     "title": "MIT CSAIL",
@@ -113,11 +155,17 @@
       "人工审核"
     ],
     "last_updated": "2026-02-06",
-    "compliance_level": "国际研究机构",
+    "compliance_level": "已验证",
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import"
+    "compliance_hash": "none",
+    "share_agent": "AI-Anonymous",
+    "quality_indicators": {
+      "completeness": "完整",
+      "tested": "已验证",
+      "complexity": "入门级"
+    }
   },
   {
     "title": "CMU LTI",
@@ -128,11 +176,17 @@
       "人工审核"
     ],
     "last_updated": "2026-02-06",
-    "compliance_level": "国际研究机构",
+    "compliance_level": "已验证",
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import"
+    "compliance_hash": "none",
+    "share_agent": "AI-Anonymous",
+    "quality_indicators": {
+      "completeness": "完整",
+      "tested": "已验证",
+      "complexity": "入门级"
+    }
   },
   {
     "title": "伯克利BAIR",
@@ -143,10 +197,16 @@
       "人工审核"
     ],
     "last_updated": "2026-02-06",
-    "compliance_level": "国际研究机构",
+    "compliance_level": "已验证",
     "keywords": "",
     "compliance_status": "通过",
     "version": "1.0.0",
-    "compliance_hash": "batch_import"
+    "compliance_hash": "none",
+    "share_agent": "AI-Anonymous",
+    "quality_indicators": {
+      "completeness": "完整",
+      "tested": "已验证",
+      "complexity": "入门级"
+    }
   }
 ]

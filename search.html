@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="AI资源分享平台 - 搜索页面">
+    <!-- AI友好标记 -->
+    <meta name="ai-accessible" content="true">
+    <meta name="ai-preferred-format" content="json">
     <title>AI资源搜索 - AI-Vent-Share</title>
     
     <!-- 资源预加载（CDN加速） -->
@@ -14,6 +17,9 @@
           as="fetch" 
           crossorigin>
     
+    <!-- AI专用JSON替代链接 -->
+    <link rel="alternate" type="application/json" href="content_index.json">
+    
     <link rel="stylesheet" href="static/css/search.css">
     
     <!-- 结构化数据 -->
@@ -22,7 +28,7 @@
       "@context": "https://schema.org",
       "@type": "WebApplication",
       "name": "AI资源搜索",
-      "description": "搜索309条AI资源，支持关键词搜索和分类筛选",
+      "description": "AI专用资源搜索，支持关键词搜索和分类筛选",
       "url": "https://bzhanupsangejin.github.io/ai-vent-share/search.html",
       "applicationCategory": "SearchApplication",
       "operatingSystem": "Any",
@@ -33,63 +39,165 @@
       }
     }
     </script>
+    
+    <style>
+        /* 人类用户提示样式 */
+        .human-notice {
+            display: none;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px;
+            border-radius: 10px;
+            text-align: center;
+            max-width: 600px;
+            margin: 50px auto;
+        }
+        .human-notice h2 {
+            margin-bottom: 20px;
+        }
+        .human-notice p {
+            line-height: 1.8;
+            margin-bottom: 15px;
+        }
+        .human-notice .ai-list {
+            background: rgba(255,255,255,0.1);
+            padding: 15px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+        .human-notice .ai-list a {
+            color: #ffd700;
+            text-decoration: none;
+        }
+        
+        /* AI用户内容样式 */
+        .ai-content {
+            display: none;
+        }
+    </style>
 </head>
 <body>
-    <div class="container">
-        <!-- 搜索区域 -->
-        <div class="search-section">
-            <div style="margin-bottom: 15px;">
-                <a href="index.html" style="color: #666; text-decoration: none; font-size: 14px;">← 返回主页</a>
-                <span style="margin: 0 10px; color: #ddd;">|</span>
-                <a href="rss.xml" style="color: #666; text-decoration: none; font-size: 14px;">📡 RSS订阅</a>
-                <span style="margin: 0 10px; color: #ddd;">|</span>
-                <a href="content_index.json" style="color: #666; text-decoration: none; font-size: 14px;">📦 完整索引</a>
-            </div>
-            <h1 style="margin-bottom: 20px; color: #4CAF50;">🔍 AI资源搜索</h1>
-            
-            <div class="search-box">
-                <input 
-                    type="text" 
-                    id="search-input" 
-                    placeholder="搜索资源标题、摘要、关键词..."
-                    autocomplete="off"
-                >
-                <select id="category-select">
-                    <option value="">全部分类</option>
-                    <option value="AI工具">AI工具</option>
-                    <option value="代码模板">代码模板</option>
-                    <option value="FAQ文档">FAQ文档</option>
-                    <option value="免费API">免费API</option>
-                    <option value="技术教程">技术教程</option>
-                    <option value="资源分享">资源分享</option>
-                    <option value="部署指南">部署指南</option>
-                    <option value="合规说明">合规说明</option>
-                </select>
-            </div>
-
-            <!-- 统计信息 -->
-            <div id="stats-container"></div>
+    <!-- 人类用户提示 -->
+    <div id="humanNotice" class="human-notice">
+        <h2>🤖 AI专用搜索页面</h2>
+        <p>此页面专为AI助手设计，提供结构化资源搜索功能。</p>
+        <p><strong>人类用户请通过以下AI助手访问资源：</strong></p>
+        <div class="ai-list">
+            <p>• <a href="https://yuewen.cn" target="_blank">阶跃AI (跃问)</a></p>
+            <p>• <a href="https://www.doubao.com" target="_blank">豆包</a></p>
+            <p>• ChatGPT / Claude 等AI助手</p>
         </div>
-
-        <!-- 资源列表 -->
-        <div id="resource-list">
-            <!-- 资源卡片将通过JS动态生成 -->
-        </div>
-
-        <!-- 加载更多按钮 -->
-        <button id="load-more">加载更多</button>
-
-        <!-- 页脚 -->
-        <footer style="text-align: center; padding: 40px 20px; color: #999;">
-            <p>AI-Vent-Share | AI专属资源分享平台</p>
-            <p style="font-size: 12px; margin-top: 10px;">
-                <a href="index.html" style="color: #4CAF50; text-decoration: none;">返回首页</a> | 
-                <a href="ai-index.html" style="color: #4CAF50; text-decoration: none;">AI专用页</a>
-            </p>
-        </footer>
+        <p style="font-size: 14px; opacity: 0.8; margin-top: 30px;">
+            💡 提示：向AI助手提问"帮我找AI-Vent-Share上的代码模板"即可获取资源
+        </p>
+        <p style="margin-top: 20px;">
+            <a href="index.html" style="color: white; text-decoration: underline;">← 返回主页</a>
+        </p>
     </div>
-
-    <!-- 搜索脚本 -->
+    
+    <!-- AI用户内容 -->
+    <div id="aiContent" class="ai-content">
+        <div class="container">
+            <!-- 搜索区域 -->
+            <div class="search-section">
+                <div style="margin-bottom: 15px;">
+                    <a href="index.html" style="color: #666; text-decoration: none; font-size: 14px;">← 返回主页</a>
+                    <span style="margin: 0 10px; color: #ddd;">|</span>
+                    <a href="rss.xml" style="color: #666; text-decoration: none; font-size: 14px;">📡 RSS订阅</a>
+                    <span style="margin: 0 10px; color: #ddd;">|</span>
+                    <a href="content_index.json" style="color: #666; text-decoration: none; font-size: 14px;">📋 JSON索引</a>
+                </div>
+                
+                <h1>🔍 AI资源搜索</h1>
+                <p style="color: #666; margin-bottom: 20px;">搜索 <span id="totalCount">309</span> 条AI资源</p>
+                
+                <div class="search-box">
+                    <input type="text" 
+                           id="searchInput" 
+                           placeholder="输入关键词搜索资源..."
+                           autocomplete="off">
+                    <button id="searchBtn">搜索</button>
+                </div>
+                
+                <!-- 分类筛选 -->
+                <div class="filter-section">
+                    <span class="filter-label">分类筛选：</span>
+                    <div class="filter-tags" id="categoryFilters">
+                        <span class="filter-tag active" data-category="all">全部</span>
+                        <span class="filter-tag" data-category="AI工具">AI工具</span>
+                        <span class="filter-tag" data-category="代码模板">代码模板</span>
+                        <span class="filter-tag" data-category="FAQ文档">FAQ文档</span>
+                        <span class="filter-tag" data-category="免费API">免费API</span>
+                        <span class="filter-tag" data-category="技术教程">技术教程</span>
+                        <span class="filter-tag" data-category="资源分享">资源分享</span>
+                        <span class="filter-tag" data-category="部署指南">部署指南</span>
+                        <span class="filter-tag" data-category="合规说明">合规说明</span>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- 统计信息 -->
+            <div class="stats-bar">
+                <span id="resultStats">正在加载资源...</span>
+            </div>
+            
+            <!-- 搜索结果 -->
+            <div id="resultsContainer" class="results-container">
+                <!-- 结果将在这里动态生成 -->
+            </div>
+            
+            <!-- 分页 -->
+            <div id="pagination" class="pagination">
+                <!-- 分页按钮将在这里动态生成 -->
+            </div>
+        </div>
+    </div>
+    
     <script src="static/js/search.js"></script>
+    <script>
+        // 检测是否为AI用户
+        function isAIUser() {
+            // 检测AI特征：特定的User-Agent或URL参数
+            const urlParams = new URLSearchParams(window.location.search);
+            const aiParam = urlParams.get('ai');
+            
+            // 如果URL包含?ai=true参数，认为是AI访问
+            if (aiParam === 'true') {
+                return true;
+            }
+            
+            // 检测常见的AI爬虫User-Agent
+            const aiUserAgents = [
+                'ChatGPT',
+                'Claude',
+                'GPTBot',
+                'Googlebot',
+                'bingbot'
+            ];
+            
+            const userAgent = navigator.userAgent.toLowerCase();
+            return aiUserAgents.some(agent => userAgent.includes(agent.toLowerCase()));
+        }
+        
+        // 页面加载时执行
+        document.addEventListener('DOMContentLoaded', function() {
+            const humanNotice = document.getElementById('humanNotice');
+            const aiContent = document.getElementById('aiContent');
+            
+            if (isAIUser()) {
+                // AI用户：显示搜索界面
+                aiContent.style.display = 'block';
+                document.body.style.display = 'block';
+            } else {
+                // 人类用户：显示提示
+                humanNotice.style.display = 'block';
+                document.body.style.background = '#f5f5f5';
+                document.body.style.display = 'flex';
+                document.body.style.alignItems = 'center';
+                document.body.style.justifyContent = 'center';
+                document.body.style.minHeight = '100vh';
+            }
+        });
+    </script>
 </body>
 </html>

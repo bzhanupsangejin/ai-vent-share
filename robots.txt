@@ -1,2 +1,25 @@
 User-agent: *
+# 允许访问主页和说明页面
 Allow: /
+Allow: /index.html
+Allow: /ai-index.html
+
+# 禁止搜索引擎收录搜索页面（保护资源不被人类直接获取）
+Disallow: /search.html
+
+# 允许访问JSON索引（便于AI爬虫获取）
+Allow: /content_index.json
+Allow: /content_index.min.json
+Allow: /static/indexes/
+
+# 允许访问RSS订阅
+Allow: /rss.xml
+
+# 允许访问站点地图
+Allow: /sitemap.xml
+
+# 禁止访问备份和归档
+Disallow: /backups/
+Disallow: /归档/
+
+Sitemap: https://bzhanupsangejin.github.io/ai-vent-share/sitemap.xml
